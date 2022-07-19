@@ -1,0 +1,1124 @@
+index  label   sentence    POS w_index
+Vec1-fragment01 7101	1	Het openbreken van de stroommarkt is een nieuwe testcase voor de liberalisering van sectoren . 	VERB	2
+Vec1-fragment01 7102	0	Het openbreken van de stroommarkt is een nieuwe testcase voor de liberalisering van sectoren . 	VERB	6
+Vec1-fragment01 7103	0	Het kabinet wil dankzij de introductie van concurrentie lagere prijzen en een betere kwaliteit voor zakelijke en particuliere klanten bewerkstelligen . 	VERB	3
+Vec1-fragment01 7104	0	Het kabinet wil dankzij de introductie van concurrentie lagere prijzen en een betere kwaliteit voor zakelijke en particuliere klanten bewerkstelligen . 	VERB	20
+Vec1-fragment01 7105	1	Voor consumenten gaat de stroommarkt overigens pas in 2004 open . 	VERB	3
+Vec1-fragment01 7106	1	Experimenten met een vrije markt op het spoor en in telecom liepen echter deels op een deceptie uit . 	VERB	12
+Vec1-fragment01 7107	1	' Ik houd ook bij stroom mijn hart vast ' , zegt secretaris milieu en energie H. de Groot van werkgeversvereniging MKB . 	VERB	3
+Vec1-fragment01 7108	0	' Ik houd ook bij stroom mijn hart vast ' , zegt secretaris milieu en energie H. de Groot van werkgeversvereniging MKB . 	VERB	12
+Vec1-fragment01 7109	0	' Als middelgrote bedrijven de komende maanden te weinig kunnen besparen , hoeven kleine bedrijven en consumenten in 2004 helemaal niet op lagere tarieven te rekenen . 	VERB	6
+Vec1-fragment01 7110	0	' Als middelgrote bedrijven de komende maanden te weinig kunnen besparen , hoeven kleine bedrijven en consumenten in 2004 helemaal niet op lagere tarieven te rekenen . 	VERB	10
+Vec1-fragment01 7111	1	' Als middelgrote bedrijven de komende maanden te weinig kunnen besparen , hoeven kleine bedrijven en consumenten in 2004 helemaal niet op lagere tarieven te rekenen . 	VERB	11
+Vec1-fragment01 7112	0	' Als middelgrote bedrijven de komende maanden te weinig kunnen besparen , hoeven kleine bedrijven en consumenten in 2004 helemaal niet op lagere tarieven te rekenen . 	VERB	13
+Vec1-fragment01 7113	1	' Als middelgrote bedrijven de komende maanden te weinig kunnen besparen , hoeven kleine bedrijven en consumenten in 2004 helemaal niet op lagere tarieven te rekenen . 	VERB	26
+Vec1-fragment01 7114	1	Vooralsnog staan de tarieven onder druk . 	VERB	2
+Vec1-fragment01 7115	0	Stroomprijzen voor nieuwe contracten zijn met 10 a 15 procent gedaald , stellen marktpartijen . 	VERB	5
+Vec1-fragment01 7116	1	Stroomprijzen voor nieuwe contracten zijn met 10 a 15 procent gedaald , stellen marktpartijen . 	VERB	11
+Vec1-fragment01 7117	1	Stroomprijzen voor nieuwe contracten zijn met 10 a 15 procent gedaald , stellen marktpartijen . 	VERB	13
+Vec1-fragment01 7118	1	Essent vindt de prijsdalingen onverantwoord . 	VERB	2
+Vec1-fragment01 7119	1	Het energiebedrijf kent ook de groothandelsprijzen van stroom , en betwijfelt of de prijsvechters nog winst kunnen halen . 	VERB	3
+Vec1-fragment01 7120	1	Het energiebedrijf kent ook de groothandelsprijzen van stroom , en betwijfelt of de prijsvechters nog winst kunnen halen . 	VERB	11
+Vec1-fragment01 7121	0	Het energiebedrijf kent ook de groothandelsprijzen van stroom , en betwijfelt of de prijsvechters nog winst kunnen halen . 	VERB	17
+Vec1-fragment01 7122	1	Het energiebedrijf kent ook de groothandelsprijzen van stroom , en betwijfelt of de prijsvechters nog winst kunnen halen . 	VERB	18
+Vec1-fragment01 7123	1	' Als de markt opengaat , zijn er altijd prijsstunters ' , zegt Essent . 	VERB	5
+Vec1-fragment01 7124	0	' Als de markt opengaat , zijn er altijd prijsstunters ' , zegt Essent . 	VERB	7
+Vec1-fragment01 7125	1	' Als de markt opengaat , zijn er altijd prijsstunters ' , zegt Essent . 	VERB	13
+Vec1-fragment01 7126	1	' Nieuwkomers kennen echter een andere structuur ' , meent Zwartkruis . 	VERB	3
+Vec1-fragment01 7127	0	' Nieuwkomers kennen echter een andere structuur ' , meent Zwartkruis . 	VERB	10
+Vec1-fragment01 7128	0	' Oude nutsbedrijven zijn vaak logger en duurder in de kosten . 	VERB	4
+Vec1-fragment01 7129	1	Dat nieuwkomers vooral hun prijzen verlagen , valt overigens goed te begrijpen . 	VERB	6
+Vec1-fragment01 7130	1	Dat nieuwkomers vooral hun prijzen verlagen , valt overigens goed te begrijpen . 	VERB	8
+Vec1-fragment01 7131	0	Dat nieuwkomers vooral hun prijzen verlagen , valt overigens goed te begrijpen . 	VERB	12
+Vec1-fragment01 7132	0	Op de kwaliteit van stroom valt niet te concurreren . 	VERB	6
+Vec1-fragment01 7133	0	Op de kwaliteit van stroom valt niet te concurreren . 	VERB	9
+Vec1-fragment01 7134	0	Elke aanbieder levert immers exact dezelfde elektriciteit . 	VERB	3
+Vec1-fragment01 7135	0	Nieuwkomers kunnen ook proberen betere service te leveren . 	VERB	2
+Vec1-fragment01 7136	0	Nieuwkomers kunnen ook proberen betere service te leveren . 	VERB	4
+Vec1-fragment01 7137	0	Nieuwkomers kunnen ook proberen betere service te leveren . 	VERB	8
+Vec1-fragment01 7138	0	Bij de veelal logge nutsbedrijven zijn klantmanagers geregeld onbereikbaar of zelfs niet eens toegewezen . 	VERB	6
+Vec1-fragment01 7139	1	Bij de veelal logge nutsbedrijven zijn klantmanagers geregeld onbereikbaar of zelfs niet eens toegewezen . 	VERB	8
+Vec1-fragment01 7140	0	Bij de veelal logge nutsbedrijven zijn klantmanagers geregeld onbereikbaar of zelfs niet eens toegewezen . 	VERB	14
+Vec1-fragment01 7141	0	Stroomrekeningen zijn voor een leek bovendien onleesbaar , terwijl het doorspitten van de nota's wel degelijk geld kan opleveren . 	VERB	2
+Vec1-fragment01 7142	0	Stroomrekeningen zijn voor een leek bovendien onleesbaar , terwijl het doorspitten van de nota's wel degelijk geld kan opleveren . 	VERB	5
+Vec1-fragment01 7143	1	Stroomrekeningen zijn voor een leek bovendien onleesbaar , terwijl het doorspitten van de nota's wel degelijk geld kan opleveren . 	VERB	11
+Vec1-fragment01 7144	0	Stroomrekeningen zijn voor een leek bovendien onleesbaar , terwijl het doorspitten van de nota's wel degelijk geld kan opleveren . 	VERB	18
+Vec1-fragment01 7145	0	Stroomrekeningen zijn voor een leek bovendien onleesbaar , terwijl het doorspitten van de nota's wel degelijk geld kan opleveren . 	VERB	19
+Vec1-fragment01 7146	1	Stroombedrijven organiseren tegen betaling zelfs werkgroepen waarin inkopers van bedrijven hun stroomrekening leren lezen . 	VERB	2
+Vec1-fragment01 7147	0	Stroombedrijven organiseren tegen betaling zelfs werkgroepen waarin inkopers van bedrijven hun stroomrekening leren lezen . 	VERB	13
+Vec1-fragment01 7148	0	Stroombedrijven organiseren tegen betaling zelfs werkgroepen waarin inkopers van bedrijven hun stroomrekening leren lezen . 	VERB	14
+Vec1-fragment01 7149	1	' Onze adviseurs geven ook tips om stroom te besparen ' , zegt Zwartkruis van Spark . 	VERB	4
+Vec1-fragment01 7150	1	' Onze adviseurs geven ook tips om stroom te besparen ' , zegt Zwartkruis van Spark . 	VERB	10
+Vec1-fragment01 7151	0	' Onze adviseurs geven ook tips om stroom te besparen ' , zegt Zwartkruis van Spark . 	VERB	13
+Vec1-fragment01 7152	1	' Jarenlang keek niemand om naar de stroomrekening . 	VERB	3
+Vec1-fragment01 7153	0	De betaling verliep toch automatisch . 	VERB	3
+Vec1-fragment01 7154	1	Door goed naar het stroomverbruik te kijken , kun je geld besparen . 	VERB	7
+Vec1-fragment01 7155	0	Door goed naar het stroomverbruik te kijken , kun je geld besparen . 	VERB	9
+Vec1-fragment01 7156	0	Door goed naar het stroomverbruik te kijken , kun je geld besparen . 	VERB	12
+Vec1-fragment01 7157	0	Op jaarbasis besparen ondernemers zo'n vijfduizend euro , aldus het MKB . 	VERB	3
+Vec1-fragment01 7158	1	Veel bedrijven stappen echter nog niet over naar een andere leverancier . 	VERB	3
+Vec1-fragment01 7159	1	Zij vinden diverse blokkades op hun weg . 	VERB	2
+Vec1-fragment01 7160	1	Veel energiebedrijven houden hun klanten aan een opzegtermijn van zes maanden . 	VERB	3
+Vec1-fragment01 7161	1	Alleen het Utrechtse Remu stelt zich coulanter op . 	VERB	5
+Vec1-fragment01 7162	0	Als bedrijven tegen hun zin aan een contract worden gehouden , zullen ze in de toekomst nooit meer terugkeren , zo redeneert Remu . 	VERB	9
+Vec1-fragment01 7163	1	Als bedrijven tegen hun zin aan een contract worden gehouden , zullen ze in de toekomst nooit meer terugkeren , zo redeneert Remu . 	VERB	10
+Vec1-fragment01 7164	0	Als bedrijven tegen hun zin aan een contract worden gehouden , zullen ze in de toekomst nooit meer terugkeren , zo redeneert Remu . 	VERB	12
+Vec1-fragment01 7165	1	Als bedrijven tegen hun zin aan een contract worden gehouden , zullen ze in de toekomst nooit meer terugkeren , zo redeneert Remu . 	VERB	19
+Vec1-fragment01 7166	0	Als bedrijven tegen hun zin aan een contract worden gehouden , zullen ze in de toekomst nooit meer terugkeren , zo redeneert Remu . 	VERB	22
+Vec1-fragment01 7167	0	Als grote bedrijven niet de juiste energiemeters hebben geinstalleerd , kunnen ze moeilijk naar een andere leverancier overstappen . 	VERB	8
+Vec1-fragment01 7168	0	Als grote bedrijven niet de juiste energiemeters hebben geinstalleerd , kunnen ze moeilijk naar een andere leverancier overstappen . 	VERB	9
+Vec1-fragment01 7169	0	Als grote bedrijven niet de juiste energiemeters hebben geinstalleerd , kunnen ze moeilijk naar een andere leverancier overstappen . 	VERB	11
+Vec1-fragment01 7170	1	Als grote bedrijven niet de juiste energiemeters hebben geinstalleerd , kunnen ze moeilijk naar een andere leverancier overstappen . 	VERB	18
+Vec1-fragment01 7171	0	Klanten mogen hun rekening wel op een ' profiel ' van een gelijkwaardige gebruiker laten baseren . 	VERB	2
+Vec1-fragment01 7172	0	Klanten mogen hun rekening wel op een ' profiel ' van een gelijkwaardige gebruiker laten baseren . 	VERB	15
+Vec1-fragment01 7173	0	Klanten mogen hun rekening wel op een ' profiel ' van een gelijkwaardige gebruiker laten baseren . 	VERB	16
+Vec1-fragment01 7174	1	Maar zij hebben hun stroomkosten daarmee niet zelf in de hand . 	VERB	3
+Vec1-fragment01 7175	0	Door gebrekkige informatie zijn veel ondernemers bovendien nauwelijks op de hoogte van de vrije markt . 	VERB	4
+Vec1-fragment01 7176	1	Al deze blokkades leiden er volgens het MKB toe dat tienduizenden bedrijven geen overstap naar een andere leverancier waagden . 	VERB	4
+Vec1-fragment01 7177	0	Al deze blokkades leiden er volgens het MKB toe dat tienduizenden bedrijven geen overstap naar een andere leverancier waagden . 	VERB	19
+Vec1-fragment01 7178	1	Bedrijven die wel overstapten , ondervonden vooralsnog geen acute problemen . 	VERB	4
+Vec1-fragment01 7179	1	Bedrijven die wel overstapten , ondervonden vooralsnog geen acute problemen . 	VERB	6
+Vec1-fragment01 7180	0	Nergens zijn bijvoorbeeld bedrijven tijdelijk afgesloten van stroom . 	VERB	2
+Vec1-fragment01 7181	1	Nergens zijn bijvoorbeeld bedrijven tijdelijk afgesloten van stroom . 	VERB	6
+Vec1-fragment01 7182	1	Marktpartijen houden de komende weken wel rekening met administratieve missers . 	VERB	2
+Vec1-fragment01 7183	0	Marktpartijen houden de komende weken wel rekening met administratieve missers . 	VERB	4
+Vec1-fragment01 7184	0	Een bedrijf met een nieuw contract moet niet vreemd opkijken als de oude leverancier eind januari nog een nota verstuurt . 	VERB	7
+Vec1-fragment01 7185	1	Een bedrijf met een nieuw contract moet niet vreemd opkijken als de oude leverancier eind januari nog een nota verstuurt . 	VERB	10
+Vec1-fragment01 7186	0	Een bedrijf met een nieuw contract moet niet vreemd opkijken als de oude leverancier eind januari nog een nota verstuurt . 	VERB	20
+Vec2-fragment01 7187	1	NMa grijpt in bij te hoge europrijzen 	VERB	0
+Vec2-fragment01 7188	0	waakhond NMa gaat mogelijke verhogingen door de invoering van de euro aanpakken . 	VERB	3
+Vec2-fragment01 7189	1	waakhond NMa gaat mogelijke verhogingen door de invoering van de euro aanpakken . 	VERB	12
+Vec2-fragment01 7190	0	Als eind deze maand blijkt dat ondernemers de introductie van de euro hebben aangegrepen om hun prijzen te verhogen , volgen boetes . 	VERB	5
+Vec2-fragment01 7191	0	Als eind deze maand blijkt dat ondernemers de introductie van de euro hebben aangegrepen om hun prijzen te verhogen , volgen boetes . 	VERB	13
+Vec2-fragment01 7192	1	Als eind deze maand blijkt dat ondernemers de introductie van de euro hebben aangegrepen om hun prijzen te verhogen , volgen boetes . 	VERB	14
+Vec2-fragment01 7193	1	Als eind deze maand blijkt dat ondernemers de introductie van de euro hebben aangegrepen om hun prijzen te verhogen , volgen boetes . 	VERB	19
+Vec2-fragment01 7194	1	Als eind deze maand blijkt dat ondernemers de introductie van de euro hebben aangegrepen om hun prijzen te verhogen , volgen boetes . 	VERB	21
+Vec2-fragment01 7195	0	' Als prijsstijgingen niet zijn te verklaren door gestegen kosten van bijvoorbeeld grondstoffen of lonen , grijpen we in ' , zegt een woordvoerder . 	VERB	5
+Vec2-fragment01 7196	0	' Als prijsstijgingen niet zijn te verklaren door gestegen kosten van bijvoorbeeld grondstoffen of lonen , grijpen we in ' , zegt een woordvoerder . 	VERB	7
+Vec2-fragment01 7197	1	' Als prijsstijgingen niet zijn te verklaren door gestegen kosten van bijvoorbeeld grondstoffen of lonen , grijpen we in ' , zegt een woordvoerder . 	VERB	9
+Vec2-fragment01 7198	1	' Als prijsstijgingen niet zijn te verklaren door gestegen kosten van bijvoorbeeld grondstoffen of lonen , grijpen we in ' , zegt een woordvoerder . 	VERB	17
+Vec2-fragment01 7199	0	' Als prijsstijgingen niet zijn te verklaren door gestegen kosten van bijvoorbeeld grondstoffen of lonen , grijpen we in ' , zegt een woordvoerder . 	VERB	22
+Vec2-fragment01 7200	0	Als een ondernemer ongestraft zijn prijzen kan verhogen , duidt dat volgens de mededingingsautoriteit op een gebrek aan concurrentie . 	VERB	5
+Vec2-fragment01 7201	0	Als een ondernemer ongestraft zijn prijzen kan verhogen , duidt dat volgens de mededingingsautoriteit op een gebrek aan concurrentie . 	VERB	7
+Vec2-fragment01 7202	1	Als een ondernemer ongestraft zijn prijzen kan verhogen , duidt dat volgens de mededingingsautoriteit op een gebrek aan concurrentie . 	VERB	8
+Vec2-fragment01 7203	1	Als een ondernemer ongestraft zijn prijzen kan verhogen , duidt dat volgens de mededingingsautoriteit op een gebrek aan concurrentie . 	VERB	10
+Vec2-fragment01 7204	0	Ook als uit internationale prijsvergelijking blijkt dat bepaalde producten in Nederland aanzienlijk duurder zijn dan elders in Europa , stelt de NMa een onderzoek in . 	VERB	6
+Vec2-fragment01 7205	0	Ook als uit internationale prijsvergelijking blijkt dat bepaalde producten in Nederland aanzienlijk duurder zijn dan elders in Europa , stelt de NMa een onderzoek in . 	VERB	8
+Vec2-fragment01 7206	0	Ook als uit internationale prijsvergelijking blijkt dat bepaalde producten in Nederland aanzienlijk duurder zijn dan elders in Europa , stelt de NMa een onderzoek in . 	VERB	14
+Vec2-fragment01 7207	0	Ook als uit internationale prijsvergelijking blijkt dat bepaalde producten in Nederland aanzienlijk duurder zijn dan elders in Europa , stelt de NMa een onderzoek in . 	VERB	20
+Vec2-fragment01 7208	1	Het Nationaal Forum voor de introductie van de euro ontkent dat er sprake zou zijn van eurogerelateerde prijsstijgingen . 	VERB	10
+Vec2-fragment01 7209	0	Het Nationaal Forum voor de introductie van de euro ontkent dat er sprake zou zijn van eurogerelateerde prijsstijgingen . 	VERB	14
+Vec2-fragment01 7210	0	Het Nationaal Forum voor de introductie van de euro ontkent dat er sprake zou zijn van eurogerelateerde prijsstijgingen . 	VERB	15
+Vec2-fragment01 7211	1	Ook volgens H. Kok , voorzitter van de Raad Nederlandse Detailhandel , stijgen de prijzen niet door de komst van de euro . 	VERB	13
+Vec2-fragment01 7212	1	Toch regent het klachten bij de Consumentenbond . 	VERB	2
+Vec2-fragment01 7213	0	Uit onderzoek van Intomart in opdracht van RTL Nieuws blijkt dat tweederde van de Nederlanders denkt dat de invoering van de euro voor meer dan normale prijsstijgingen heeft gezorgd sinds het begin van dit jaar . 	VERB	10
+Vec2-fragment01 7214	0	Uit onderzoek van Intomart in opdracht van RTL Nieuws blijkt dat tweederde van de Nederlanders denkt dat de invoering van de euro voor meer dan normale prijsstijgingen heeft gezorgd sinds het begin van dit jaar . 	VERB	12
+Vec2-fragment01 7215	0	Uit onderzoek van Intomart in opdracht van RTL Nieuws blijkt dat tweederde van de Nederlanders denkt dat de invoering van de euro voor meer dan normale prijsstijgingen heeft gezorgd sinds het begin van dit jaar . 	VERB	16
+Vec2-fragment01 7216	0	Uit onderzoek van Intomart in opdracht van RTL Nieuws blijkt dat tweederde van de Nederlanders denkt dat de invoering van de euro voor meer dan normale prijsstijgingen heeft gezorgd sinds het begin van dit jaar . 	VERB	28
+Vec2-fragment01 7217	1	Uit onderzoek van Intomart in opdracht van RTL Nieuws blijkt dat tweederde van de Nederlanders denkt dat de invoering van de euro voor meer dan normale prijsstijgingen heeft gezorgd sinds het begin van dit jaar . 	VERB	29
+Vec2-fragment01 7218	0	' We zijn een klagend volkje ' , reageert een woordvoerder van het Euroforum . 	VERB	3
+Vec2-fragment01 7219	0	' We zijn een klagend volkje ' , reageert een woordvoerder van het Euroforum . 	VERB	5
+Vec2-fragment01 7220	1	' We zijn een klagend volkje ' , reageert een woordvoerder van het Euroforum . 	VERB	9
+Vec2-fragment01 7221	1	' In januari gaan de prijzen altijd omhoog . 	VERB	4
+Vec2-fragment01 7222	0	Dat heeft met de euro niets te maken . 	VERB	2
+Vec2-fragment01 7223	1	Dat heeft met de euro niets te maken . 	VERB	8
+Vec2-fragment01 7224	1	Het gemiddelde prijspeil van januari wijkt volgens J. Walschots , inflatiedeskundige van het CBS , jaarlijks nauwelijks af van dat van de decembermaand ervoor . 	VERB	6
+Vec2-fragment01 7225	1	' Aan de ene kant stijgen op 1 januari jaarlijks de prijzen van producten als energie , water en strippenkaarten . 	VERB	6
+Vec2-fragment01 7226	1	Aan de andere kant kent januari het zogeheten uitverkoopeffect . 	VERB	5
+Vec2-fragment01 7227	0	Kleding en schoeisel zijn in januari zo'n 10 procent goedkoper dan normaal . 	VERB	4
+Vec2-fragment01 7228	0	Minister Zalm van Financien heeft beloofd dat de komst van de euro niet tot een hoger prijspeil zou leiden . 	VERB	5
+Vec2-fragment01 7229	0	Minister Zalm van Financien heeft beloofd dat de komst van de euro niet tot een hoger prijspeil zou leiden . 	VERB	6
+Vec2-fragment01 7230	0	Minister Zalm van Financien heeft beloofd dat de komst van de euro niet tot een hoger prijspeil zou leiden . 	VERB	18
+Vec2-fragment01 7231	1	Minister Zalm van Financien heeft beloofd dat de komst van de euro niet tot een hoger prijspeil zou leiden . 	VERB	19
+Vec2-fragment01 7232	0	' Als blijkt dat er toch grote verhogingen zijn door de euro , dan zullen we de minister daar zeker op aanspreken ' , reageert K. Vendrik , financieel woordvoerder van GroenLinks . 	VERB	3
+Vec2-fragment01 7233	0	' Als blijkt dat er toch grote verhogingen zijn door de euro , dan zullen we de minister daar zeker op aanspreken ' , reageert K. Vendrik , financieel woordvoerder van GroenLinks . 	VERB	9
+Vec2-fragment01 7234	0	' Als blijkt dat er toch grote verhogingen zijn door de euro , dan zullen we de minister daar zeker op aanspreken ' , reageert K. Vendrik , financieel woordvoerder van GroenLinks . 	VERB	15
+Vec2-fragment01 7235	0	' Als blijkt dat er toch grote verhogingen zijn door de euro , dan zullen we de minister daar zeker op aanspreken ' , reageert K. Vendrik , financieel woordvoerder van GroenLinks . 	VERB	22
+Vec2-fragment01 7236	1	' Als blijkt dat er toch grote verhogingen zijn door de euro , dan zullen we de minister daar zeker op aanspreken ' , reageert K. Vendrik , financieel woordvoerder van GroenLinks . 	VERB	25
+Vec2-fragment01 7237	0	De Consumentenbond heeft van Financien geld gekregen om eventuele prijsstijgingen bij te houden . 	VERB	3
+Vec2-fragment01 7238	1	De Consumentenbond heeft van Financien geld gekregen om eventuele prijsstijgingen bij te houden . 	VERB	7
+Vec2-fragment01 7239	1	De Consumentenbond heeft van Financien geld gekregen om eventuele prijsstijgingen bij te houden . 	VERB	13
+Vec2-fragment01 7240	1	De eerste resultaten van het onderzoek komen eind januari . 	VERB	7
+Vec2-fragment01 7241	1	De bond houdt op internet een ' zwarte ' lijst bij van bedrijven die zich schuldig maken aan prijsstijgingen door de euro . 	VERB	3
+Vec2-fragment01 7242	1	De bond houdt op internet een ' zwarte ' lijst bij van bedrijven die zich schuldig maken aan prijsstijgingen door de euro . 	VERB	17
+Vku1-fragment01 7243	0	Heel Hollywood wil met hem werken , want alles wat hij aanraakt , verandert in goud . 	VERB	3
+Vku1-fragment01 7244	0	Heel Hollywood wil met hem werken , want alles wat hij aanraakt , verandert in goud . 	VERB	6
+Vku1-fragment01 7245	1	Heel Hollywood wil met hem werken , want alles wat hij aanraakt , verandert in goud . 	VERB	12
+Vku1-fragment01 7246	0	Heel Hollywood wil met hem werken , want alles wat hij aanraakt , verandert in goud . 	VERB	14
+Vku1-fragment01 7247	0	Dat is zo ongeveer de jubelstemming die regisseur Steven Soderbergh omgeeft , sinds hij met Erin Brockovich en Traffic twee klappers binnen een jaar maakte . 	VERB	2
+Vku1-fragment01 7248	1	Dat is zo ongeveer de jubelstemming die regisseur Steven Soderbergh omgeeft , sinds hij met Erin Brockovich en Traffic twee klappers binnen een jaar maakte . 	VERB	11
+Vku1-fragment01 7249	0	Dat is zo ongeveer de jubelstemming die regisseur Steven Soderbergh omgeeft , sinds hij met Erin Brockovich en Traffic twee klappers binnen een jaar maakte . 	VERB	25
+Vku1-fragment01 7250	0	De roem is terecht . 	VERB	3
+Vku1-fragment01 7251	1	Het komt niet vaak voor dat een regisseur zichzelf beconcurreert tijdens een Oscaruitreiking , en ook nog als grote winnaar uit de bus komt . 	VERB	2
+Vku1-fragment01 7252	0	Het komt niet vaak voor dat een regisseur zichzelf beconcurreert tijdens een Oscaruitreiking , en ook nog als grote winnaar uit de bus komt . 	VERB	10
+Vku1-fragment01 7253	1	Het komt niet vaak voor dat een regisseur zichzelf beconcurreert tijdens een Oscaruitreiking , en ook nog als grote winnaar uit de bus komt . 	VERB	24
+Vku1-fragment01 7254	1	Het komt evenmin vaak voor dat een regisseur even geliefd is bij het publiek als bij de critici , gewild is door acteurs , producenten en studiobazen , terwijl hij er een werktempo op nahoudt dat de meeste collega's naar adem doet happen . 	VERB	2
+Vku1-fragment01 7255	0	Het komt evenmin vaak voor dat een regisseur even geliefd is bij het publiek als bij de critici , gewild is door acteurs , producenten en studiobazen , terwijl hij er een werktempo op nahoudt dat de meeste collega's naar adem doet happen . 	VERB	11
+Vku1-fragment01 7256	0	Het komt evenmin vaak voor dat een regisseur even geliefd is bij het publiek als bij de critici , gewild is door acteurs , producenten en studiobazen , terwijl hij er een werktempo op nahoudt dat de meeste collega's naar adem doet happen . 	VERB	20
+Vku1-fragment01 7257	0	Het komt evenmin vaak voor dat een regisseur even geliefd is bij het publiek als bij de critici , gewild is door acteurs , producenten en studiobazen , terwijl hij er een werktempo op nahoudt dat de meeste collega's naar adem doet happen . 	VERB	21
+Vku1-fragment01 7258	0	Het komt evenmin vaak voor dat een regisseur even geliefd is bij het publiek als bij de critici , gewild is door acteurs , producenten en studiobazen , terwijl hij er een werktempo op nahoudt dat de meeste collega's naar adem doet happen . 	VERB	35
+Vku1-fragment01 7259	0	Het komt evenmin vaak voor dat een regisseur even geliefd is bij het publiek als bij de critici , gewild is door acteurs , producenten en studiobazen , terwijl hij er een werktempo op nahoudt dat de meeste collega's naar adem doet happen . 	VERB	42
+Vku1-fragment01 7260	1	Het komt evenmin vaak voor dat een regisseur even geliefd is bij het publiek als bij de critici , gewild is door acteurs , producenten en studiobazen , terwijl hij er een werktempo op nahoudt dat de meeste collega's naar adem doet happen . 	VERB	43
+Vku1-fragment01 7261	0	Soderbergh heeft na een wat slingerende carriere iedere belofte ingelost , sinds hij in 1989 als 26-jarige debutant op het filmfestival van Cannes de Gouden Palm won voor Sex , lies , and videotape . 	VERB	2
+Vku1-fragment01 7262	1	Soderbergh heeft na een wat slingerende carriere iedere belofte ingelost , sinds hij in 1989 als 26-jarige debutant op het filmfestival van Cannes de Gouden Palm won voor Sex , lies , and videotape . 	VERB	6
+Vku1-fragment01 7263	1	Soderbergh heeft na een wat slingerende carriere iedere belofte ingelost , sinds hij in 1989 als 26-jarige debutant op het filmfestival van Cannes de Gouden Palm won voor Sex , lies , and videotape . 	VERB	10
+Vku1-fragment01 7264	0	Soderbergh heeft na een wat slingerende carriere iedere belofte ingelost , sinds hij in 1989 als 26-jarige debutant op het filmfestival van Cannes de Gouden Palm won voor Sex , lies , and videotape . 	VERB	27
+Vku1-fragment01 7265	0	Niet dat zijn talent zich makkelijk laat benoemen . 	VERB	7
+Vku1-fragment01 7266	0	Niet dat zijn talent zich makkelijk laat benoemen . 	VERB	8
+Vku1-fragment01 7267	0	Soderbergh is een kameleon , die zich in verschillende filmgenres thuis voelt , en net zo lief experimenteert als een gebaand pad inslaat . 	VERB	2
+Vku1-fragment01 7268	1	Soderbergh is een kameleon , die zich in verschillende filmgenres thuis voelt , en net zo lief experimenteert als een gebaand pad inslaat . 	VERB	12
+Vku1-fragment01 7269	0	Soderbergh is een kameleon , die zich in verschillende filmgenres thuis voelt , en net zo lief experimenteert als een gebaand pad inslaat . 	VERB	18
+Vku1-fragment01 7270	1	Soderbergh is een kameleon , die zich in verschillende filmgenres thuis voelt , en net zo lief experimenteert als een gebaand pad inslaat . 	VERB	21
+Vku1-fragment01 7271	1	Soderbergh is een kameleon , die zich in verschillende filmgenres thuis voelt , en net zo lief experimenteert als een gebaand pad inslaat . 	VERB	23
+Vku1-fragment01 7272	0	Dat laatste is het geval bij Ocean's Eleven , zijn elfde en zeker niet origineelste film . 	VERB	3
+Vku1-fragment01 7273	0	Dat laatste is het geval bij Ocean's Eleven , zijn elfde en zeker niet origineelste film . 	VERB	15
+Vku1-fragment01 7274	0	Als Soderberghs klasse ergens uit blijkt , dan is het wel zijn gave met schijnbaar gemak een simpele genrefilm om te toveren in een fris en plezierig meesterwerkje . 	VERB	6
+Vku1-fragment01 7275	0	Als Soderberghs klasse ergens uit blijkt , dan is het wel zijn gave met schijnbaar gemak een simpele genrefilm om te toveren in een fris en plezierig meesterwerkje . 	VERB	9
+Vku1-fragment01 7276	1	Als Soderberghs klasse ergens uit blijkt , dan is het wel zijn gave met schijnbaar gemak een simpele genrefilm om te toveren in een fris en plezierig meesterwerkje . 	VERB	22
+Vku1-fragment01 7277	0	Hij deed het met de Elmore Leonard-verfilming Out of Sight , en doet het nu , opnieuw met George Clooney in de hoofdrol , met de remake van de Hollywoodklassieker Ocean's Eleven . 	VERB	2
+Vku1-fragment01 7278	0	Hij deed het met de Elmore Leonard-verfilming Out of Sight , en doet het nu , opnieuw met George Clooney in de hoofdrol , met de remake van de Hollywoodklassieker Ocean's Eleven . 	VERB	13
+Vku1-fragment01 7279	0	Het origineel uit 1960 staat niet bekend om zijn kwaliteit , maar vooral om de sterren met namen als Frank Sinatra , Dean Martin en Sammy Davis Jr. 	VERB	5
+Vku1-fragment01 7280	0	Voor een hedendaags equivalent dienen Clooney , Brad Pitt , Andy Garcia en Matt Damon zich aan , aangevuld met ook niet onverdienstelijke acteurs als Elliot Gould , Don Cheadle en Carl Reiner voor de bijrollen , en Julia Roberts als de femme fatale . 	VERB	5
+Vku1-fragment01 7281	1	Voor een hedendaags equivalent dienen Clooney , Brad Pitt , Andy Garcia en Matt Damon zich aan , aangevuld met ook niet onverdienstelijke acteurs als Elliot Gould , Don Cheadle en Carl Reiner voor de bijrollen , en Julia Roberts als de femme fatale . 	VERB	19
+Vku1-fragment01 7282	1	Allen namen genoegen met een naar Hollywoodnormen bescheiden salaris , zo wil het verhaal . 	VERB	2
+Vku1-fragment01 7283	1	Allen namen genoegen met een naar Hollywoodnormen bescheiden salaris , zo wil het verhaal . 	VERB	12
+Vku1-fragment01 7284	0	Want anders zouden de kosten van de productie de hemel in groeien . 	VERB	3
+Vku1-fragment01 7285	1	Want anders zouden de kosten van de productie de hemel in groeien . 	VERB	12
+Vku1-fragment01 7286	0	Ook het scenario werd aangepast aan deze tijd . 	VERB	4
+Vku1-fragment01 7287	1	Ook het scenario werd aangepast aan deze tijd . 	VERB	5
+Vku1-fragment01 7288	1	De kraak van de kluis van drie casino's , waar het verhaal om draait , is er door moderne bewakingstechnieken niet gemakkelijker op geworden . 	VERB	14
+Vku1-fragment01 7289	0	De kraak van de kluis van drie casino's , waar het verhaal om draait , is er door moderne bewakingstechnieken niet gemakkelijker op geworden . 	VERB	16
+Vku1-fragment01 7290	0	De kraak van de kluis van drie casino's , waar het verhaal om draait , is er door moderne bewakingstechnieken niet gemakkelijker op geworden . 	VERB	24
+Vku1-fragment01 7291	0	De buit is uiteraard vele malen groter dan in 1960 . 	VERB	3
+Vku1-fragment01 7292	0	En de gangsters zijn behoorlijk cool - op een wat ouderwetse manier , dat weer wel . 	VERB	4
+Vku1-fragment01 7293	0	Danny Ocean en zijn tien partners zijn beschaafde heren , die weliswaar niet binnen de wet opereren , maar verder geen vlieg kwaad doen . 	VERB	7
+Vku1-fragment01 7294	0	Danny Ocean en zijn tien partners zijn beschaafde heren , die weliswaar niet binnen de wet opereren , maar verder geen vlieg kwaad doen . 	VERB	17
+Vku1-fragment01 7295	0	Danny Ocean en zijn tien partners zijn beschaafde heren , die weliswaar niet binnen de wet opereren , maar verder geen vlieg kwaad doen . 	VERB	24
+Vku1-fragment01 7296	0	Ocean's Eleven is misschien wel de minst gewelddadige misdaadfilm ooit gemaakt ; geen van de criminelen draagt een pistool , van vechten houden ze ook al niet , en er valt niet een dode . 	VERB	3
+Vku1-fragment01 7297	0	Ocean's Eleven is misschien wel de minst gewelddadige misdaadfilm ooit gemaakt ; geen van de criminelen draagt een pistool , van vechten houden ze ook al niet , en er valt niet een dode . 	VERB	11
+Vku1-fragment01 7298	0	Ocean's Eleven is misschien wel de minst gewelddadige misdaadfilm ooit gemaakt ; geen van de criminelen draagt een pistool , van vechten houden ze ook al niet , en er valt niet een dode . 	VERB	17
+Vku1-fragment01 7299	0	Ocean's Eleven is misschien wel de minst gewelddadige misdaadfilm ooit gemaakt ; geen van de criminelen draagt een pistool , van vechten houden ze ook al niet , en er valt niet een dode . 	VERB	22
+Vku1-fragment01 7300	1	Ocean's Eleven is misschien wel de minst gewelddadige misdaadfilm ooit gemaakt ; geen van de criminelen draagt een pistool , van vechten houden ze ook al niet , en er valt niet een dode . 	VERB	23
+Vku1-fragment01 7301	1	Ocean's Eleven is misschien wel de minst gewelddadige misdaadfilm ooit gemaakt ; geen van de criminelen draagt een pistool , van vechten houden ze ook al niet , en er valt niet een dode . 	VERB	31
+Vku1-fragment01 7302	0	Zo is Ocean's Eleven niet alleen een remake , maar ook een volle hommage aan de klassieke gangsterfilm , met zijn onberispelijk geklede , goedgemanierde en welbespraakte helden . 	VERB	2
+Vku1-fragment01 7303	0	Zo is Ocean's Eleven niet alleen een remake , maar ook een volle hommage aan de klassieke gangsterfilm , met zijn onberispelijk geklede , goedgemanierde en welbespraakte helden . 	VERB	23
+Vku1-fragment01 7304	0	Zo is Ocean's Eleven niet alleen een remake , maar ook een volle hommage aan de klassieke gangsterfilm , met zijn onberispelijk geklede , goedgemanierde en welbespraakte helden . 	VERB	25
+Vku1-fragment01 7305	0	George Clooney , die met iedere film weer een nieuwe voorraad charme weet aan te boren , is daarvoor de perfecte vertolker . 	VERB	13
+Vku1-fragment01 7306	1	George Clooney , die met iedere film weer een nieuwe voorraad charme weet aan te boren , is daarvoor de perfecte vertolker . 	VERB	16
+Vku1-fragment01 7307	0	George Clooney , die met iedere film weer een nieuwe voorraad charme weet aan te boren , is daarvoor de perfecte vertolker . 	VERB	18
+Vku1-fragment01 7308	0	Alle acteurs zijn overigens goed op hun plaats , zoals het in een ensemblefilm betaamt . 	VERB	3
+Vku1-fragment01 7309	0	Alle acteurs zijn overigens goed op hun plaats , zoals het in een ensemblefilm betaamt . 	VERB	15
+Vku1-fragment01 7310	1	Daar komt bij dat Soderberghs liefde voor film uit elke scene spreekt . 	VERB	2
+Vku1-fragment01 7311	1	Daar komt bij dat Soderberghs liefde voor film uit elke scene spreekt . 	VERB	12
+Vku1-fragment01 7312	1	Als altijd speelt de regisseur een slim spelletje met de kijker , die hij van net voldoende informatie voorziet om voortdurend nieuwsgierig te blijven . 	VERB	3
+Vku1-fragment01 7313	1	Als altijd speelt de regisseur een slim spelletje met de kijker , die hij van net voldoende informatie voorziet om voortdurend nieuwsgierig te blijven . 	VERB	19
+Vku1-fragment01 7314	0	Als altijd speelt de regisseur een slim spelletje met de kijker , die hij van net voldoende informatie voorziet om voortdurend nieuwsgierig te blijven . 	VERB	24
+Vku1-fragment01 7315	0	De beroving van de casino's is spannend , ingewikkeld en vol komische verrassingen , maar uiteindelijk blijkt het daar natuurlijk niet om te gaan . 	VERB	6
+Vku1-fragment01 7316	0	De beroving van de casino's is spannend , ingewikkeld en vol komische verrassingen , maar uiteindelijk blijkt het daar natuurlijk niet om te gaan . 	VERB	17
+Vku1-fragment01 7317	1	De beroving van de casino's is spannend , ingewikkeld en vol komische verrassingen , maar uiteindelijk blijkt het daar natuurlijk niet om te gaan . 	VERB	24
+Vku1-fragment01 7318	0	De grootste verrassing van de film is dat het niet uitmaakt wat je aanpakt of nastreeft - als het maar met klasse gebeurt . 	VERB	7
+Vku1-fragment01 7319	1	De grootste verrassing van de film is dat het niet uitmaakt wat je aanpakt of nastreeft - als het maar met klasse gebeurt . 	VERB	11
+Vku1-fragment01 7320	1	De grootste verrassing van de film is dat het niet uitmaakt wat je aanpakt of nastreeft - als het maar met klasse gebeurt . 	VERB	14
+Vku1-fragment01 7321	0	De grootste verrassing van de film is dat het niet uitmaakt wat je aanpakt of nastreeft - als het maar met klasse gebeurt . 	VERB	16
+Vku1-fragment01 7322	0	De grootste verrassing van de film is dat het niet uitmaakt wat je aanpakt of nastreeft - als het maar met klasse gebeurt . 	VERB	23
+Vku1-fragment01 7323	0	En inderdaad : Ocean's Eleven is , boven alles , stijlvol . 	VERB	6
+Vku2-fragment01 7324	0	Huiselijkheid met jeukende pruiken 	VERB	0
+Vku2-fragment01 7325	0	Grillige ornamenten , losbandige zwier , ongewone pastelkleuren en bepoederde en bepruikte dames in laag uitgesneden jurken : dat is het beeld van de achttiende-eeuwse pruikentijd , de Rococo . 	VERB	10
+Vku2-fragment01 7326	0	Grillige ornamenten , losbandige zwier , ongewone pastelkleuren en bepoederde en bepruikte dames in laag uitgesneden jurken : dat is het beeld van de achttiende-eeuwse pruikentijd , de Rococo . 	VERB	16
+Vku2-fragment01 7327	0	Grillige ornamenten , losbandige zwier , ongewone pastelkleuren en bepoederde en bepruikte dames in laag uitgesneden jurken : dat is het beeld van de achttiende-eeuwse pruikentijd , de Rococo . 	VERB	20
+Vku2-fragment01 7328	0	En van die periode maakte de schilder Benjamin Samuel Bolomey ( 1739 - 1819 ) , aan wiens werk nu een tentoonstelling in het Haags Historisch Museum is gewijd , deel uit . 	VERB	5
+Vku2-fragment01 7329	0	En van die periode maakte de schilder Benjamin Samuel Bolomey ( 1739 - 1819 ) , aan wiens werk nu een tentoonstelling in het Haags Historisch Museum is gewijd , deel uit . 	VERB	28
+Vku2-fragment01 7330	1	En van die periode maakte de schilder Benjamin Samuel Bolomey ( 1739 - 1819 ) , aan wiens werk nu een tentoonstelling in het Haags Historisch Museum is gewijd , deel uit . 	VERB	29
+Vku2-fragment01 7331	0	Het vak leerde de in Zwitserland opgegroeide Bolomey in het toenmalige culturele middelpunt van Europa : Parijs . 	VERB	3
+Vku2-fragment01 7332	0	Het vak leerde de in Zwitserland opgegroeide Bolomey in het toenmalige culturele middelpunt van Europa : Parijs . 	VERB	7
+Vku2-fragment01 7333	0	Maar aan het begin van de jaren zestig van de achttiende eeuw verliet hij die stad met zijn moordende concurrentie voor het heel wat minder bruisende Den Haag . 	VERB	13
+Vku2-fragment01 7334	0	Maar aan het begin van de jaren zestig van de achttiende eeuw verliet hij die stad met zijn moordende concurrentie voor het heel wat minder bruisende Den Haag . 	VERB	19
+Vku2-fragment01 7335	1	Maar aan het begin van de jaren zestig van de achttiende eeuw verliet hij die stad met zijn moordende concurrentie voor het heel wat minder bruisende Den Haag . 	VERB	26
+Vku2-fragment01 7336	0	Zo'n dertig jaar lang schilderde Bolomey daar voornamelijk portretten van de Haagse elite . 	VERB	5
+Vku2-fragment01 7337	0	Maar ondanks hun oud , frambozenrode japonnen en jassen a la francaise , en met parels en veren versierde pruiken is er aan deze dames en heren weinig frivools te ontdekken . 	VERB	19
+Vku2-fragment01 7338	0	Maar ondanks hun oud , frambozenrode japonnen en jassen a la francaise , en met parels en veren versierde pruiken is er aan deze dames en heren weinig frivools te ontdekken . 	VERB	21
+Vku2-fragment01 7339	1	Maar ondanks hun oud , frambozenrode japonnen en jassen a la francaise , en met parels en veren versierde pruiken is er aan deze dames en heren weinig frivools te ontdekken . 	VERB	31
+Vku2-fragment01 7340	1	Misschien lag dat aan de sfeer in de hofstad , maar het lag zeer zeker ook aan de schilder . 	VERB	2
+Vku2-fragment01 7341	1	Misschien lag dat aan de sfeer in de hofstad , maar het lag zeer zeker ook aan de schilder . 	VERB	13
+Vku2-fragment01 7342	0	Bolomey lijkt over niet veel meer dan een middelmatig talent te hebben beschikt . 	VERB	2
+Vku2-fragment01 7343	0	Bolomey lijkt over niet veel meer dan een middelmatig talent te hebben beschikt . 	VERB	12
+Vku2-fragment01 7344	1	Bolomey lijkt over niet veel meer dan een middelmatig talent te hebben beschikt . 	VERB	13
+Vku2-fragment01 7345	0	Bij hem is de vederlichte , bijna improviserende manier van schilderen van Franse meesters als Jean-Honore Fragonard en Francois Boucher , ver te zoeken . 	VERB	3
+Vku2-fragment01 7346	0	Bij hem is de vederlichte , bijna improviserende manier van schilderen van Franse meesters als Jean-Honore Fragonard en Francois Boucher , ver te zoeken . 	VERB	8
+Vku2-fragment01 7347	0	Bij hem is de vederlichte , bijna improviserende manier van schilderen van Franse meesters als Jean-Honore Fragonard en Francois Boucher , ver te zoeken . 	VERB	11
+Vku2-fragment01 7348	1	Bij hem is de vederlichte , bijna improviserende manier van schilderen van Franse meesters als Jean-Honore Fragonard en Francois Boucher , ver te zoeken . 	VERB	24
+Vku2-fragment01 7349	1	En daarmee ontbreekt meteen de lichtvoetigheid die hoort bij de Rococo . 	VERB	3
+Vku2-fragment01 7350	1	En daarmee ontbreekt meteen de lichtvoetigheid die hoort bij de Rococo . 	VERB	8
+Vku2-fragment01 7351	1	Desondanks , of misschien wel juist daardoor , weet Bolomey met sommige schilderijen te ontroeren . 	VERB	9
+Vku2-fragment01 7352	0	Desondanks , of misschien wel juist daardoor , weet Bolomey met sommige schilderijen te ontroeren . 	VERB	15
+Vku2-fragment01 7353	0	De treffendste voorbeelden daarvan zijn wel de pendantportretten van het gezin Pauw . 	VERB	5
+Vku2-fragment01 7354	0	Hun zwierige poses ten spijt zitten vader en moeder met dochtertje op schoot er nogal houterig bij , alsof ze zich niet bepaald op hun gemak voelen met die jeukende pruiken en krappe zondagse kleren . 	VERB	6
+Vku2-fragment01 7355	0	Hun zwierige poses ten spijt zitten vader en moeder met dochtertje op schoot er nogal houterig bij , alsof ze zich niet bepaald op hun gemak voelen met die jeukende pruiken en krappe zondagse kleren . 	VERB	13
+Vku2-fragment01 7356	0	Hun zwierige poses ten spijt zitten vader en moeder met dochtertje op schoot er nogal houterig bij , alsof ze zich niet bepaald op hun gemak voelen met die jeukende pruiken en krappe zondagse kleren . 	VERB	23
+Vku2-fragment01 7357	1	Hun zwierige poses ten spijt zitten vader en moeder met dochtertje op schoot er nogal houterig bij , alsof ze zich niet bepaald op hun gemak voelen met die jeukende pruiken en krappe zondagse kleren . 	VERB	27
+Vku2-fragment01 7358	0	Hun zwierige poses ten spijt zitten vader en moeder met dochtertje op schoot er nogal houterig bij , alsof ze zich niet bepaald op hun gemak voelen met die jeukende pruiken en krappe zondagse kleren . 	VERB	30
+Vku2-fragment01 7359	0	Het effect van deze stukken , hoewel ongetwijfeld bedoeld om de hoge status van de Delftse burgemeester en zijn vrouw uit te dragen , is er een van intieme huiselijkheid . 	VERB	9
+Vku2-fragment01 7360	1	Het effect van deze stukken , hoewel ongetwijfeld bedoeld om de hoge status van de Delftse burgemeester en zijn vrouw uit te dragen , is er een van intieme huiselijkheid . 	VERB	23
+Vku2-fragment01 7361	0	Het effect van deze stukken , hoewel ongetwijfeld bedoeld om de hoge status van de Delftse burgemeester en zijn vrouw uit te dragen , is er een van intieme huiselijkheid . 	VERB	25
+Vku2-fragment01 7362	0	Misschien deed Bolomey wel veel te veel zijn best . 	VERB	2
+Vku2-fragment01 7363	0	Want daar waar zijn werk niet representatief hoeft te zijn , zoals in het zelfportret dat hij aan de Haagse schildersacademie Pictura schonk , schildert hij opeens veel levendiger . 	VERB	8
+Vku2-fragment01 7364	0	Want daar waar zijn werk niet representatief hoeft te zijn , zoals in het zelfportret dat hij aan de Haagse schildersacademie Pictura schonk , schildert hij opeens veel levendiger . 	VERB	10
+Vku2-fragment01 7365	1	Want daar waar zijn werk niet representatief hoeft te zijn , zoals in het zelfportret dat hij aan de Haagse schildersacademie Pictura schonk , schildert hij opeens veel levendiger . 	VERB	23
+Vku2-fragment01 7366	0	Want daar waar zijn werk niet representatief hoeft te zijn , zoals in het zelfportret dat hij aan de Haagse schildersacademie Pictura schonk , schildert hij opeens veel levendiger . 	VERB	25
+Vku2-fragment01 7367	1	Zo'n losse indruk wekt ook het portret waarop de Zwitser zichzelf met vrouw en twee kinderen afbeeldde , in een fraaie , originele compositie . 	VERB	4
+Vku2-fragment01 7368	0	Zo'n losse indruk wekt ook het portret waarop de Zwitser zichzelf met vrouw en twee kinderen afbeeldde , in een fraaie , originele compositie . 	VERB	17
+Vku2-fragment01 7369	0	Helaas werd het stuk eind jaren tachtig van de vorige eeuw gestolen van de nazaten van de schilder , en is sindsdien spoorloos . 	VERB	2
+Vku2-fragment01 7370	0	Helaas werd het stuk eind jaren tachtig van de vorige eeuw gestolen van de nazaten van de schilder , en is sindsdien spoorloos . 	VERB	12
+Vku2-fragment01 7371	0	Helaas werd het stuk eind jaren tachtig van de vorige eeuw gestolen van de nazaten van de schilder , en is sindsdien spoorloos . 	VERB	21
+Vku2-fragment01 7372	0	Dat het museum er toch een foto van heeft opgenomen in de tentoonstelling - op ware grootte : een meter bij zeventig centimeter - is begrijpelijk : het moet een van Bolomey's beste schilderijen zijn geweest . 	VERB	9
+Vku2-fragment01 7373	1	Dat het museum er toch een foto van heeft opgenomen in de tentoonstelling - op ware grootte : een meter bij zeventig centimeter - is begrijpelijk : het moet een van Bolomey's beste schilderijen zijn geweest . 	VERB	10
+Vku2-fragment01 7374	0	Dat het museum er toch een foto van heeft opgenomen in de tentoonstelling - op ware grootte : een meter bij zeventig centimeter - is begrijpelijk : het moet een van Bolomey's beste schilderijen zijn geweest . 	VERB	25
+Vku2-fragment01 7375	0	Dat het museum er toch een foto van heeft opgenomen in de tentoonstelling - op ware grootte : een meter bij zeventig centimeter - is begrijpelijk : het moet een van Bolomey's beste schilderijen zijn geweest . 	VERB	29
+Vku2-fragment01 7376	0	Dat het museum er toch een foto van heeft opgenomen in de tentoonstelling - op ware grootte : een meter bij zeventig centimeter - is begrijpelijk : het moet een van Bolomey's beste schilderijen zijn geweest . 	VERB	35
+Vku2-fragment01 7377	0	Dat het museum er toch een foto van heeft opgenomen in de tentoonstelling - op ware grootte : een meter bij zeventig centimeter - is begrijpelijk : het moet een van Bolomey's beste schilderijen zijn geweest . 	VERB	36
+Vku2-fragment01 7378	1	Dat het overzicht van Bolomey's werk samenvalt met twee andere tentoonstellingen over de achttiende eeuw , in het Rijksmuseum en het Haarlemse Teylers ' , lijkt te wijzen op een algemene herwaardering van de achttiende eeuw . 	VERB	7
+Vku2-fragment01 7379	0	Dat het overzicht van Bolomey's werk samenvalt met twee andere tentoonstellingen over de achttiende eeuw , in het Rijksmuseum en het Haarlemse Teylers ' , lijkt te wijzen op een algemene herwaardering van de achttiende eeuw . 	VERB	26
+Vku2-fragment01 7380	1	Dat het overzicht van Bolomey's werk samenvalt met twee andere tentoonstellingen over de achttiende eeuw , in het Rijksmuseum en het Haarlemse Teylers ' , lijkt te wijzen op een algemene herwaardering van de achttiende eeuw . 	VERB	28
+Vku2-fragment01 7381	0	Volgens het Haags Historisch Museum is dat toeval . 	VERB	6
+Vku2-fragment01 7382	0	En in het geval van Bolomey kun je je ook afvragen of dat terecht zou zijn . 	VERB	7
+Vku2-fragment01 7383	0	En in het geval van Bolomey kun je je ook afvragen of dat terecht zou zijn . 	VERB	11
+Vku2-fragment01 7384	0	En in het geval van Bolomey kun je je ook afvragen of dat terecht zou zijn . 	VERB	15
+Vku2-fragment01 7385	0	En in het geval van Bolomey kun je je ook afvragen of dat terecht zou zijn . 	VERB	16
+Vku2-fragment01 7386	1	Bolomey's oeuvre geeft eerder aanleiding tot de gedachte dat het toch behoorlijk treurig gesteld moet zijn geweest met de Nederlandse schilderkunst , dat een buitenlandse schilder van dit kaliber zoveel werk had . 	VERB	3
+Vku2-fragment01 7387	0	Bolomey's oeuvre geeft eerder aanleiding tot de gedachte dat het toch behoorlijk treurig gesteld moet zijn geweest met de Nederlandse schilderkunst , dat een buitenlandse schilder van dit kaliber zoveel werk had . 	VERB	14
+Vku2-fragment01 7388	0	Bolomey's oeuvre geeft eerder aanleiding tot de gedachte dat het toch behoorlijk treurig gesteld moet zijn geweest met de Nederlandse schilderkunst , dat een buitenlandse schilder van dit kaliber zoveel werk had . 	VERB	15
+Vku2-fragment01 7389	0	Bolomey's oeuvre geeft eerder aanleiding tot de gedachte dat het toch behoorlijk treurig gesteld moet zijn geweest met de Nederlandse schilderkunst , dat een buitenlandse schilder van dit kaliber zoveel werk had . 	VERB	16
+Vku2-fragment01 7390	0	Bolomey's oeuvre geeft eerder aanleiding tot de gedachte dat het toch behoorlijk treurig gesteld moet zijn geweest met de Nederlandse schilderkunst , dat een buitenlandse schilder van dit kaliber zoveel werk had . 	VERB	17
+Vku2-fragment01 7391	1	Bolomey's oeuvre geeft eerder aanleiding tot de gedachte dat het toch behoorlijk treurig gesteld moet zijn geweest met de Nederlandse schilderkunst , dat een buitenlandse schilder van dit kaliber zoveel werk had . 	VERB	32
+Vku2-fragment01 7392	1	In de catalogus nuanceert auteur Rudi Ekkart dat echter . 	VERB	4
+Vku2-fragment01 7393	0	Er waren weliswaar begaafde Nederlandse portrettisten , maar geen daarvan werkte in de internationale hofstijl waar de Haagse beau monde de voorkeur aan gaf . 	VERB	2
+Vku2-fragment01 7394	0	Er waren weliswaar begaafde Nederlandse portrettisten , maar geen daarvan werkte in de internationale hofstijl waar de Haagse beau monde de voorkeur aan gaf . 	VERB	11
+Vku2-fragment01 7395	1	Er waren weliswaar begaafde Nederlandse portrettisten , maar geen daarvan werkte in de internationale hofstijl waar de Haagse beau monde de voorkeur aan gaf . 	VERB	24
+Vku2-fragment01 7396	0	En de schilderijen van Bolomey blijkt nog bijzonder gunstig af te steken naast de portretten , gemaakt door de officiele hofschilder van de Oranjes , Tethart Philipp Christian Haag , die ook op de tentoonstelling hangen . 	VERB	6
+Vku2-fragment01 7397	1	En de schilderijen van Bolomey blijkt nog bijzonder gunstig af te steken naast de portretten , gemaakt door de officiele hofschilder van de Oranjes , Tethart Philipp Christian Haag , die ook op de tentoonstelling hangen . 	VERB	12
+Vku2-fragment01 7398	0	En de schilderijen van Bolomey blijkt nog bijzonder gunstig af te steken naast de portretten , gemaakt door de officiele hofschilder van de Oranjes , Tethart Philipp Christian Haag , die ook op de tentoonstelling hangen . 	VERB	17
+Vku2-fragment01 7399	0	En de schilderijen van Bolomey blijkt nog bijzonder gunstig af te steken naast de portretten , gemaakt door de officiele hofschilder van de Oranjes , Tethart Philipp Christian Haag , die ook op de tentoonstelling hangen . 	VERB	36
+Vku2-fragment01 7400	0	Gelukkig hebben de samenstellers van de tentoonstelling ook ingezien , dat de artistieke kwaliteiten van Bolomey alleen te mager zijn om het geheel te dragen . 	VERB	2
+Vku2-fragment01 7401	1	Gelukkig hebben de samenstellers van de tentoonstelling ook ingezien , dat de artistieke kwaliteiten van Bolomey alleen te mager zijn om het geheel te dragen . 	VERB	9
+Vku2-fragment01 7402	0	Gelukkig hebben de samenstellers van de tentoonstelling ook ingezien , dat de artistieke kwaliteiten van Bolomey alleen te mager zijn om het geheel te dragen . 	VERB	20
+Vku2-fragment01 7403	1	Gelukkig hebben de samenstellers van de tentoonstelling ook ingezien , dat de artistieke kwaliteiten van Bolomey alleen te mager zijn om het geheel te dragen . 	VERB	25
+Vku2-fragment01 7404	0	Er zijn niet alleen doeken van tijdgenoten opgehangen , maar er zijn ook portretbustes van de stadhouder , de aquarelkist van zijn miniatuurschilderende echtgenote , documenten van Pictura , een lief klein draagkoetsje en allerlei andere objecten tentoongesteld . 	VERB	2
+Vku2-fragment01 7405	0	Er zijn niet alleen doeken van tijdgenoten opgehangen , maar er zijn ook portretbustes van de stadhouder , de aquarelkist van zijn miniatuurschilderende echtgenote , documenten van Pictura , een lief klein draagkoetsje en allerlei andere objecten tentoongesteld . 	VERB	8
+Vku2-fragment01 7406	0	Er zijn niet alleen doeken van tijdgenoten opgehangen , maar er zijn ook portretbustes van de stadhouder , de aquarelkist van zijn miniatuurschilderende echtgenote , documenten van Pictura , een lief klein draagkoetsje en allerlei andere objecten tentoongesteld . 	VERB	12
+Vku2-fragment01 7407	0	Er zijn niet alleen doeken van tijdgenoten opgehangen , maar er zijn ook portretbustes van de stadhouder , de aquarelkist van zijn miniatuurschilderende echtgenote , documenten van Pictura , een lief klein draagkoetsje en allerlei andere objecten tentoongesteld . 	VERB	23
+Vku2-fragment01 7408	0	Er zijn niet alleen doeken van tijdgenoten opgehangen , maar er zijn ook portretbustes van de stadhouder , de aquarelkist van zijn miniatuurschilderende echtgenote , documenten van Pictura , een lief klein draagkoetsje en allerlei andere objecten tentoongesteld . 	VERB	38
+Vku2-fragment01 7409	1	Samen geven ze een indruk van het leven van de gegoede klasse in de tweede helft van de achttiende eeuw . 	VERB	2
+Vku2-fragment01 7410	0	En zo is er zeker een genoeglijk uur in de tentoonstelling door te brengen , al geeft het geen zicht op de ' herrijzenis van een groot schilder ' zoals de catalogus trompettert . 	VERB	3
+Vku2-fragment01 7411	1	En zo is er zeker een genoeglijk uur in de tentoonstelling door te brengen , al geeft het geen zicht op de ' herrijzenis van een groot schilder ' zoals de catalogus trompettert . 	VERB	14
+Vku2-fragment01 7412	1	En zo is er zeker een genoeglijk uur in de tentoonstelling door te brengen , al geeft het geen zicht op de ' herrijzenis van een groot schilder ' zoals de catalogus trompettert . 	VERB	17
+Vku2-fragment01 7413	1	En zo is er zeker een genoeglijk uur in de tentoonstelling door te brengen , al geeft het geen zicht op de ' herrijzenis van een groot schilder ' zoals de catalogus trompettert . 	VERB	33
+Vku2-fragment01 7414	0	Want een Zwitser en zwier , dat blijkt een moeizame combinatie . 	VERB	8
+Vku2-fragment01 7415	0	Een Zwitsers schilder aan het hof van stadhouder Willem V , t/m 17 maart . 	VERB	3
+Vku2-fragment01 7416	0	Haags Historisch Museum , Korte Vijverberg 7 , Den Haag , tel . 	VERB	12
+Vop1-fragment01 7417	0	DE commissie-Terlouw , ingesteld om een maatschappelijk debat te organiseren over biotechnologie en voedsel , heeft alle Nederlanders een jaar lang de kans gegeven over de toelaatbaarheid van genetisch gemanipuleerd voedsel te discussieren . 	VERB	4
+Vop1-fragment01 7418	1	DE commissie-Terlouw , ingesteld om een maatschappelijk debat te organiseren over biotechnologie en voedsel , heeft alle Nederlanders een jaar lang de kans gegeven over de toelaatbaarheid van genetisch gemanipuleerd voedsel te discussieren . 	VERB	10
+Vop1-fragment01 7419	0	DE commissie-Terlouw , ingesteld om een maatschappelijk debat te organiseren over biotechnologie en voedsel , heeft alle Nederlanders een jaar lang de kans gegeven over de toelaatbaarheid van genetisch gemanipuleerd voedsel te discussieren . 	VERB	16
+Vop1-fragment01 7420	1	DE commissie-Terlouw , ingesteld om een maatschappelijk debat te organiseren over biotechnologie en voedsel , heeft alle Nederlanders een jaar lang de kans gegeven over de toelaatbaarheid van genetisch gemanipuleerd voedsel te discussieren . 	VERB	24
+Vop1-fragment01 7421	0	DE commissie-Terlouw , ingesteld om een maatschappelijk debat te organiseren over biotechnologie en voedsel , heeft alle Nederlanders een jaar lang de kans gegeven over de toelaatbaarheid van genetisch gemanipuleerd voedsel te discussieren . 	VERB	30
+Vop1-fragment01 7422	0	DE commissie-Terlouw , ingesteld om een maatschappelijk debat te organiseren over biotechnologie en voedsel , heeft alle Nederlanders een jaar lang de kans gegeven over de toelaatbaarheid van genetisch gemanipuleerd voedsel te discussieren . 	VERB	33
+Vop1-fragment01 7423	0	Maar weinig landgenoten bleken geinteresseerd . 	VERB	4
+Vop1-fragment01 7424	0	Maar weinig landgenoten bleken geinteresseerd . 	VERB	5
+Vop1-fragment01 7425	1	Terlouw wees er woensdag dan ook terecht op dat de consultatie niet als referendum valt te beschouwen . 	VERB	2
+Vop1-fragment01 7426	1	Terlouw wees er woensdag dan ook terecht op dat de consultatie niet als referendum valt te beschouwen . 	VERB	15
+Vop1-fragment01 7427	1	Terlouw wees er woensdag dan ook terecht op dat de consultatie niet als referendum valt te beschouwen . 	VERB	17
+Vop1-fragment01 7428	0	Een verdere relativering is dat er geen belangstelling onder de deelnemers bleek te bestaan voor enkele belangrijke aspecten van het debat , zoals de economische belangen van voedselproducenten . 	VERB	4
+Vop1-fragment01 7429	0	Een verdere relativering is dat er geen belangstelling onder de deelnemers bleek te bestaan voor enkele belangrijke aspecten van het debat , zoals de economische belangen van voedselproducenten . 	VERB	12
+Vop1-fragment01 7430	0	Een verdere relativering is dat er geen belangstelling onder de deelnemers bleek te bestaan voor enkele belangrijke aspecten van het debat , zoals de economische belangen van voedselproducenten . 	VERB	14
+Vop1-fragment01 7431	0	Zowel de breedte als de diepgang van de discussie was dus beperkt . 	VERB	10
+Vop1-fragment01 7432	1	Zowel de breedte als de diepgang van de discussie was dus beperkt . 	VERB	12
+Vop1-fragment01 7433	0	Toch is de exercitie van Terlouw niet zinloos geweest . 	VERB	2
+Vop1-fragment01 7434	0	Toch is de exercitie van Terlouw niet zinloos geweest . 	VERB	9
+Vop1-fragment01 7435	0	Duidelijk is dat er weinig draagvlak bestaat voor het gebruik van biotechnologie in voedsel . 	VERB	2
+Vop1-fragment01 7436	0	Duidelijk is dat er weinig draagvlak bestaat voor het gebruik van biotechnologie in voedsel . 	VERB	7
+Vop1-fragment01 7437	1	De burger staat zeer gereserveerd ten opzichte van de wetenschap , de overheid en de producenten . 	VERB	3
+Vop1-fragment01 7438	0	De burger staat zeer gereserveerd ten opzichte van de wetenschap , de overheid en de producenten . 	VERB	5
+Vop1-fragment01 7439	0	Die drie partijen moeten het vertrouwen van de consument nog zien te winnen . 	VERB	4
+Vop1-fragment01 7440	1	Die drie partijen moeten het vertrouwen van de consument nog zien te winnen . 	VERB	11
+Vop1-fragment01 7441	1	Die drie partijen moeten het vertrouwen van de consument nog zien te winnen . 	VERB	13
+Vop1-fragment01 7442	1	Minister Brinkhorst van Landbouw zit er dan ook naast als hij meent het rapport-Terlouw te kunnen opvatten als een vrijbrief om ongestoord door te gaan met gentechnologie in voedsel . 	VERB	5
+Vop1-fragment01 7443	0	Minister Brinkhorst van Landbouw zit er dan ook naast als hij meent het rapport-Terlouw te kunnen opvatten als een vrijbrief om ongestoord door te gaan met gentechnologie in voedsel . 	VERB	12
+Vop1-fragment01 7444	0	Minister Brinkhorst van Landbouw zit er dan ook naast als hij meent het rapport-Terlouw te kunnen opvatten als een vrijbrief om ongestoord door te gaan met gentechnologie in voedsel . 	VERB	16
+Vop1-fragment01 7445	1	Minister Brinkhorst van Landbouw zit er dan ook naast als hij meent het rapport-Terlouw te kunnen opvatten als een vrijbrief om ongestoord door te gaan met gentechnologie in voedsel . 	VERB	17
+Vop1-fragment01 7446	1	Minister Brinkhorst van Landbouw zit er dan ook naast als hij meent het rapport-Terlouw te kunnen opvatten als een vrijbrief om ongestoord door te gaan met gentechnologie in voedsel . 	VERB	25
+Vop1-fragment01 7447	0	Terlouw concludeert terecht dat de reserves van de bevolking zijn onderschat . 	VERB	2
+Vop1-fragment01 7448	0	Terlouw concludeert terecht dat de reserves van de bevolking zijn onderschat . 	VERB	10
+Vop1-fragment01 7449	0	Terlouw concludeert terecht dat de reserves van de bevolking zijn onderschat . 	VERB	11
+Vop1-fragment01 7450	0	Opmerkelijk is wel dat deze reserves niet ethisch of principieel van aard zijn ; de Nederlander vraagt zich nuchter af wat het nut en de risico's van biotechnologie in voedsel zijn . 	VERB	2
+Vop1-fragment01 7451	0	Opmerkelijk is wel dat deze reserves niet ethisch of principieel van aard zijn ; de Nederlander vraagt zich nuchter af wat het nut en de risico's van biotechnologie in voedsel zijn . 	VERB	13
+Vop1-fragment01 7452	0	Opmerkelijk is wel dat deze reserves niet ethisch of principieel van aard zijn ; de Nederlander vraagt zich nuchter af wat het nut en de risico's van biotechnologie in voedsel zijn . 	VERB	17
+Vop1-fragment01 7453	0	Opmerkelijk is wel dat deze reserves niet ethisch of principieel van aard zijn ; de Nederlander vraagt zich nuchter af wat het nut en de risico's van biotechnologie in voedsel zijn . 	VERB	31
+Vop1-fragment01 7454	1	De commissie-Terlouw heeft dan ook gelijk in haar opvatting dat er geen aanleiding is voor een moratorium op gentechnologie , zoals diverse milieu-organisaties bepleiten . 	VERB	3
+Vop1-fragment01 7455	0	De commissie-Terlouw heeft dan ook gelijk in haar opvatting dat er geen aanleiding is voor een moratorium op gentechnologie , zoals diverse milieu-organisaties bepleiten . 	VERB	14
+Vop1-fragment01 7456	0	De commissie-Terlouw heeft dan ook gelijk in haar opvatting dat er geen aanleiding is voor een moratorium op gentechnologie , zoals diverse milieu-organisaties bepleiten . 	VERB	24
+Vop1-fragment01 7457	0	Onder stringente voorwaarden kan toepassing doorgang vinden . 	VERB	4
+Vop1-fragment01 7458	1	Onder stringente voorwaarden kan toepassing doorgang vinden . 	VERB	7
+Vop1-fragment01 7459	0	Er is namelijk nooit aangetoond dat genetisch gemanipuleerd voedsel onveilig is . 	VERB	2
+Vop1-fragment01 7460	0	Er is namelijk nooit aangetoond dat genetisch gemanipuleerd voedsel onveilig is . 	VERB	5
+Vop1-fragment01 7461	0	Er is namelijk nooit aangetoond dat genetisch gemanipuleerd voedsel onveilig is . 	VERB	8
+Vop1-fragment01 7462	0	Er is namelijk nooit aangetoond dat genetisch gemanipuleerd voedsel onveilig is . 	VERB	11
+Vop1-fragment01 7463	1	Deze voorwaarden formuleert de commissie-Terlouw voor eigen rekening , dus niet als spreekbuis van de deelnemers aan het debat . 	VERB	3
+Vop1-fragment01 7464	1	Even voor de hand liggend als terecht hanteert de commissie daarbij het voorzorgbeginsel : niet doen , als niet zeker is dat er geen schadelijke bij-effecten kunnen optreden . 	VERB	5
+Vop1-fragment01 7465	1	Even voor de hand liggend als terecht hanteert de commissie daarbij het voorzorgbeginsel : niet doen , als niet zeker is dat er geen schadelijke bij-effecten kunnen optreden . 	VERB	8
+Vop1-fragment01 7466	0	Even voor de hand liggend als terecht hanteert de commissie daarbij het voorzorgbeginsel : niet doen , als niet zeker is dat er geen schadelijke bij-effecten kunnen optreden . 	VERB	16
+Vop1-fragment01 7467	0	Even voor de hand liggend als terecht hanteert de commissie daarbij het voorzorgbeginsel : niet doen , als niet zeker is dat er geen schadelijke bij-effecten kunnen optreden . 	VERB	21
+Vop1-fragment01 7468	0	Even voor de hand liggend als terecht hanteert de commissie daarbij het voorzorgbeginsel : niet doen , als niet zeker is dat er geen schadelijke bij-effecten kunnen optreden . 	VERB	27
+Vop1-fragment01 7469	1	Even voor de hand liggend als terecht hanteert de commissie daarbij het voorzorgbeginsel : niet doen , als niet zeker is dat er geen schadelijke bij-effecten kunnen optreden . 	VERB	28
+Vop1-fragment01 7470	0	Zo moet de teelt van transgene grassen en granen in Nederland niet mogen , omdat dat de bescherming van wilde flora en fauna in gevaar kan brengen door ongewenste kruising . 	VERB	2
+Vop1-fragment01 7471	0	Zo moet de teelt van transgene grassen en granen in Nederland niet mogen , omdat dat de bescherming van wilde flora en fauna in gevaar kan brengen door ongewenste kruising . 	VERB	13
+Vop1-fragment01 7472	0	Zo moet de teelt van transgene grassen en granen in Nederland niet mogen , omdat dat de bescherming van wilde flora en fauna in gevaar kan brengen door ongewenste kruising . 	VERB	26
+Vop1-fragment01 7473	1	Zo moet de teelt van transgene grassen en granen in Nederland niet mogen , omdat dat de bescherming van wilde flora en fauna in gevaar kan brengen door ongewenste kruising . 	VERB	27
+Vop1-fragment01 7474	0	In haar weerzin tegen het genetisch modificeren van dieren is de commissie minder overtuigend . 	VERB	10
+Vop1-fragment01 7475	0	In haar weerzin tegen het genetisch modificeren van dieren is de commissie minder overtuigend . 	VERB	14
+Vop1-fragment01 7476	1	Terlouw ziet dit als ' door op onnatuurlijke eigenschappen ' , vergelijkbaar met de praktijk van legbatterijen en vetmesten van kalveren . 	VERB	2
+Vop1-fragment01 7477	1	Terlouw ziet dit als ' door op onnatuurlijke eigenschappen ' , vergelijkbaar met de praktijk van legbatterijen en vetmesten van kalveren . 	VERB	6
+Vop1-fragment01 7478	0	Terlouw ziet dit als ' door op onnatuurlijke eigenschappen ' , vergelijkbaar met de praktijk van legbatterijen en vetmesten van kalveren . 	VERB	19
+Vop1-fragment01 7479	0	Dit ethische argument overtuigt niet , aangezien het niet aanknoopt bij het voorzorgbeginsel of bij de verantwoordelijkheid van de overheid voor veilig voedsel . 	VERB	4
+Vop1-fragment01 7480	1	Dit ethische argument overtuigt niet , aangezien het niet aanknoopt bij het voorzorgbeginsel of bij de verantwoordelijkheid van de overheid voor veilig voedsel . 	VERB	10
+Vop2-fragment01 7481	0	ALS Nederland wil deelnemen aan de tweede fase van de ontwikkeling van de Joint Strike Fighter ( JSF ) , de jachtbommenwerper waarvan het Amerikaanse Lockheed Martin er minstens drieduizend gaat bouwen , moet het kabinet deze maand een beslissing nemen . 	VERB	3
+Vop2-fragment01 7482	1	ALS Nederland wil deelnemen aan de tweede fase van de ontwikkeling van de Joint Strike Fighter ( JSF ) , de jachtbommenwerper waarvan het Amerikaanse Lockheed Martin er minstens drieduizend gaat bouwen , moet het kabinet deze maand een beslissing nemen . 	VERB	4
+Vop2-fragment01 7483	0	ALS Nederland wil deelnemen aan de tweede fase van de ontwikkeling van de Joint Strike Fighter ( JSF ) , de jachtbommenwerper waarvan het Amerikaanse Lockheed Martin er minstens drieduizend gaat bouwen , moet het kabinet deze maand een beslissing nemen . 	VERB	31
+Vop2-fragment01 7484	0	ALS Nederland wil deelnemen aan de tweede fase van de ontwikkeling van de Joint Strike Fighter ( JSF ) , de jachtbommenwerper waarvan het Amerikaanse Lockheed Martin er minstens drieduizend gaat bouwen , moet het kabinet deze maand een beslissing nemen . 	VERB	32
+Vop2-fragment01 7485	0	ALS Nederland wil deelnemen aan de tweede fase van de ontwikkeling van de Joint Strike Fighter ( JSF ) , de jachtbommenwerper waarvan het Amerikaanse Lockheed Martin er minstens drieduizend gaat bouwen , moet het kabinet deze maand een beslissing nemen . 	VERB	34
+Vop2-fragment01 7486	1	ALS Nederland wil deelnemen aan de tweede fase van de ontwikkeling van de Joint Strike Fighter ( JSF ) , de jachtbommenwerper waarvan het Amerikaanse Lockheed Martin er minstens drieduizend gaat bouwen , moet het kabinet deze maand een beslissing nemen . 	VERB	41
+Vop2-fragment01 7487	1	In dat geval zit Nederland vast aan aanschaf van de JSF als opvolger van de F -16 . 	VERB	4
+Vop2-fragment01 7488	1	Hoewel de Nederlandse luchtmacht erg gecharmeerd is van het Amerikaanse gevechtsvliegtuig , is het onverstandig op zo'n korte termijn besluiten te nemen . 	VERB	6
+Vop2-fragment01 7489	0	Hoewel de Nederlandse luchtmacht erg gecharmeerd is van het Amerikaanse gevechtsvliegtuig , is het onverstandig op zo'n korte termijn besluiten te nemen . 	VERB	7
+Vop2-fragment01 7490	0	Hoewel de Nederlandse luchtmacht erg gecharmeerd is van het Amerikaanse gevechtsvliegtuig , is het onverstandig op zo'n korte termijn besluiten te nemen . 	VERB	13
+Vop2-fragment01 7491	1	Hoewel de Nederlandse luchtmacht erg gecharmeerd is van het Amerikaanse gevechtsvliegtuig , is het onverstandig op zo'n korte termijn besluiten te nemen . 	VERB	22
+Vop2-fragment01 7492	0	De F -16 kan nog jaren mee . 	VERB	4
+Vop2-fragment01 7493	1	Bovendien staat niet bij voorbaat vast dat de JSF zonder meer de beste koop is . 	VERB	2
+Vop2-fragment01 7494	0	Bovendien staat niet bij voorbaat vast dat de JSF zonder meer de beste koop is . 	VERB	15
+Vop2-fragment01 7495	0	De Rafale , van het Franse Dassault , is in militair-technisch opzicht een volwaardig alternatief . 	VERB	9
+Vop2-fragment01 7496	0	Bovendien gaat een Europees consortium de Eurofighter maken . 	VERB	2
+Vop2-fragment01 7497	1	Bovendien gaat een Europees consortium de Eurofighter maken . 	VERB	8
+Vop2-fragment01 7498	1	Het Centraal Planbureau en minister Zalm hebben grote twijfels over de economische voordelen die de Nederlandse industrie zou behalen door met de JSF-fabricage nu al mee te doen . 	VERB	7
+Vop2-fragment01 7499	0	Het Centraal Planbureau en minister Zalm hebben grote twijfels over de economische voordelen die de Nederlandse industrie zou behalen door met de JSF-fabricage nu al mee te doen . 	VERB	18
+Vop2-fragment01 7500	1	Het Centraal Planbureau en minister Zalm hebben grote twijfels over de economische voordelen die de Nederlandse industrie zou behalen door met de JSF-fabricage nu al mee te doen . 	VERB	19
+Vop2-fragment01 7501	0	Het Centraal Planbureau en minister Zalm hebben grote twijfels over de economische voordelen die de Nederlandse industrie zou behalen door met de JSF-fabricage nu al mee te doen . 	VERB	28
+Vop2-fragment01 7502	0	Die twijfel wordt gevoed door de geringe bereidheid van de betrokken bedrijven om financiele risico's te lopen . 	VERB	3
+Vop2-fragment01 7503	1	Die twijfel wordt gevoed door de geringe bereidheid van de betrokken bedrijven om financiele risico's te lopen . 	VERB	4
+Vop2-fragment01 7504	1	Die twijfel wordt gevoed door de geringe bereidheid van de betrokken bedrijven om financiele risico's te lopen . 	VERB	11
+Vop2-fragment01 7505	1	Die twijfel wordt gevoed door de geringe bereidheid van de betrokken bedrijven om financiele risico's te lopen . 	VERB	17
+Vop2-fragment01 7506	0	Die worden afgewenteld op de Nederlandse staat . 	VERB	2
+Vop2-fragment01 7507	1	Die worden afgewenteld op de Nederlandse staat . 	VERB	3
+Vop2-fragment01 7508	0	Daar zou dan 10 miljard euro ( 22 miljard gulden ) aan orders tegenover staan . 	VERB	2
+Vop2-fragment01 7509	1	Daar zou dan 10 miljard euro ( 22 miljard gulden ) aan orders tegenover staan . 	VERB	15
+Vop2-fragment01 7510	0	Door de massaproductie van het Lockheed-toestel zou in theorie de prijs lager kunnen worden gehouden dan het geval is bij de veel kleinschaliger Europese varianten . 	VERB	7
+Vop2-fragment01 7511	0	Door de massaproductie van het Lockheed-toestel zou in theorie de prijs lager kunnen worden gehouden dan het geval is bij de veel kleinschaliger Europese varianten . 	VERB	13
+Vop2-fragment01 7512	0	Door de massaproductie van het Lockheed-toestel zou in theorie de prijs lager kunnen worden gehouden dan het geval is bij de veel kleinschaliger Europese varianten . 	VERB	14
+Vop2-fragment01 7513	1	Door de massaproductie van het Lockheed-toestel zou in theorie de prijs lager kunnen worden gehouden dan het geval is bij de veel kleinschaliger Europese varianten . 	VERB	15
+Vop2-fragment01 7514	0	Door de massaproductie van het Lockheed-toestel zou in theorie de prijs lager kunnen worden gehouden dan het geval is bij de veel kleinschaliger Europese varianten . 	VERB	19
+Vop2-fragment01 7515	1	Maar uit de Verenigde Staten zelf klinken al geluiden dat de JSF veel duurder gaat worden dan is voorgespiegeld . 	VERB	7
+Vop2-fragment01 7516	0	Maar uit de Verenigde Staten zelf klinken al geluiden dat de JSF veel duurder gaat worden dan is voorgespiegeld . 	VERB	15
+Vop2-fragment01 7517	0	Maar uit de Verenigde Staten zelf klinken al geluiden dat de JSF veel duurder gaat worden dan is voorgespiegeld . 	VERB	16
+Vop2-fragment01 7518	0	Maar uit de Verenigde Staten zelf klinken al geluiden dat de JSF veel duurder gaat worden dan is voorgespiegeld . 	VERB	18
+Vop2-fragment01 7519	0	Maar uit de Verenigde Staten zelf klinken al geluiden dat de JSF veel duurder gaat worden dan is voorgespiegeld . 	VERB	19
+Vop2-fragment01 7520	0	Bovendien is geenszins uitgesloten dat het Nederlandse bedrijfsleven bij het ontwikkelen van een Europees alternatief kan worden betrokken . 	VERB	2
+Vop2-fragment01 7521	1	Bovendien is geenszins uitgesloten dat het Nederlandse bedrijfsleven bij het ontwikkelen van een Europees alternatief kan worden betrokken . 	VERB	4
+Vop2-fragment01 7522	1	Bovendien is geenszins uitgesloten dat het Nederlandse bedrijfsleven bij het ontwikkelen van een Europees alternatief kan worden betrokken . 	VERB	11
+Vop2-fragment01 7523	0	Bovendien is geenszins uitgesloten dat het Nederlandse bedrijfsleven bij het ontwikkelen van een Europees alternatief kan worden betrokken . 	VERB	16
+Vop2-fragment01 7524	0	Bovendien is geenszins uitgesloten dat het Nederlandse bedrijfsleven bij het ontwikkelen van een Europees alternatief kan worden betrokken . 	VERB	17
+Vop2-fragment01 7525	1	Bovendien is geenszins uitgesloten dat het Nederlandse bedrijfsleven bij het ontwikkelen van een Europees alternatief kan worden betrokken . 	VERB	18
+Vop2-fragment01 7526	1	De luchtmacht vindt de mogelijkheid betrokken te worden bij de ontwikkeling van de JSF een groot voordeel van meedoen met het Amerikaanse project . 	VERB	3
+Vop2-fragment01 7527	1	De luchtmacht vindt de mogelijkheid betrokken te worden bij de ontwikkeling van de JSF een groot voordeel van meedoen met het Amerikaanse project . 	VERB	6
+Vop2-fragment01 7528	0	De luchtmacht vindt de mogelijkheid betrokken te worden bij de ontwikkeling van de JSF een groot voordeel van meedoen met het Amerikaanse project . 	VERB	8
+Vop2-fragment01 7529	0	De luchtmacht vindt de mogelijkheid betrokken te worden bij de ontwikkeling van de JSF een groot voordeel van meedoen met het Amerikaanse project . 	VERB	19
+Vop2-fragment01 7530	0	Toch kan dat niet de doorslag geven . 	VERB	2
+Vop2-fragment01 7531	1	Toch kan dat niet de doorslag geven . 	VERB	7
+Vop2-fragment01 7532	0	Zorgvuldige besluitvorming en afweging van alternatieven is van groter belang . 	VERB	7
+Vop2-fragment01 7533	0	De Amerikanen en de Britten hebben al gekozen voor aanschaf van de JSF . 	VERB	6
+Vop2-fragment01 7534	0	De Amerikanen en de Britten hebben al gekozen voor aanschaf van de JSF . 	VERB	8
+Vop2-fragment01 7535	1	Uiteraard geeft dat de Amerikaanse jager een voorsprong . 	VERB	2
+Vop2-fragment01 7536	0	De Europese mededingers moeten binnen afzienbare tijd bewijzen tegen de Amerikaans-Britse concurrentie te zijn opgewassen . 	VERB	4
+Vop2-fragment01 7537	0	De Europese mededingers moeten binnen afzienbare tijd bewijzen tegen de Amerikaans-Britse concurrentie te zijn opgewassen . 	VERB	8
+Vop2-fragment01 7538	0	De Europese mededingers moeten binnen afzienbare tijd bewijzen tegen de Amerikaans-Britse concurrentie te zijn opgewassen . 	VERB	14
+Vop2-fragment01 7539	1	Tot nu toe heeft de luchtmacht noch het bedrijfsleven de noodzaak van een snelle keuze voor de JSF kunnen aantonen . 	VERB	4
+Vop2-fragment01 7540	0	Tot nu toe heeft de luchtmacht noch het bedrijfsleven de noodzaak van een snelle keuze voor de JSF kunnen aantonen . 	VERB	19
+Vop2-fragment01 7541	1	Tot nu toe heeft de luchtmacht noch het bedrijfsleven de noodzaak van een snelle keuze voor de JSF kunnen aantonen . 	VERB	20
+Vop2-fragment01 7542	0	Aan de andere kant is er geen enkele reden te zwichten voor politieke druk die Europese NAVO-partners op premier Kok uitoefenen ten gunste van een Europese aankoop . 	VERB	5
+Vop2-fragment01 7543	0	Aan de andere kant is er geen enkele reden te zwichten voor politieke druk die Europese NAVO-partners op premier Kok uitoefenen ten gunste van een Europese aankoop . 	VERB	11
+Vop2-fragment01 7544	1	Aan de andere kant is er geen enkele reden te zwichten voor politieke druk die Europese NAVO-partners op premier Kok uitoefenen ten gunste van een Europese aankoop . 	VERB	21
+Vop2-fragment01 7545	0	Nederland moet zijn handen vrijhouden om het beste vliegtuig tegen de voordeligste prijs binnen te halen . 	VERB	2
+Vop2-fragment01 7546	1	Nederland moet zijn handen vrijhouden om het beste vliegtuig tegen de voordeligste prijs binnen te halen . 	VERB	5
+Vop2-fragment01 7547	1	Nederland moet zijn handen vrijhouden om het beste vliegtuig tegen de voordeligste prijs binnen te halen . 	VERB	16
+Vop2-fragment01 7548	0	Het bedrag van 5 tot 9 miljard euro ( 12 tot 20 miljard gulden ) dat de vervanging van de F -16 gaat kosten , vereist de uiterste zorgvuldigheid . 	VERB	23
+Vop2-fragment01 7549	0	Het bedrag van 5 tot 9 miljard euro ( 12 tot 20 miljard gulden ) dat de vervanging van de F -16 gaat kosten , vereist de uiterste zorgvuldigheid . 	VERB	26
+Vop3-fragment01 7550	0	Beleid recreatiewoningen is hypocriet en kortzichtig 	VERB	0
+Vop3-fragment01 7551	0	In de discussies over al of niet permanent wonen in recreatiewoningen , ontbreekt een analyse en overheerst betutteling . 	VERB	9
+Vop3-fragment01 7552	1	In de discussies over al of niet permanent wonen in recreatiewoningen , ontbreekt een analyse en overheerst betutteling . 	VERB	13
+Vop3-fragment01 7553	0	Bovendien is het argument van gemeenten dat verstedelijking het gevolg is , onzin . 	VERB	2
+Vop3-fragment01 7554	0	Bovendien is het argument van gemeenten dat verstedelijking het gevolg is , onzin . 	VERB	11
+Vop3-fragment01 7555	0	Zij hebben zelf de bouw goedgekeurd , meent Henk Voogd . 	VERB	2
+Vop3-fragment01 7556	0	Zij hebben zelf de bouw goedgekeurd , meent Henk Voogd . 	VERB	6
+Vop3-fragment01 7557	0	Zij hebben zelf de bouw goedgekeurd , meent Henk Voogd . 	VERB	8
+Vop3-fragment01 7558	0	HET kabinet heeft onlangs besloten om de permanente bewoning van recreatiewoningen als een economisch delict te gaan bestraffen . 	VERB	3
+Vop3-fragment01 7559	1	HET kabinet heeft onlangs besloten om de permanente bewoning van recreatiewoningen als een economisch delict te gaan bestraffen . 	VERB	5
+Vop3-fragment01 7560	0	HET kabinet heeft onlangs besloten om de permanente bewoning van recreatiewoningen als een economisch delict te gaan bestraffen . 	VERB	17
+Vop3-fragment01 7561	0	HET kabinet heeft onlangs besloten om de permanente bewoning van recreatiewoningen als een economisch delict te gaan bestraffen . 	VERB	18
+Vop3-fragment01 7562	0	Nederland staat bekend om het respect voor individuele vrijheden en verdraagzaamheid . 	VERB	2
+Vop3-fragment01 7563	0	Behalve bij recreatiewoningen , waar sprake is van overheidsbetutteling . 	VERB	7
+Vop3-fragment01 7564	0	Waar praten we over ? 	VERB	2
+Vop3-fragment01 7565	0	In een recreatiewoning , zoals van CenterParks , mogen het hele jaar door mensen wonen , maar - dit is de essentie - alleen niet dezelfde mensen , want dat schaadt volgens de regering de omgeving . 	VERB	9
+Vop3-fragment01 7566	0	In een recreatiewoning , zoals van CenterParks , mogen het hele jaar door mensen wonen , maar - dit is de essentie - alleen niet dezelfde mensen , want dat schaadt volgens de regering de omgeving . 	VERB	15
+Vop3-fragment01 7567	0	In een recreatiewoning , zoals van CenterParks , mogen het hele jaar door mensen wonen , maar - dit is de essentie - alleen niet dezelfde mensen , want dat schaadt volgens de regering de omgeving . 	VERB	20
+Vop3-fragment01 7568	0	In een recreatiewoning , zoals van CenterParks , mogen het hele jaar door mensen wonen , maar - dit is de essentie - alleen niet dezelfde mensen , want dat schaadt volgens de regering de omgeving . 	VERB	31
+Vop3-fragment01 7569	0	Tante Sjaan en Ome Jan mogen dus niet na hun pensionering in een recreatiewoning gaan wonen , maar ze mogen er wel regelmatig komen , mits ze ergens anders een woning aanhouden . 	VERB	6
+Vop3-fragment01 7570	0	Tante Sjaan en Ome Jan mogen dus niet na hun pensionering in een recreatiewoning gaan wonen , maar ze mogen er wel regelmatig komen , mits ze ergens anders een woning aanhouden . 	VERB	15
+Vop3-fragment01 7571	0	Tante Sjaan en Ome Jan mogen dus niet na hun pensionering in een recreatiewoning gaan wonen , maar ze mogen er wel regelmatig komen , mits ze ergens anders een woning aanhouden . 	VERB	16
+Vop3-fragment01 7572	0	Tante Sjaan en Ome Jan mogen dus niet na hun pensionering in een recreatiewoning gaan wonen , maar ze mogen er wel regelmatig komen , mits ze ergens anders een woning aanhouden . 	VERB	20
+Vop3-fragment01 7573	0	Tante Sjaan en Ome Jan mogen dus niet na hun pensionering in een recreatiewoning gaan wonen , maar ze mogen er wel regelmatig komen , mits ze ergens anders een woning aanhouden . 	VERB	24
+Vop3-fragment01 7574	1	Tante Sjaan en Ome Jan mogen dus niet na hun pensionering in een recreatiewoning gaan wonen , maar ze mogen er wel regelmatig komen , mits ze ergens anders een woning aanhouden . 	VERB	32
+Vop3-fragment01 7575	1	Veel Sjaans en Jannen vonden dit een decadente luxe en verhuisden permanent naar hun gekochte recreatiewoning . 	VERB	5
+Vop3-fragment01 7576	0	Veel Sjaans en Jannen vonden dit een decadente luxe en verhuisden permanent naar hun gekochte recreatiewoning . 	VERB	11
+Vop3-fragment01 7577	0	Veel Sjaans en Jannen vonden dit een decadente luxe en verhuisden permanent naar hun gekochte recreatiewoning . 	VERB	15
+Vop3-fragment01 7578	1	Een strafbare zaak , vindt het kabinet . 	VERB	5
+Vop3-fragment01 7579	0	De Tweede Kamer heeft het afgelopen jaar veelvuldig gediscussieerd over dit verschijnsel . 	VERB	4
+Vop3-fragment01 7580	0	De Tweede Kamer heeft het afgelopen jaar veelvuldig gediscussieerd over dit verschijnsel . 	VERB	6
+Vop3-fragment01 7581	1	De Tweede Kamer heeft het afgelopen jaar veelvuldig gediscussieerd over dit verschijnsel . 	VERB	9
+Vop3-fragment01 7582	1	Nederland kent bij benadering rond 85 duizend recreatiewoningen , waarvan thans naar schatting ongeveer de helft min of meer permanent worden bewoond . 	VERB	2
+Vop3-fragment01 7583	0	Nederland kent bij benadering rond 85 duizend recreatiewoningen , waarvan thans naar schatting ongeveer de helft min of meer permanent worden bewoond . 	VERB	21
+Vop3-fragment01 7584	0	Nederland kent bij benadering rond 85 duizend recreatiewoningen , waarvan thans naar schatting ongeveer de helft min of meer permanent worden bewoond . 	VERB	22
+Vop3-fragment01 7585	0	Min of meer , want een onbekend deel van deze bewoners heeft nog een andere woning in bezit , om juridisch niet strafbaar te zijn . 	VERB	12
+Vop3-fragment01 7586	0	Min of meer , want een onbekend deel van deze bewoners heeft nog een andere woning in bezit , om juridisch niet strafbaar te zijn . 	VERB	25
+Vop3-fragment01 7587	0	Naar schatting 15 duizend recreatiewoningen worden bewoond door mensen die zich wel ter plaatse als bewoner hebben laten registreren . 	VERB	6
+Vop3-fragment01 7588	0	Naar schatting 15 duizend recreatiewoningen worden bewoond door mensen die zich wel ter plaatse als bewoner hebben laten registreren . 	VERB	7
+Vop3-fragment01 7589	0	Naar schatting 15 duizend recreatiewoningen worden bewoond door mensen die zich wel ter plaatse als bewoner hebben laten registreren . 	VERB	17
+Vop3-fragment01 7590	0	Naar schatting 15 duizend recreatiewoningen worden bewoond door mensen die zich wel ter plaatse als bewoner hebben laten registreren . 	VERB	18
+Vop3-fragment01 7591	0	Naar schatting 15 duizend recreatiewoningen worden bewoond door mensen die zich wel ter plaatse als bewoner hebben laten registreren . 	VERB	19
+Vop3-fragment01 7592	0	Hiervan is ongeveer een derde deel legitiem bewoner , omdat het bestemmingsplan dit toestaat . 	VERB	2
+Vop3-fragment01 7593	1	Hiervan is ongeveer een derde deel legitiem bewoner , omdat het bestemmingsplan dit toestaat . 	VERB	14
+Vop3-fragment01 7594	0	Anders dan discussies in de Tweede Kamer ( onder meer de motie-Van Gent ) suggereren , ligt het merendeel van de permanent bewoonde recreatiewoningen niet op een recreatieterrein ( ' slagboompark ' ) , maar gewoon ergens in het landelijk gebied aan een openbare weg met een regulier huisnummer . 	VERB	15
+Vop3-fragment01 7595	1	Anders dan discussies in de Tweede Kamer ( onder meer de motie-Van Gent ) suggereren , ligt het merendeel van de permanent bewoonde recreatiewoningen niet op een recreatieterrein ( ' slagboompark ' ) , maar gewoon ergens in het landelijk gebied aan een openbare weg met een regulier huisnummer . 	VERB	17
+Vop3-fragment01 7596	0	Voor een deel worden deze recreatiewoningen bewoond door minder draagkrachtige dorpsbewoners die door de sterk gestegen woningprijzen anders geen andere mogelijkheid meer zagen om in hun gebied te blijven wonen . 	VERB	4
+Vop3-fragment01 7597	0	Voor een deel worden deze recreatiewoningen bewoond door minder draagkrachtige dorpsbewoners die door de sterk gestegen woningprijzen anders geen andere mogelijkheid meer zagen om in hun gebied te blijven wonen . 	VERB	7
+Vop3-fragment01 7598	1	Voor een deel worden deze recreatiewoningen bewoond door minder draagkrachtige dorpsbewoners die door de sterk gestegen woningprijzen anders geen andere mogelijkheid meer zagen om in hun gebied te blijven wonen . 	VERB	16
+Vop3-fragment01 7599	1	Voor een deel worden deze recreatiewoningen bewoond door minder draagkrachtige dorpsbewoners die door de sterk gestegen woningprijzen anders geen andere mogelijkheid meer zagen om in hun gebied te blijven wonen . 	VERB	23
+Vop3-fragment01 7600	0	Voor een deel worden deze recreatiewoningen bewoond door minder draagkrachtige dorpsbewoners die door de sterk gestegen woningprijzen anders geen andere mogelijkheid meer zagen om in hun gebied te blijven wonen . 	VERB	29
+Vop3-fragment01 7601	0	Voor een deel worden deze recreatiewoningen bewoond door minder draagkrachtige dorpsbewoners die door de sterk gestegen woningprijzen anders geen andere mogelijkheid meer zagen om in hun gebied te blijven wonen . 	VERB	30
+Vop3-fragment01 7602	1	Recreatiewoningen lenen zich echter door hun beperkte omvang en perifere ligging vaak minder voor permanente bewoning door gezinnen met kinderen . 	VERB	2
+Vop3-fragment01 7603	0	Recreatiewoningen lenen zich echter door hun beperkte omvang en perifere ligging vaak minder voor permanente bewoning door gezinnen met kinderen . 	VERB	7
+Vop3-fragment01 7604	0	Daarentegen zijn ze vooral populair bij ouderen ( ' empty nesters ' ) die de herfst van hun leven in een recreatieve omgeving willen doorbrengen en bij starters op de woningmarkt . 	VERB	2
+Vop3-fragment01 7605	0	Daarentegen zijn ze vooral populair bij ouderen ( ' empty nesters ' ) die de herfst van hun leven in een recreatieve omgeving willen doorbrengen en bij starters op de woningmarkt . 	VERB	24
+Vop3-fragment01 7606	0	Daarentegen zijn ze vooral populair bij ouderen ( ' empty nesters ' ) die de herfst van hun leven in een recreatieve omgeving willen doorbrengen en bij starters op de woningmarkt . 	VERB	25
+Vop3-fragment01 7607	1	Het getuigt van weinig sociaal vermogen om deze groepen thans als economische delinquenten aan de schandpaal te nagelen . 	VERB	2
+Vop3-fragment01 7608	1	Het getuigt van weinig sociaal vermogen om deze groepen thans als economische delinquenten aan de schandpaal te nagelen . 	VERB	18
+Vop3-fragment01 7609	0	Opmerkelijk in deze discussie is het ontbreken van enige analyse van het fenomeen . 	VERB	5
+Vop3-fragment01 7610	0	Opmerkelijk in deze discussie is het ontbreken van enige analyse van het fenomeen . 	VERB	7
+Vop3-fragment01 7611	1	Bijvoorbeeld : waarom bekommeren vakantielanden als Duitsland , Frankrijk , Spanje , Groot-Brittannie , Noorwegen , om een paar toppers te noemen , zich niet om dit ' probleem ' of blijkt hieruit dat we te maken hebben met een exclusief Nederlands schijn ? 	VERB	4
+Vop3-fragment01 7612	0	Bijvoorbeeld : waarom bekommeren vakantielanden als Duitsland , Frankrijk , Spanje , Groot-Brittannie , Noorwegen , om een paar toppers te noemen , zich niet om dit ' probleem ' of blijkt hieruit dat we te maken hebben met een exclusief Nederlands schijn ? 	VERB	22
+Vop3-fragment01 7613	0	Bijvoorbeeld : waarom bekommeren vakantielanden als Duitsland , Frankrijk , Spanje , Groot-Brittannie , Noorwegen , om een paar toppers te noemen , zich niet om dit ' probleem ' of blijkt hieruit dat we te maken hebben met een exclusief Nederlands schijn ? 	VERB	32
+Vop3-fragment01 7614	1	Bijvoorbeeld : waarom bekommeren vakantielanden als Duitsland , Frankrijk , Spanje , Groot-Brittannie , Noorwegen , om een paar toppers te noemen , zich niet om dit ' probleem ' of blijkt hieruit dat we te maken hebben met een exclusief Nederlands schijn ? 	VERB	37
+Vop3-fragment01 7615	1	Bijvoorbeeld : waarom bekommeren vakantielanden als Duitsland , Frankrijk , Spanje , Groot-Brittannie , Noorwegen , om een paar toppers te noemen , zich niet om dit ' probleem ' of blijkt hieruit dat we te maken hebben met een exclusief Nederlands schijn ? 	VERB	38
+Vop3-fragment01 7616	1	Bijvoorbeeld : waarom bekommeren vakantielanden als Duitsland , Frankrijk , Spanje , Groot-Brittannie , Noorwegen , om een paar toppers te noemen , zich niet om dit ' probleem ' of blijkt hieruit dat we te maken hebben met een exclusief Nederlands schijn ? 	VERB	43
+Vop3-fragment01 7617	0	In de Vijfde Nota Ruimtelijke Ordening wordt helaas geen enkele moeite gedaan om het besluit over het verbod te onderbouwen . 	VERB	7
+Vop3-fragment01 7618	0	In de Vijfde Nota Ruimtelijke Ordening wordt helaas geen enkele moeite gedaan om het besluit over het verbod te onderbouwen . 	VERB	12
+Vop3-fragment01 7619	1	In de Vijfde Nota Ruimtelijke Ordening wordt helaas geen enkele moeite gedaan om het besluit over het verbod te onderbouwen . 	VERB	20
+Vop3-fragment01 7620	0	Terwijl dit op grond van artikel 3:4 van Algemene wet Bestuursrecht wel had moeten gebeuren . 	VERB	13
+Vop3-fragment01 7621	0	Terwijl dit op grond van artikel 3:4 van Algemene wet Bestuursrecht wel had moeten gebeuren . 	VERB	14
+Vop3-fragment01 7622	0	Terwijl dit op grond van artikel 3:4 van Algemene wet Bestuursrecht wel had moeten gebeuren . 	VERB	15
+Vop3-fragment01 7623	0	Wie de handelingen van de Tweede Kamer naleest over dit thema , merkt dat deze de diepgang hebben van een platbodem . 	VERB	8
+Vop3-fragment01 7624	0	Wie de handelingen van de Tweede Kamer naleest over dit thema , merkt dat deze de diepgang hebben van een platbodem . 	VERB	13
+Vop3-fragment01 7625	1	Wie de handelingen van de Tweede Kamer naleest over dit thema , merkt dat deze de diepgang hebben van een platbodem . 	VERB	18
+Vop3-fragment01 7626	0	Er is brede overeenstemming dat permanente bewoning van recreatiewoningen vanuit planologisch en oogpunt ongewenst is , maar niemand die zich afvraagt of , en waarom , dit zo is . 	VERB	2
+Vop3-fragment01 7627	1	Er is brede overeenstemming dat permanente bewoning van recreatiewoningen vanuit planologisch en oogpunt ongewenst is , maar niemand die zich afvraagt of , en waarom , dit zo is . 	VERB	13
+Vop3-fragment01 7628	0	Er is brede overeenstemming dat permanente bewoning van recreatiewoningen vanuit planologisch en oogpunt ongewenst is , maar niemand die zich afvraagt of , en waarom , dit zo is . 	VERB	15
+Vop3-fragment01 7629	0	Er is brede overeenstemming dat permanente bewoning van recreatiewoningen vanuit planologisch en oogpunt ongewenst is , maar niemand die zich afvraagt of , en waarom , dit zo is . 	VERB	21
+Vop3-fragment01 7630	0	Er is brede overeenstemming dat permanente bewoning van recreatiewoningen vanuit planologisch en oogpunt ongewenst is , maar niemand die zich afvraagt of , en waarom , dit zo is . 	VERB	29
+Vop3-fragment01 7631	0	Waarom zou een doorlopend bezoek van ' incidentele ' recreanten de natuur wel beschermen en van een permanente recreant juist niet ? 	VERB	2
+Vop3-fragment01 7632	0	Waarom zou een doorlopend bezoek van ' incidentele ' recreanten de natuur wel beschermen en van een permanente recreant juist niet ? 	VERB	14
+Vop3-fragment01 7633	1	Ook de mogelijkheid van het tegendeel , dat een permanente bewoner juist zorgvuldiger met zijn omgeving omspringt dan een tijdelijke bewoner , wordt door niemand opgemerkt . 	VERB	17
+Vop3-fragment01 7634	0	Ook de mogelijkheid van het tegendeel , dat een permanente bewoner juist zorgvuldiger met zijn omgeving omspringt dan een tijdelijke bewoner , wordt door niemand opgemerkt . 	VERB	23
+Vop3-fragment01 7635	0	Ook de mogelijkheid van het tegendeel , dat een permanente bewoner juist zorgvuldiger met zijn omgeving omspringt dan een tijdelijke bewoner , wordt door niemand opgemerkt . 	VERB	26
+Vop3-fragment01 7636	0	Een veel gehoord argument tegen permanente bewoning van recreatiewoningen is dat het leidt tot een verstening van het landelijke gebied . 	VERB	3
+Vop3-fragment01 7637	0	Een veel gehoord argument tegen permanente bewoning van recreatiewoningen is dat het leidt tot een verstening van het landelijke gebied . 	VERB	10
+Vop3-fragment01 7638	1	Een veel gehoord argument tegen permanente bewoning van recreatiewoningen is dat het leidt tot een verstening van het landelijke gebied . 	VERB	13
+Vop3-fragment01 7639	0	' Als recreatiewoningen permanent bewoond worden , betekent dat verstedelijking in gebieden die daarvoor niet zijn aangewezen ' , aldus een verklaring van de minister van VROM . 	VERB	5
+Vop3-fragment01 7640	0	' Als recreatiewoningen permanent bewoond worden , betekent dat verstedelijking in gebieden die daarvoor niet zijn aangewezen ' , aldus een verklaring van de minister van VROM . 	VERB	6
+Vop3-fragment01 7641	0	' Als recreatiewoningen permanent bewoond worden , betekent dat verstedelijking in gebieden die daarvoor niet zijn aangewezen ' , aldus een verklaring van de minister van VROM . 	VERB	8
+Vop3-fragment01 7642	0	' Als recreatiewoningen permanent bewoond worden , betekent dat verstedelijking in gebieden die daarvoor niet zijn aangewezen ' , aldus een verklaring van de minister van VROM . 	VERB	16
+Vop3-fragment01 7643	1	' Als recreatiewoningen permanent bewoond worden , betekent dat verstedelijking in gebieden die daarvoor niet zijn aangewezen ' , aldus een verklaring van de minister van VROM . 	VERB	17
+Vop3-fragment01 7644	0	Een vreemde redenering : een woning die het gehele jaar door wisselend wordt bewoond geeft geen verstedelijking , terwijl een woning die door hetzelfde huishouden wordt bewoond wel verstedelijking geeft . 	VERB	12
+Vop3-fragment01 7645	0	Een vreemde redenering : een woning die het gehele jaar door wisselend wordt bewoond geeft geen verstedelijking , terwijl een woning die door hetzelfde huishouden wordt bewoond wel verstedelijking geeft . 	VERB	13
+Vop3-fragment01 7646	0	Een vreemde redenering : een woning die het gehele jaar door wisselend wordt bewoond geeft geen verstedelijking , terwijl een woning die door hetzelfde huishouden wordt bewoond wel verstedelijking geeft . 	VERB	14
+Vop3-fragment01 7647	1	Een vreemde redenering : een woning die het gehele jaar door wisselend wordt bewoond geeft geen verstedelijking , terwijl een woning die door hetzelfde huishouden wordt bewoond wel verstedelijking geeft . 	VERB	15
+Vop3-fragment01 7648	0	Een vreemde redenering : een woning die het gehele jaar door wisselend wordt bewoond geeft geen verstedelijking , terwijl een woning die door hetzelfde huishouden wordt bewoond wel verstedelijking geeft . 	VERB	26
+Vop3-fragment01 7649	0	Een vreemde redenering : een woning die het gehele jaar door wisselend wordt bewoond geeft geen verstedelijking , terwijl een woning die door hetzelfde huishouden wordt bewoond wel verstedelijking geeft . 	VERB	27
+Vop3-fragment01 7650	1	Een vreemde redenering : een woning die het gehele jaar door wisselend wordt bewoond geeft geen verstedelijking , terwijl een woning die door hetzelfde huishouden wordt bewoond wel verstedelijking geeft . 	VERB	30
+Vop3-fragment01 7651	0	Dit is uiteraard een onzinnig argument . 	VERB	2
+Vop3-fragment01 7652	0	Niet de wijze van bewoning bepaalt de verstedelijking , maar het feit dat de bouwwerken ooit door de overheid zijn toegelaten . 	VERB	6
+Vop3-fragment01 7653	0	Niet de wijze van bewoning bepaalt de verstedelijking , maar het feit dat de bouwwerken ooit door de overheid zijn toegelaten . 	VERB	20
+Vop3-fragment01 7654	1	Niet de wijze van bewoning bepaalt de verstedelijking , maar het feit dat de bouwwerken ooit door de overheid zijn toegelaten . 	VERB	21
+Vop3-fragment01 7655	0	Het is hypocriet dat de discussie over recreatiewoningen wordt versmald tot het verbieden van de permanente bewoning . 	VERB	2
+Vop3-fragment01 7656	0	Het is hypocriet dat de discussie over recreatiewoningen wordt versmald tot het verbieden van de permanente bewoning . 	VERB	9
+Vop3-fragment01 7657	1	Het is hypocriet dat de discussie over recreatiewoningen wordt versmald tot het verbieden van de permanente bewoning . 	VERB	10
+Vop3-fragment01 7658	0	Het is hypocriet dat de discussie over recreatiewoningen wordt versmald tot het verbieden van de permanente bewoning . 	VERB	13
+Vop3-fragment01 7659	0	Geen Kamerlid die zich afvraagt of de discussie niet meer moet gaan over het toelatings van recreatiewoningen . 	VERB	5
+Vop3-fragment01 7660	0	Geen Kamerlid die zich afvraagt of de discussie niet meer moet gaan over het toelatings van recreatiewoningen . 	VERB	11
+Vop3-fragment01 7661	1	Geen Kamerlid die zich afvraagt of de discussie niet meer moet gaan over het toelatings van recreatiewoningen . 	VERB	12
+Vop3-fragment01 7662	0	Ik ken gemeenten die in het ene bestemmingsplan klagen over de te hoge recreatiedruk , terwijl ze nota bene het aangrenzende bestemmingsplan aanpassen om een projectontwikkelaar een serie recreatiebungalows te laten bouwen . 	VERB	2
+Vop3-fragment01 7663	0	Ik ken gemeenten die in het ene bestemmingsplan klagen over de te hoge recreatiedruk , terwijl ze nota bene het aangrenzende bestemmingsplan aanpassen om een projectontwikkelaar een serie recreatiebungalows te laten bouwen . 	VERB	9
+Vop3-fragment01 7664	1	Ik ken gemeenten die in het ene bestemmingsplan klagen over de te hoge recreatiedruk , terwijl ze nota bene het aangrenzende bestemmingsplan aanpassen om een projectontwikkelaar een serie recreatiebungalows te laten bouwen . 	VERB	23
+Vop3-fragment01 7665	0	Ik ken gemeenten die in het ene bestemmingsplan klagen over de te hoge recreatiedruk , terwijl ze nota bene het aangrenzende bestemmingsplan aanpassen om een projectontwikkelaar een serie recreatiebungalows te laten bouwen . 	VERB	31
+Vop3-fragment01 7666	0	Ik ken gemeenten die in het ene bestemmingsplan klagen over de te hoge recreatiedruk , terwijl ze nota bene het aangrenzende bestemmingsplan aanpassen om een projectontwikkelaar een serie recreatiebungalows te laten bouwen . 	VERB	32
+Vop3-fragment01 7667	0	Bungalows met een bebouwd oppervlakte van een luxe woning ( 150 vierkante meter of meer ) gaan voor zo'n forse prijs van de hand dat zelfs een leek kan uitrekenen dat een dergelijke investering er met verhuur als vakantiewoning nooit uit kan komen . 	VERB	4
+Vop3-fragment01 7668	1	Bungalows met een bebouwd oppervlakte van een luxe woning ( 150 vierkante meter of meer ) gaan voor zo'n forse prijs van de hand dat zelfs een leek kan uitrekenen dat een dergelijke investering er met verhuur als vakantiewoning nooit uit kan komen . 	VERB	17
+Vop3-fragment01 7669	0	Bungalows met een bebouwd oppervlakte van een luxe woning ( 150 vierkante meter of meer ) gaan voor zo'n forse prijs van de hand dat zelfs een leek kan uitrekenen dat een dergelijke investering er met verhuur als vakantiewoning nooit uit kan komen . 	VERB	29
+Vop3-fragment01 7670	0	Bungalows met een bebouwd oppervlakte van een luxe woning ( 150 vierkante meter of meer ) gaan voor zo'n forse prijs van de hand dat zelfs een leek kan uitrekenen dat een dergelijke investering er met verhuur als vakantiewoning nooit uit kan komen . 	VERB	30
+Vop3-fragment01 7671	0	Bungalows met een bebouwd oppervlakte van een luxe woning ( 150 vierkante meter of meer ) gaan voor zo'n forse prijs van de hand dat zelfs een leek kan uitrekenen dat een dergelijke investering er met verhuur als vakantiewoning nooit uit kan komen . 	VERB	42
+Vop3-fragment01 7672	1	Bungalows met een bebouwd oppervlakte van een luxe woning ( 150 vierkante meter of meer ) gaan voor zo'n forse prijs van de hand dat zelfs een leek kan uitrekenen dat een dergelijke investering er met verhuur als vakantiewoning nooit uit kan komen . 	VERB	43
+Vop3-fragment01 7673	0	Wie is dan de schuldige als permanente bewoning optreedt ? 	VERB	2
+Vop3-fragment01 7674	1	Wie is dan de schuldige als permanente bewoning optreedt ? 	VERB	9
+Vop3-fragment01 7675	0	De veelal agrarische gemeente met weinig nieuwbouwactiviteiten , die de extra inkomsten van grondverkoop e.d. en extra inwoners goed kon gebruiken ? 	VERB	15
+Vop3-fragment01 7676	0	De veelal agrarische gemeente met weinig nieuwbouwactiviteiten , die de extra inkomsten van grondverkoop e.d. en extra inwoners goed kon gebruiken ? 	VERB	20
+Vop3-fragment01 7677	1	De veelal agrarische gemeente met weinig nieuwbouwactiviteiten , die de extra inkomsten van grondverkoop e.d. en extra inwoners goed kon gebruiken ? 	VERB	21
+Vop3-fragment01 7678	0	De projectontwikkelaar die via suggestieve advertenties , al dan niet via time sharing , zijn kopers lokt ? 	VERB	15
+Vop3-fragment01 7679	0	De projectontwikkelaar die via suggestieve advertenties , al dan niet via time sharing , zijn kopers lokt ? 	VERB	17
+Vop3-fragment01 7680	0	Of de koper die opstandig wordt , omdat hij niet van zijn eigendomsrecht gebruik kan maken op het tijdstip dat hem zint ? 	VERB	6
+Vop3-fragment01 7681	0	Of de koper die opstandig wordt , omdat hij niet van zijn eigendomsrecht gebruik kan maken op het tijdstip dat hem zint ? 	VERB	15
+Vop3-fragment01 7682	1	Of de koper die opstandig wordt , omdat hij niet van zijn eigendomsrecht gebruik kan maken op het tijdstip dat hem zint ? 	VERB	16
+Vop3-fragment01 7683	0	Of de koper die opstandig wordt , omdat hij niet van zijn eigendomsrecht gebruik kan maken op het tijdstip dat hem zint ? 	VERB	22
+Vop3-fragment01 7684	1	Het huidige beleid om de aandacht primair te richten op de bewoners is kortzichtig en lijkt op de ongelukkige Franse aanpak van de drugscriminaliteit : de gebruiker krijgt klappen , terwijl de veroorzakers van overlast ongemoeid worden gelaten . 	VERB	9
+Vop3-fragment01 7685	0	Het huidige beleid om de aandacht primair te richten op de bewoners is kortzichtig en lijkt op de ongelukkige Franse aanpak van de drugscriminaliteit : de gebruiker krijgt klappen , terwijl de veroorzakers van overlast ongemoeid worden gelaten . 	VERB	13
+Vop3-fragment01 7686	0	Het huidige beleid om de aandacht primair te richten op de bewoners is kortzichtig en lijkt op de ongelukkige Franse aanpak van de drugscriminaliteit : de gebruiker krijgt klappen , terwijl de veroorzakers van overlast ongemoeid worden gelaten . 	VERB	16
+Vop3-fragment01 7687	1	Het huidige beleid om de aandacht primair te richten op de bewoners is kortzichtig en lijkt op de ongelukkige Franse aanpak van de drugscriminaliteit : de gebruiker krijgt klappen , terwijl de veroorzakers van overlast ongemoeid worden gelaten . 	VERB	28
+Vop3-fragment01 7688	0	Het huidige beleid om de aandacht primair te richten op de bewoners is kortzichtig en lijkt op de ongelukkige Franse aanpak van de drugscriminaliteit : de gebruiker krijgt klappen , terwijl de veroorzakers van overlast ongemoeid worden gelaten . 	VERB	37
+Vop3-fragment01 7689	0	Het huidige beleid om de aandacht primair te richten op de bewoners is kortzichtig en lijkt op de ongelukkige Franse aanpak van de drugscriminaliteit : de gebruiker krijgt klappen , terwijl de veroorzakers van overlast ongemoeid worden gelaten . 	VERB	38
+Vop3-fragment01 7690	1	Bovendien werkt het niet . 	VERB	2
+Vop3-fragment01 7691	0	De permanente bewoner zal , als de druk hoog wordt , naast zijn recreatiewoning een tweede woning aanschaffen , die dient als legitimatie voor de recreatiewoning . 	VERB	4
+Vop3-fragment01 7692	0	De permanente bewoner zal , als de druk hoog wordt , naast zijn recreatiewoning een tweede woning aanschaffen , die dient als legitimatie voor de recreatiewoning . 	VERB	10
+Vop3-fragment01 7693	0	De permanente bewoner zal , als de druk hoog wordt , naast zijn recreatiewoning een tweede woning aanschaffen , die dient als legitimatie voor de recreatiewoning . 	VERB	18
+Vop3-fragment01 7694	1	De permanente bewoner zal , als de druk hoog wordt , naast zijn recreatiewoning een tweede woning aanschaffen , die dient als legitimatie voor de recreatiewoning . 	VERB	21
+Vop3-fragment01 7695	1	Door het actief bestrijden van de permanente bewoning van recreatiewoningen zal dus een extra vraag op de woningmarkt ontstaan naar goedkope woningen , vooral het segment waar lagere groepen ook gebruik van maken . 	VERB	4
+Vop3-fragment01 7696	0	Door het actief bestrijden van de permanente bewoning van recreatiewoningen zal dus een extra vraag op de woningmarkt ontstaan naar goedkope woningen , vooral het segment waar lagere groepen ook gebruik van maken . 	VERB	11
+Vop3-fragment01 7697	0	Door het actief bestrijden van de permanente bewoning van recreatiewoningen zal dus een extra vraag op de woningmarkt ontstaan naar goedkope woningen , vooral het segment waar lagere groepen ook gebruik van maken . 	VERB	19
+Vop3-fragment01 7698	1	Door het actief bestrijden van de permanente bewoning van recreatiewoningen zal dus een extra vraag op de woningmarkt ontstaan naar goedkope woningen , vooral het segment waar lagere groepen ook gebruik van maken . 	VERB	33
+Vop3-fragment01 7699	0	Uiteindelijk zal de betutteling van eigenaren van recreatiewoningen juist leiden tot meer , en niet minder , verstedelijking , ook al wordt met het huidige beleid het omgekeerde gesuggereerd . 	VERB	2
+Vop3-fragment01 7700	1	Uiteindelijk zal de betutteling van eigenaren van recreatiewoningen juist leiden tot meer , en niet minder , verstedelijking , ook al wordt met het huidige beleid het omgekeerde gesuggereerd . 	VERB	10
+Vop3-fragment01 7701	0	Uiteindelijk zal de betutteling van eigenaren van recreatiewoningen juist leiden tot meer , en niet minder , verstedelijking , ook al wordt met het huidige beleid het omgekeerde gesuggereerd . 	VERB	22
+Vop3-fragment01 7702	1	Uiteindelijk zal de betutteling van eigenaren van recreatiewoningen juist leiden tot meer , en niet minder , verstedelijking , ook al wordt met het huidige beleid het omgekeerde gesuggereerd . 	VERB	28
+Vop3-fragment01 7703	0	Uiteindelijk zal de betutteling van eigenaren van recreatiewoningen juist leiden tot meer , en niet minder , verstedelijking , ook al wordt met het huidige beleid het omgekeerde gesuggereerd . 	VERB	29
+Vop3-fragment01 7704	0	Henk Voogd is hoogleraar planologie en stadsgeografie aan de universiteit van Groningen . 	VERB	3
+Vsp1-fragment01 7705	0	Schaatsend op een roze wolk vond Jochem Uytdehaage vrijdag de macht en het tactisch vernuft om voor de derde maal deze winter de deur naar Salt Lake City te openen . 	VERB	1
+Vsp1-fragment01 7706	1	Schaatsend op een roze wolk vond Jochem Uytdehaage vrijdag de macht en het tactisch vernuft om voor de derde maal deze winter de deur naar Salt Lake City te openen . 	VERB	6
+Vsp1-fragment01 7707	1	Schaatsend op een roze wolk vond Jochem Uytdehaage vrijdag de macht en het tactisch vernuft om voor de derde maal deze winter de deur naar Salt Lake City te openen . 	VERB	30
+Vsp1-fragment01 7708	1	In de bloedstollende skate off voor een ticket voor de olympische 1500 meter vond de 25-jarige alleskunner vrijdag een formule die twee pure specialisten , Hersman en Wennemars , vergeefs poogden te kraken . 	VERB	14
+Vsp1-fragment01 7709	1	In de bloedstollende skate off voor een ticket voor de olympische 1500 meter vond de 25-jarige alleskunner vrijdag een formule die twee pure specialisten , Hersman en Wennemars , vergeefs poogden te kraken . 	VERB	33
+Vsp1-fragment01 7710	1	Met 1.49,22 onderstreepte Uytdehaage eens te meer zijn vermogen op de mijl . 	VERB	3
+Vsp1-fragment01 7711	1	Sceptici beschouwden zijn vierde plaats tijdens het olympisch kwalificatie-toernooi als een eenmalige tik contra Hersman ( 5de ) en Wennemars ( 6de ) , maar op bijna identieke wijze bleek de allrounder gisteren opnieuw de twee geboren milers de baas . 	VERB	2
+Vsp1-fragment01 7712	0	Sceptici beschouwden zijn vierde plaats tijdens het olympisch kwalificatie-toernooi als een eenmalige tik contra Hersman ( 5de ) en Wennemars ( 6de ) , maar op bijna identieke wijze bleek de allrounder gisteren opnieuw de twee geboren milers de baas . 	VERB	30
+Vsp1-fragment01 7713	0	Wennemars kwam elfhonderdste te kort ( 1.49,33 ) , Hersman een seconde ( 1.50,23 ) . 	VERB	2
+Vsp1-fragment01 7714	0	In een vlaag van teleurstelling merkte Wennemars op dat Uytdehaage voordeel had genoten doordat hij kon finishen in de binnenbaan . 	VERB	6
+Vsp1-fragment01 7715	0	In een vlaag van teleurstelling merkte Wennemars op dat Uytdehaage voordeel had genoten doordat hij kon finishen in de binnenbaan . 	VERB	12
+Vsp1-fragment01 7716	0	In een vlaag van teleurstelling merkte Wennemars op dat Uytdehaage voordeel had genoten doordat hij kon finishen in de binnenbaan . 	VERB	13
+Vsp1-fragment01 7717	0	In een vlaag van teleurstelling merkte Wennemars op dat Uytdehaage voordeel had genoten doordat hij kon finishen in de binnenbaan . 	VERB	16
+Vsp1-fragment01 7718	0	In een vlaag van teleurstelling merkte Wennemars op dat Uytdehaage voordeel had genoten doordat hij kon finishen in de binnenbaan . 	VERB	17
+Vsp1-fragment01 7719	0	Daardoor had de uiteindelijke winnaar zich in de laatste ronde kunnen optrekken aan zijn tegenstander Groothuis . 	VERB	2
+Vsp1-fragment01 7720	0	Daardoor had de uiteindelijke winnaar zich in de laatste ronde kunnen optrekken aan zijn tegenstander Groothuis . 	VERB	11
+Vsp1-fragment01 7721	1	Daardoor had de uiteindelijke winnaar zich in de laatste ronde kunnen optrekken aan zijn tegenstander Groothuis . 	VERB	12
+Vsp1-fragment01 7722	1	Hersman zocht niet naar excuses . 	VERB	2
+Vsp1-fragment01 7723	0	' Ik ben dik een seconde langzamer . 	VERB	3
+Vsp1-fragment01 7724	0	Dan is het klaar , over , uit . 	VERB	2
+Vsp1-fragment01 7725	0	Uytdehaage ging als eerste van start en prees zich daar achteraf gelukkig mee . 	VERB	2
+Vsp1-fragment01 7726	0	Uytdehaage ging als eerste van start en prees zich daar achteraf gelukkig mee . 	VERB	8
+Vsp1-fragment01 7727	0	' Gaan en een tijd neerzetten , dat is zo gek nog niet . 	VERB	2
+Vsp1-fragment01 7728	1	' Gaan en een tijd neerzetten , dat is zo gek nog niet . 	VERB	6
+Vsp1-fragment01 7729	0	' Gaan en een tijd neerzetten , dat is zo gek nog niet . 	VERB	9
+Vsp1-fragment01 7730	0	Als je als laatste moet , heb je kans dat je je stukbijt op een tijd die voor je is gereden . 	VERB	5
+Vsp1-fragment01 7731	1	Als je als laatste moet , heb je kans dat je je stukbijt op een tijd die voor je is gereden . 	VERB	7
+Vsp1-fragment01 7732	1	Als je als laatste moet , heb je kans dat je je stukbijt op een tijd die voor je is gereden . 	VERB	13
+Vsp1-fragment01 7733	0	Als je als laatste moet , heb je kans dat je je stukbijt op een tijd die voor je is gereden . 	VERB	20
+Vsp1-fragment01 7734	0	Als je als laatste moet , heb je kans dat je je stukbijt op een tijd die voor je is gereden . 	VERB	21
+Vsp1-fragment01 7735	0	In tactisch opzicht liet hij zich niettemin van zijn beste kant zien . 	VERB	4
+Vsp1-fragment01 7736	0	In tactisch opzicht liet hij zich niettemin van zijn beste kant zien . 	VERB	12
+Vsp1-fragment01 7737	1	Na een relatief bescheiden opening ( 24,26 ) bouwde Uytdehaage zijn race gedoseerd op om uiteindelijk met een spetterende slotronde ( 29,5 ) het karwei af te maken . 	VERB	9
+Vsp1-fragment01 7738	1	Na een relatief bescheiden opening ( 24,26 ) bouwde Uytdehaage zijn race gedoseerd op om uiteindelijk met een spetterende slotronde ( 29,5 ) het karwei af te maken . 	VERB	13
+Vsp1-fragment01 7739	1	Na een relatief bescheiden opening ( 24,26 ) bouwde Uytdehaage zijn race gedoseerd op om uiteindelijk met een spetterende slotronde ( 29,5 ) het karwei af te maken . 	VERB	19
+Vsp1-fragment01 7740	0	Na een relatief bescheiden opening ( 24,26 ) bouwde Uytdehaage zijn race gedoseerd op om uiteindelijk met een spetterende slotronde ( 29,5 ) het karwei af te maken . 	VERB	28
+Vsp1-fragment01 7741	0	De moedigste poging om de hierarchie te wijzigen kwam op naam van Wennemars . 	VERB	8
+Vsp1-fragment01 7742	1	De moedigste poging om de hierarchie te wijzigen kwam op naam van Wennemars . 	VERB	9
+Vsp1-fragment01 7743	1	De sprinter uit Dalfsen opende zijn race furieus ( 23,50 ) en was op 1100 meter nog achttiende seconde sneller dan Uytdehaage , maar vergooide de winst door een matige laatste ronde ( 30,3 ) . 	VERB	5
+Vsp1-fragment01 7744	0	De sprinter uit Dalfsen opende zijn race furieus ( 23,50 ) en was op 1100 meter nog achttiende seconde sneller dan Uytdehaage , maar vergooide de winst door een matige laatste ronde ( 30,3 ) . 	VERB	13
+Vsp1-fragment01 7745	1	De sprinter uit Dalfsen opende zijn race furieus ( 23,50 ) en was op 1100 meter nog achttiende seconde sneller dan Uytdehaage , maar vergooide de winst door een matige laatste ronde ( 30,3 ) . 	VERB	25
+Vsp1-fragment01 7746	0	Wennemars komt in Salt Lake City in actie op de beide sprintnummers ( 500 meter en 1000 meter ) , maar vond in die wetenschap amper enige troost . 	VERB	2
+Vsp1-fragment01 7747	0	Wennemars komt in Salt Lake City in actie op de beide sprintnummers ( 500 meter en 1000 meter ) , maar vond in die wetenschap amper enige troost . 	VERB	22
+Vsp1-fragment01 7748	1	Op de beide sprintnummers beschouwt hij de Canadezen Wotherspoon en Ireland als uitgesproken favorieten en is het brons de meest reele optie , terwijl Wennmemars zichzelf op de 1500 meter als de evenknie van regerend olympisch kampioen S ndral beschouwt . 	VERB	5
+Vsp1-fragment01 7749	0	Op de beide sprintnummers beschouwt hij de Canadezen Wotherspoon en Ireland als uitgesproken favorieten en is het brons de meest reele optie , terwijl Wennmemars zichzelf op de 1500 meter als de evenknie van regerend olympisch kampioen S ndral beschouwt . 	VERB	13
+Vsp1-fragment01 7750	0	Op de beide sprintnummers beschouwt hij de Canadezen Wotherspoon en Ireland als uitgesproken favorieten en is het brons de meest reele optie , terwijl Wennmemars zichzelf op de 1500 meter als de evenknie van regerend olympisch kampioen S ndral beschouwt . 	VERB	16
+Vsp1-fragment01 7751	1	Op de beide sprintnummers beschouwt hij de Canadezen Wotherspoon en Ireland als uitgesproken favorieten en is het brons de meest reele optie , terwijl Wennmemars zichzelf op de 1500 meter als de evenknie van regerend olympisch kampioen S ndral beschouwt . 	VERB	40
+Vsp1-fragment01 7752	0	' Dan is het heel zuur als je straks toch niet kunt meedoen ' , zei hij . 	VERB	3
+Vsp1-fragment01 7753	0	' Dan is het heel zuur als je straks toch niet kunt meedoen ' , zei hij . 	VERB	12
+Vsp1-fragment01 7754	0	' Dan is het heel zuur als je straks toch niet kunt meedoen ' , zei hij . 	VERB	13
+Vsp1-fragment01 7755	0	' Dan is het heel zuur als je straks toch niet kunt meedoen ' , zei hij . 	VERB	16
+Vsp1-fragment01 7756	0	De ontknoping was een vervolg op de successtory die Uytdehaage deze winter schrijft . 	VERB	3
+Vsp1-fragment01 7757	1	De ontknoping was een vervolg op de successtory die Uytdehaage deze winter schrijft . 	VERB	13
+Vsp1-fragment01 7758	1	Na de verovering eind december van twee olympische startbewijzen op de vijf en tien kilometer , kaapte hij afgelopen weekeinde in Erfurt de Europese allroundtitel weg , om vervolgens gisteren zijn missie in Thialf te vervolgen . 	VERB	17
+Vsp1-fragment01 7759	0	Na de verovering eind december van twee olympische startbewijzen op de vijf en tien kilometer , kaapte hij afgelopen weekeinde in Erfurt de Europese allroundtitel weg , om vervolgens gisteren zijn missie in Thialf te vervolgen . 	VERB	19
+Vsp1-fragment01 7760	0	Na de verovering eind december van twee olympische startbewijzen op de vijf en tien kilometer , kaapte hij afgelopen weekeinde in Erfurt de Europese allroundtitel weg , om vervolgens gisteren zijn missie in Thialf te vervolgen . 	VERB	36
+Vsp1-fragment01 7761	1	Wijzend op het feit dat zijn 1500 meter zelfs de maestro S ndral machtig was , trok Uytdehaage een prettige conclusie . 	VERB	1
+Vsp1-fragment01 7762	0	Wijzend op het feit dat zijn 1500 meter zelfs de maestro S ndral machtig was , trok Uytdehaage een prettige conclusie . 	VERB	6
+Vsp1-fragment01 7763	0	Wijzend op het feit dat zijn 1500 meter zelfs de maestro S ndral machtig was , trok Uytdehaage een prettige conclusie . 	VERB	15
+Vsp1-fragment01 7764	1	Wijzend op het feit dat zijn 1500 meter zelfs de maestro S ndral machtig was , trok Uytdehaage een prettige conclusie . 	VERB	17
+Vsp1-fragment01 7765	0	' Ik doe niet zomaar mee , er is zeker iets mogelijk . 	VERB	3
+Vsp1-fragment01 7766	0	' Ik doe niet zomaar mee , er is zeker iets mogelijk . 	VERB	9
+Vsp1-fragment01 7767	1	Met zijn zege accentueerde Uytdehaage eens te meer zijn status als alleskunner . 	VERB	4
+Vsp1-fragment01 7768	1	Als enige Nederlandse schaatser komt de 25-jarige pupil van bondscoach Kemkers in Salt Lake City op de drie klassieke (allround)nummers ( 1500 m , 5 km , 10 km ) uit . 	VERB	5
+Vsp1-fragment01 7769	0	Tijdens de vorige Spelen beschikte alleen Ritsma over de klasse om een dergelijk programma af te werken . 	VERB	5
+Vsp1-fragment01 7770	0	Tijdens de vorige Spelen beschikte alleen Ritsma over de klasse om een dergelijk programma af te werken . 	VERB	17
+Vsp1-fragment01 7771	0	Sprinter Bos mag in Salt Lake City ook drie keer optreden , op de 500 , 1000 en 1500 meter . 	VERB	3
+Vsp1-fragment01 7772	1	Sprinter Bos mag in Salt Lake City ook drie keer optreden , op de 500 , 1000 en 1500 meter . 	VERB	11
+Vsp1-fragment01 7773	0	Voor Hersman werd de weg naar de Spelen in het slot gegooid . 	VERB	3
+Vsp1-fragment01 7774	1	Voor Hersman werd de weg naar de Spelen in het slot gegooid . 	VERB	12
+Vsp1-fragment01 7775	0	Na twee eerdere optredens , in 1994 in Hamar ( 8ste ) en 1998 in Nagano ( 6de ) , had hij in Salt Lake City nog eenmaal zijn specialiteit willen tonen . 	VERB	21
+Vsp1-fragment01 7776	0	Na twee eerdere optredens , in 1994 in Hamar ( 8ste ) en 1998 in Nagano ( 6de ) , had hij in Salt Lake City nog eenmaal zijn specialiteit willen tonen . 	VERB	31
+Vsp1-fragment01 7777	0	Na twee eerdere optredens , in 1994 in Hamar ( 8ste ) en 1998 in Nagano ( 6de ) , had hij in Salt Lake City nog eenmaal zijn specialiteit willen tonen . 	VERB	32
+Vsp1-fragment01 7778	0	Voor de skate off had hij echter ook al laten weten dat zijn liefde voor de sport niet onder een eventuele nederlaag te lijden zou hebben . 	VERB	5
+Vsp1-fragment01 7779	0	Voor de skate off had hij echter ook al laten weten dat zijn liefde voor de sport niet onder een eventuele nederlaag te lijden zou hebben . 	VERB	10
+Vsp1-fragment01 7780	0	Voor de skate off had hij echter ook al laten weten dat zijn liefde voor de sport niet onder een eventuele nederlaag te lijden zou hebben . 	VERB	11
+Vsp1-fragment01 7781	1	Voor de skate off had hij echter ook al laten weten dat zijn liefde voor de sport niet onder een eventuele nederlaag te lijden zou hebben . 	VERB	24
+Vsp1-fragment01 7782	0	Voor de skate off had hij echter ook al laten weten dat zijn liefde voor de sport niet onder een eventuele nederlaag te lijden zou hebben . 	VERB	25
+Vsp1-fragment01 7783	0	Voor de skate off had hij echter ook al laten weten dat zijn liefde voor de sport niet onder een eventuele nederlaag te lijden zou hebben . 	VERB	26
+Vsp1-fragment01 7784	0	' Ik kan er nog steeds van genieten . 	VERB	3
+Vsp1-fragment01 7785	0	' Ik kan er nog steeds van genieten . 	VERB	8
+Vsp2-fragment01 7786	1	Groenendaal meldt zich eindelijk eens van voren 	VERB	0
+Vsp2-fragment01 7787	0	Na weken van tegenslag zat het Richard Groenendaal bij de wereldbekerwedstrijd in Nommay eindelijk een keer mee . 	VERB	5
+Vsp2-fragment01 7788	0	In de laatste ronde kon de renner uit de stal profiteren van pech bij zijn Belgische ploeggenoot Sven Nijs . 	VERB	5
+Vsp2-fragment01 7789	0	In de laatste ronde kon de renner uit de stal profiteren van pech bij zijn Belgische ploeggenoot Sven Nijs . 	VERB	11
+Vsp2-fragment01 7790	0	Achter wereldkampioen Erwin Vervecken en Mario de Clercq reed hij voor het eerst dit seizoen naar een podiumplaats in de wereldbeker . 	VERB	9
+Vsp2-fragment01 7791	0	Gerben de Knegt en Maarten Nijland kwamen respectievelijk als zesde en zevende over de finish . 	VERB	7
+Vsp2-fragment01 7792	0	Vooral de klassering van Nijland was bemoedigend met het oog op de wereldtitelstrijd volgende maand in Zolder . 	VERB	6
+Vsp2-fragment01 7793	0	Vooral de klassering van Nijland was bemoedigend met het oog op de wereldtitelstrijd volgende maand in Zolder . 	VERB	7
+Vsp2-fragment01 7794	0	Vooral de klassering van Nijland was bemoedigend met het oog op de wereldtitelstrijd volgende maand in Zolder . 	VERB	14
+Vsp2-fragment01 7795	1	' Het gaat de goede kant op ' , stelde de renner uit Hengelo . 	VERB	3
+Vsp2-fragment01 7796	1	' Het gaat de goede kant op ' , stelde de renner uit Hengelo . 	VERB	10
+Vsp2-fragment01 7797	0	' Ik was eigenlijk een beetje bang voor dit parkoers omdat het zo snel was . 	VERB	3
+Vsp2-fragment01 7798	0	' Ik was eigenlijk een beetje bang voor dit parkoers omdat het zo snel was . 	VERB	15
+Vsp2-fragment01 7799	0	Maar ik kon toch mijn rondjes blijven draaien . 	VERB	3
+Vsp2-fragment01 7800	0	Maar ik kon toch mijn rondjes blijven draaien . 	VERB	7
+Vsp2-fragment01 7801	0	Maar ik kon toch mijn rondjes blijven draaien . 	VERB	8
+Vsp2-fragment01 7802	0	Dit is een mooie opsteker . 	VERB	2
+Vsp2-fragment01 7803	0	Ook Groenendaal bespeurt vooruitgang . 	VERB	3
+Vsp2-fragment01 7804	1	Zijn optreden op het harde en besneeuwde traject in Frankrijk geeft hem het benodigde vertrouwen voor de nationale titelstrijd , komend weekeinde in Zeddam . 	VERB	11
+Vsp2-fragment01 7805	0	Zijn optreden op het harde en besneeuwde traject in Frankrijk geeft hem het benodigde vertrouwen voor de nationale titelstrijd , komend weekeinde in Zeddam . 	VERB	21
+Vsp2-fragment01 7806	0	Ondanks zijn mindere optreden in dit seizoen vindt hij dat hij het aan zijn stand verplicht is om zijn titel te prolongeren . 	VERB	2
+Vsp2-fragment01 7807	1	Ondanks zijn mindere optreden in dit seizoen vindt hij dat hij het aan zijn stand verplicht is om zijn titel te prolongeren . 	VERB	8
+Vsp2-fragment01 7808	0	Ondanks zijn mindere optreden in dit seizoen vindt hij dat hij het aan zijn stand verplicht is om zijn titel te prolongeren . 	VERB	16
+Vsp2-fragment01 7809	0	Ondanks zijn mindere optreden in dit seizoen vindt hij dat hij het aan zijn stand verplicht is om zijn titel te prolongeren . 	VERB	17
+Vsp2-fragment01 7810	0	Ondanks zijn mindere optreden in dit seizoen vindt hij dat hij het aan zijn stand verplicht is om zijn titel te prolongeren . 	VERB	22
+Vsp2-fragment01 7811	0	' Gezien de resultaten van De Knegt en Nijland zal het zeker niet makkelijk worden . 	VERB	10
+Vsp2-fragment01 7812	0	' Gezien de resultaten van De Knegt en Nijland zal het zeker niet makkelijk worden . 	VERB	15
+Vsp2-fragment01 7813	0	Maar ik moet die trui gewoon weer pakken . 	VERB	3
+Vsp2-fragment01 7814	1	Maar ik moet die trui gewoon weer pakken . 	VERB	8
+Vsp2-fragment01 7815	1	De Knegt rekent op een spannend kampioenschap in Montferland . 	VERB	3
+Vsp2-fragment01 7816	0	Gezien zijn prestaties van dit seizoen geldt hij als een belangrijke kanshebber . 	VERB	7
+Vsp2-fragment01 7817	1	' Alles heeft met de vorm van de dag te maken , maar het kan een raar kampioenschap worden . 	VERB	3
+Vsp2-fragment01 7818	1	' Alles heeft met de vorm van de dag te maken , maar het kan een raar kampioenschap worden . 	VERB	11
+Vsp2-fragment01 7819	0	' Alles heeft met de vorm van de dag te maken , maar het kan een raar kampioenschap worden . 	VERB	15
+Vsp2-fragment01 7820	0	' Alles heeft met de vorm van de dag te maken , maar het kan een raar kampioenschap worden . 	VERB	19
+Vsp2-fragment01 7821	0	De renner uit Goirle was na zijn eerste profzege donderdag in Surhuisterveen met hoge verwachtingen in Nommay gestart . 	VERB	5
+Vsp2-fragment01 7822	0	De renner uit Goirle was na zijn eerste profzege donderdag in Surhuisterveen met hoge verwachtingen in Nommay gestart . 	VERB	18
+Vsp2-fragment01 7823	0	In de eerste ronde vond er voor hem een valpartij plaats . 	VERB	5
+Vsp2-fragment01 7824	0	Bijna de hele wedstrijd was hij alleen in de achtervolging . 	VERB	5
+Vsp2-fragment01 7825	0	' Eigenlijk was het meteen al een hopeloze zaak . 	VERB	3
+Vsp2-fragment01 7826	0	Ik kon op een gegeven moment nog wel bij Richard aansluiten , maar moest passen toen hij demmareerde . 	VERB	2
+Vsp2-fragment01 7827	0	Ik kon op een gegeven moment nog wel bij Richard aansluiten , maar moest passen toen hij demmareerde . 	VERB	5
+Vsp2-fragment01 7828	1	Ik kon op een gegeven moment nog wel bij Richard aansluiten , maar moest passen toen hij demmareerde . 	VERB	11
+Vsp2-fragment01 7829	0	Ik kon op een gegeven moment nog wel bij Richard aansluiten , maar moest passen toen hij demmareerde . 	VERB	14
+Vsp2-fragment01 7830	1	Ik kon op een gegeven moment nog wel bij Richard aansluiten , maar moest passen toen hij demmareerde . 	VERB	15
+Vsp2-fragment01 7831	0	Ik kon op een gegeven moment nog wel bij Richard aansluiten , maar moest passen toen hij demmareerde . 	VERB	18
+Vsp2-fragment01 7832	0	Die zesde plaats was het hoogste haalbare . 	VERB	4
+Vsp2-fragment01 7833	1	Groenendaal meldde zich van voren toen Vervecken , De Clercq en Nijs zich van de rest van het veld afscheidden . 	VERB	2
+Vsp2-fragment01 7834	0	Groenendaal meldde zich van voren toen Vervecken , De Clercq en Nijs zich van de rest van het veld afscheidden . 	VERB	20
+Vsp2-fragment01 7835	1	Door een schuiver verloor hij de aansluiting . 	VERB	4
+Vsp2-fragment01 7836	0	' Ik heb het toen een paar ronden echt heel slecht gehad . 	VERB	3
+Vsp2-fragment01 7837	0	' Ik heb het toen een paar ronden echt heel slecht gehad . 	VERB	8
+Vsp2-fragment01 7838	1	' Ik heb het toen een paar ronden echt heel slecht gehad . 	VERB	12
+Vsp2-fragment01 7839	0	Uiteindelijk kon ik toch herstellen en heb de achtervolging kunnen inzetten . 	VERB	2
+Vsp2-fragment01 7840	0	Uiteindelijk kon ik toch herstellen en heb de achtervolging kunnen inzetten . 	VERB	5
+Vsp2-fragment01 7841	0	Uiteindelijk kon ik toch herstellen en heb de achtervolging kunnen inzetten . 	VERB	7
+Vsp2-fragment01 7842	0	Uiteindelijk kon ik toch herstellen en heb de achtervolging kunnen inzetten . 	VERB	10
+Vsp2-fragment01 7843	1	Uiteindelijk kon ik toch herstellen en heb de achtervolging kunnen inzetten . 	VERB	11
+Vsp2-fragment01 7844	1	In de laatste ronde had ik een meevallertje en dat mag ook wel eens een keer . 	VERB	5
+Vsp2-fragment01 7845	0	In de laatste ronde had ik een meevallertje en dat mag ook wel eens een keer . 	VERB	11
+Vsp2-fragment01 7846	0	Nijs reed op dat moment solide op een derde plaats , maar kreeg in de afdaling te maken met een dubbele lus in zijn ketting . 	VERB	2
+Vsp2-fragment01 7847	1	Nijs reed op dat moment solide op een derde plaats , maar kreeg in de afdaling te maken met een dubbele lus in zijn ketting . 	VERB	13
+Vsp2-fragment01 7848	1	Nijs reed op dat moment solide op een derde plaats , maar kreeg in de afdaling te maken met een dubbele lus in zijn ketting . 	VERB	18
+Vsp2-fragment01 7849	0	De Belg kon dit euvel niet snel genoeg verhelpen en moest Groenendaal voor laten gaan . 	VERB	3
+Vsp2-fragment01 7850	0	De Belg kon dit euvel niet snel genoeg verhelpen en moest Groenendaal voor laten gaan . 	VERB	9
+Vsp2-fragment01 7851	0	De Belg kon dit euvel niet snel genoeg verhelpen en moest Groenendaal voor laten gaan . 	VERB	11
+Vsp2-fragment01 7852	0	De Belg kon dit euvel niet snel genoeg verhelpen en moest Groenendaal voor laten gaan . 	VERB	14
+Vsp2-fragment01 7853	0	De Belg kon dit euvel niet snel genoeg verhelpen en moest Groenendaal voor laten gaan . 	VERB	15
+Vsp2-fragment01 7854	0	Klassementsleider Nijs kwam uiteindelijk binnen als tiende en zag De Clercq tot op 22 punten naderen . 	VERB	3
+Vsp2-fragment01 7855	0	Klassementsleider Nijs kwam uiteindelijk binnen als tiende en zag De Clercq tot op 22 punten naderen . 	VERB	9
+Vsp2-fragment01 7856	1	Klassementsleider Nijs kwam uiteindelijk binnen als tiende en zag De Clercq tot op 22 punten naderen . 	VERB	16
+Vsp2-fragment01 7857	0	' De Clercq en Vervecken zijn zonder enige twijfel de sterksten op dit moment ' , concludeerde de Belg . 	VERB	6
+Vsp2-fragment01 7858	0	' De Clercq en Vervecken zijn zonder enige twijfel de sterksten op dit moment ' , concludeerde de Belg . 	VERB	17
+Vsp2-fragment01 7859	1	' Ik mis op dit moment de laatste explosieve kracht . 	VERB	3
+Vsp2-fragment01 7860	0	Ik hoop dat dit binnenkort terugkomt . 	VERB	2
+Vsp2-fragment01 7861	1	Ik hoop dat dit binnenkort terugkomt . 	VERB	6
+Vsp2-fragment01 7862	1	Vervecken stelde met zijn eerste overwinning in de wereldbeker nadrukkelijk zijn kandidatuur voor het Belgisch kampioenschap . 	VERB	2
+Vsp2-fragment01 7863	0	Deze wedstrijd wordt zondag op ' zijn ' parkoers in Koksijde verreden . 	VERB	3
+Vsp2-fragment01 7864	0	Deze wedstrijd wordt zondag op ' zijn ' parkoers in Koksijde verreden . 	VERB	7
+Vsp2-fragment01 7865	0	Deze wedstrijd wordt zondag op ' zijn ' parkoers in Koksijde verreden . 	VERB	12
+Vsp2-fragment01 7866	0	Evenals vorige week bij de Superprestigeveldrit in Diegem ontdeed hij zich in de slotfase eenvoudig van zijn vluchter De Clercq . 	VERB	9
+Vsp2-fragment01 7867	0	De routinier , die de voorgaande wereldbekerwedstrijd in zijn woonplaats Wortegem-Petegem won , verdedigt zondag de nationale titel . 	VERB	6
+Vsp2-fragment01 7868	0	De routinier , die de voorgaande wereldbekerwedstrijd in zijn woonplaats Wortegem-Petegem won , verdedigt zondag de nationale titel . 	VERB	12
+Vsp2-fragment01 7869	1	De routinier , die de voorgaande wereldbekerwedstrijd in zijn woonplaats Wortegem-Petegem won , verdedigt zondag de nationale titel . 	VERB	14
+Vsp2-fragment01 7870	0	' In het Belgische kampioenschap gelden andere regels ' , temperde Vervecken de hoge verwachtingen . 	VERB	6
+Vsp2-fragment01 7871	1	' In het Belgische kampioenschap gelden andere regels ' , temperde Vervecken de hoge verwachtingen . 	VERB	11
+Vsp2-fragment01 7872	0	' Maar ik geloof wel dat ik een goede keuze heb gemaakt om tussen kerst en oud en nieuw minder te rijden . 	VERB	4
+Vsp2-fragment01 7873	0	' Maar ik geloof wel dat ik een goede keuze heb gemaakt om tussen kerst en oud en nieuw minder te rijden . 	VERB	11
+Vsp2-fragment01 7874	1	' Maar ik geloof wel dat ik een goede keuze heb gemaakt om tussen kerst en oud en nieuw minder te rijden . 	VERB	12
+Vsp2-fragment01 7875	0	' Maar ik geloof wel dat ik een goede keuze heb gemaakt om tussen kerst en oud en nieuw minder te rijden . 	VERB	22
+Vsp2-fragment01 7876	1	In het verleden heb ik rond deze tijd altijd een mindere periode . 	VERB	4
+Vsp2-fragment01 7877	0	Het loont om een periode van rust in te lassen . 	VERB	2
+Vsp2-fragment01 7878	0	Het loont om een periode van rust in te lassen . 	VERB	10
+Vvp1-fragment01 7879	0	Duizenden Nederlandse bedrijven zijn niet verzekerd tegen terroristische aanslagen . 	VERB	4
+Vvp1-fragment01 7880	0	Duizenden Nederlandse bedrijven zijn niet verzekerd tegen terroristische aanslagen . 	VERB	6
+Vvp1-fragment01 7881	1	Verzekeraars en herverzekeraars weigeren sinds 1 januari hoge schadeposten door terreur te dekken . 	VERB	4
+Vvp1-fragment01 7882	1	Verzekeraars en herverzekeraars weigeren sinds 1 januari hoge schadeposten door terreur te dekken . 	VERB	13
+Vvp1-fragment01 7883	0	De treinen van de Nederlandse Spoorwegen en de attracties van pretpark de Efteling zijn bijvoorbeeld ongedekt tegen aanslagen . 	VERB	14
+Vvp1-fragment01 7884	1	Bedrijven die op de assurantiebeurs een polis afsluiten , zijn niet meer verzekerd tegen georganiseerde terreur , bevestigen de marktpartijen Allianz Royal , Generali , Delta Lloyd en Marsh . 	VERB	8
+Vvp1-fragment01 7885	0	Bedrijven die op de assurantiebeurs een polis afsluiten , zijn niet meer verzekerd tegen georganiseerde terreur , bevestigen de marktpartijen Allianz Royal , Generali , Delta Lloyd en Marsh . 	VERB	10
+Vvp1-fragment01 7886	0	Bedrijven die op de assurantiebeurs een polis afsluiten , zijn niet meer verzekerd tegen georganiseerde terreur , bevestigen de marktpartijen Allianz Royal , Generali , Delta Lloyd en Marsh . 	VERB	13
+Vvp1-fragment01 7887	1	Bedrijven die op de assurantiebeurs een polis afsluiten , zijn niet meer verzekerd tegen georganiseerde terreur , bevestigen de marktpartijen Allianz Royal , Generali , Delta Lloyd en Marsh . 	VERB	15
+Vvp1-fragment01 7888	1	Bedrijven die op de assurantiebeurs een polis afsluiten , zijn niet meer verzekerd tegen georganiseerde terreur , bevestigen de marktpartijen Allianz Royal , Generali , Delta Lloyd en Marsh . 	VERB	18
+Vvp1-fragment01 7889	0	Het betreft vooral duizenden middelgrote ondernemingen . 	VERB	2
+Vvp1-fragment01 7890	0	De treinen van de NS zijn sinds 1 januari niet meer te verzekeren , erkent een woordvoerster . 	VERB	6
+Vvp1-fragment01 7891	0	De treinen van de NS zijn sinds 1 januari niet meer te verzekeren , erkent een woordvoerster . 	VERB	13
+Vvp1-fragment01 7892	0	De treinen van de NS zijn sinds 1 januari niet meer te verzekeren , erkent een woordvoerster . 	VERB	15
+Vvp1-fragment01 7893	0	' We zijn nu wel bezig om een eigen dekking op te bouwen . 	VERB	3
+Vvp1-fragment01 7894	1	' We zijn nu wel bezig om een eigen dekking op te bouwen . 	VERB	13
+Vvp1-fragment01 7895	0	Ook de schade van een aanslag op de Efteling is niet gedekt , bevestigt een woordvoerder van het pretpark . 	VERB	10
+Vvp1-fragment01 7896	1	Ook de schade van een aanslag op de Efteling is niet gedekt , bevestigt een woordvoerder van het pretpark . 	VERB	12
+Vvp1-fragment01 7897	1	Ook de schade van een aanslag op de Efteling is niet gedekt , bevestigt een woordvoerder van het pretpark . 	VERB	14
+Vvp1-fragment01 7898	1	Diverse kantoorgebouwen en winkelcentra kennen evenmin een dekking , stelt bestuurslid P. Soeteman van verzekeringsmakelaar Marsh . 	VERB	5
+Vvp1-fragment01 7899	1	Diverse kantoorgebouwen en winkelcentra kennen evenmin een dekking , stelt bestuurslid P. Soeteman van verzekeringsmakelaar Marsh . 	VERB	10
+Vvp1-fragment01 7900	0	Op de assurantiebeurs kunnen bedrijven hun gebouwen en goederen verzekeren tegen het risico van brand en verwoesting . 	VERB	4
+Vvp1-fragment01 7901	0	Op de assurantiebeurs kunnen bedrijven hun gebouwen en goederen verzekeren tegen het risico van brand en verwoesting . 	VERB	10
+Vvp1-fragment01 7902	0	Sinds 11 september is dekking tegen terrorisme echter onbetaalbaar . 	VERB	4
+Vvp1-fragment01 7903	0	In alle contracten op de assurantiebeurs die per 1 januari vernieuwd zijn , ontbreekt nu de dekking . 	VERB	11
+Vvp1-fragment01 7904	0	In alle contracten op de assurantiebeurs die per 1 januari vernieuwd zijn , ontbreekt nu de dekking . 	VERB	12
+Vvp1-fragment01 7905	1	In alle contracten op de assurantiebeurs die per 1 januari vernieuwd zijn , ontbreekt nu de dekking . 	VERB	14
+Vvp1-fragment01 7906	0	' Als Bin Laden dus een aanslag pleegt , zal een verzekeraar niet uitkeren ' , zegt directeur C. Krijgsman van Allianz Royal . 	VERB	8
+Vvp1-fragment01 7907	0	' Als Bin Laden dus een aanslag pleegt , zal een verzekeraar niet uitkeren ' , zegt directeur C. Krijgsman van Allianz Royal . 	VERB	10
+Vvp1-fragment01 7908	0	' Als Bin Laden dus een aanslag pleegt , zal een verzekeraar niet uitkeren ' , zegt directeur C. Krijgsman van Allianz Royal . 	VERB	14
+Vvp1-fragment01 7909	0	' Als Bin Laden dus een aanslag pleegt , zal een verzekeraar niet uitkeren ' , zegt directeur C. Krijgsman van Allianz Royal . 	VERB	17
+Vvp1-fragment01 7910	0	Hij verwondert zich erover dat bedrijven zich geen zorgen maken over de ontstane situatie . 	VERB	2
+Vvp1-fragment01 7911	1	Hij verwondert zich erover dat bedrijven zich geen zorgen maken over de ontstane situatie . 	VERB	10
+Vvp1-fragment01 7912	0	Hij verwondert zich erover dat bedrijven zich geen zorgen maken over de ontstane situatie . 	VERB	13
+Vvp1-fragment01 7913	0	' Niet iedereen is zich kennelijk bewust van de risico's . 	VERB	4
+Vvp1-fragment01 7914	0	Ook beursgenoteerde bedrijven kunnen hun dekking tegen terrorisme verliezen . 	VERB	4
+Vvp1-fragment01 7915	1	Ook beursgenoteerde bedrijven kunnen hun dekking tegen terrorisme verliezen . 	VERB	9
+Vvp1-fragment01 7916	0	De industriele complexen van machinebouwer Stork zijn bijvoorbeeld niet meer verzekerd . 	VERB	7
+Vvp1-fragment01 7917	0	De industriele complexen van machinebouwer Stork zijn bijvoorbeeld niet meer verzekerd . 	VERB	11
+Vvp1-fragment01 7918	1	Bij staalfabrikant Corus lopen de contracten pas op 1 april af . 	VERB	4
+Vvp1-fragment01 7919	0	Chemieconcern DSM moet voor 1 juli een nieuwe polis afsluiten . 	VERB	3
+Vvp1-fragment01 7920	1	Chemieconcern DSM moet voor 1 juli een nieuwe polis afsluiten . 	VERB	10
+Vvp1-fragment01 7921	1	Olieconcern Shell onthoudt zich van commentaar . 	VERB	3
+Vvp1-fragment01 7922	0	Tussen verzekeraars , verzekeringsagenten en de overheid vindt al enkele maanden overleg plaats over het terreurprobleem . 	VERB	8
+Vvp1-fragment01 7923	0	De overheid kan garant staan voor onverzekerbare schade , zoals nu al het geval is bij overstromingen . 	VERB	3
+Vvp1-fragment01 7924	1	De overheid kan garant staan voor onverzekerbare schade , zoals nu al het geval is bij overstromingen . 	VERB	5
+Vvp1-fragment01 7925	0	De overheid kan garant staan voor onverzekerbare schade , zoals nu al het geval is bij overstromingen . 	VERB	15
+Vvp1-fragment01 7926	1	Zolang zo'n oplossing voor terrorisme ontbreekt , is er sprake van een vacuum , bevestigt Krijgsman . 	VERB	6
+Vvp1-fragment01 7927	0	Zolang zo'n oplossing voor terrorisme ontbreekt , is er sprake van een vacuum , bevestigt Krijgsman . 	VERB	8
+Vvp1-fragment01 7928	1	Zolang zo'n oplossing voor terrorisme ontbreekt , is er sprake van een vacuum , bevestigt Krijgsman . 	VERB	15
+Vvp1-fragment01 7929	1	De Nederlandse overheid stond direct na de aanslagen wel garant voor KLM en Schiphol . 	VERB	4
+Vvp1-fragment01 7930	1	Het kabinet bekijkt eind maart of deze garantstelling wordt verlengd . 	VERB	3
+Vvp1-fragment01 7931	0	Het kabinet bekijkt eind maart of deze garantstelling wordt verlengd . 	VERB	9
+Vvp1-fragment01 7932	1	Het kabinet bekijkt eind maart of deze garantstelling wordt verlengd . 	VERB	10
+Vvp1-fragment01 7933	1	De verzekeraars overleggen onderling welke schadeposten onder terrorisme vallen . 	VERB	3
+Vvp1-fragment01 7934	1	De verzekeraars overleggen onderling welke schadeposten onder terrorisme vallen . 	VERB	9
+Vvp1-fragment01 7935	0	De exacte definitie van terrorisme wordt binnen enkele weken bekend , verwacht Soeteman . 	VERB	6
+Vvp1-fragment01 7936	1	De exacte definitie van terrorisme wordt binnen enkele weken bekend , verwacht Soeteman . 	VERB	12
+Vvp1-fragment01 7937	1	Bij georganiseerde terreur zal er geen uitkering komen , is de verwachting . 	VERB	2
+Vvp1-fragment01 7938	0	Bij georganiseerde terreur zal er geen uitkering komen , is de verwachting . 	VERB	4
+Vvp1-fragment01 7939	1	Bij georganiseerde terreur zal er geen uitkering komen , is de verwachting . 	VERB	8
+Vvp1-fragment01 7940	0	Bij georganiseerde terreur zal er geen uitkering komen , is de verwachting . 	VERB	10
+Vvp1-fragment01 7941	0	Schade zoals veroorzaakt door de 15-jarige jongen die tegen een flatgebouw in de Verenigde Staten vloog , is daarentegen wel verzekerd . 	VERB	3
+Vvp1-fragment01 7942	0	Schade zoals veroorzaakt door de 15-jarige jongen die tegen een flatgebouw in de Verenigde Staten vloog , is daarentegen wel verzekerd . 	VERB	16
+Vvp1-fragment01 7943	0	Schade zoals veroorzaakt door de 15-jarige jongen die tegen een flatgebouw in de Verenigde Staten vloog , is daarentegen wel verzekerd . 	VERB	18
+Vvp1-fragment01 7944	0	Schade zoals veroorzaakt door de 15-jarige jongen die tegen een flatgebouw in de Verenigde Staten vloog , is daarentegen wel verzekerd . 	VERB	21
+Vvp1-fragment01 7945	0	Verzekeraars moesten terrorisme wel uitsluiten , zeggen ze . 	VERB	2
+Vvp1-fragment01 7946	1	Verzekeraars moesten terrorisme wel uitsluiten , zeggen ze . 	VERB	5
+Vvp1-fragment01 7947	0	Verzekeraars moesten terrorisme wel uitsluiten , zeggen ze . 	VERB	7
+Vvp1-fragment01 7948	1	' Herverzekeraars dicteren de markt ' , aldus Soeteman . 	VERB	3
+Vvp1-fragment01 7949	0	Sinds de aanslagen in de VS , maar ook door de rampen in Enschede en Volendam , hebben zij minder geld in kas . 	VERB	18
+Vvp1-fragment01 7950	1	Om de reserves weer op te bouwen , zijn de brandverzekeringspremies per 1 januari met soms wel 200 procent verhoogd . 	VERB	7
+Vvp1-fragment01 7951	0	Om de reserves weer op te bouwen , zijn de brandverzekeringspremies per 1 januari met soms wel 200 procent verhoogd . 	VERB	9
+Vvp1-fragment01 7952	1	Om de reserves weer op te bouwen , zijn de brandverzekeringspremies per 1 januari met soms wel 200 procent verhoogd . 	VERB	20
+Vvp2-fragment01 7953	1	VS zetten Arabische illegalen uit 	VERB	0
+Vvp2-fragment01 7954	0	De Amerikaanse regering is van plan duizenden illegalen uit het Midden-Oosten het land uit te zetten in het kader van de maatregelen tegen het terrorisme . 	VERB	4
+Vvp2-fragment01 7955	1	De Amerikaanse regering is van plan duizenden illegalen uit het Midden-Oosten het land uit te zetten in het kader van de maatregelen tegen het terrorisme . 	VERB	16
+Vvp2-fragment01 7956	1	Het gaat om mensen die eerder een deportatiebevel hebben genegeerd . 	VERB	2
+Vvp2-fragment01 7957	0	Het gaat om mensen die eerder een deportatiebevel hebben genegeerd . 	VERB	9
+Vvp2-fragment01 7958	0	Het gaat om mensen die eerder een deportatiebevel hebben genegeerd . 	VERB	10
+Vvp2-fragment01 7959	0	Volgens een woordvoerder van het ministerie van Justitie heeft de regering besloten illegalen uit landen waar Al cellen actief zijn , op te pakken en het land uit te zetten . 	VERB	9
+Vvp2-fragment01 7960	1	Volgens een woordvoerder van het ministerie van Justitie heeft de regering besloten illegalen uit landen waar Al cellen actief zijn , op te pakken en het land uit te zetten . 	VERB	12
+Vvp2-fragment01 7961	0	Volgens een woordvoerder van het ministerie van Justitie heeft de regering besloten illegalen uit landen waar Al cellen actief zijn , op te pakken en het land uit te zetten . 	VERB	20
+Vvp2-fragment01 7962	1	Volgens een woordvoerder van het ministerie van Justitie heeft de regering besloten illegalen uit landen waar Al cellen actief zijn , op te pakken en het land uit te zetten . 	VERB	24
+Vvp2-fragment01 7963	1	Volgens een woordvoerder van het ministerie van Justitie heeft de regering besloten illegalen uit landen waar Al cellen actief zijn , op te pakken en het land uit te zetten . 	VERB	30
+Vvp2-fragment01 7964	0	In totaal zou het om vijf - tot zesduizend mensen gaan . 	VERB	3
+Vvp2-fragment01 7965	1	In totaal zou het om vijf - tot zesduizend mensen gaan . 	VERB	11
+Vvp2-fragment01 7966	1	Tot voor kort maakten de autoriteiten weinig werk van buitenlanders die een deportatiebevel hadden genegeerd , nadat hun visum was verlopen . 	VERB	4
+Vvp2-fragment01 7967	0	Tot voor kort maakten de autoriteiten weinig werk van buitenlanders die een deportatiebevel hadden genegeerd , nadat hun visum was verlopen . 	VERB	14
+Vvp2-fragment01 7968	0	Tot voor kort maakten de autoriteiten weinig werk van buitenlanders die een deportatiebevel hadden genegeerd , nadat hun visum was verlopen . 	VERB	15
+Vvp2-fragment01 7969	0	Tot voor kort maakten de autoriteiten weinig werk van buitenlanders die een deportatiebevel hadden genegeerd , nadat hun visum was verlopen . 	VERB	20
+Vvp2-fragment01 7970	0	Tot voor kort maakten de autoriteiten weinig werk van buitenlanders die een deportatiebevel hadden genegeerd , nadat hun visum was verlopen . 	VERB	21
+Vvp2-fragment01 7971	0	In totaal zijn in de Verenigde Staten ruim driehonderdduizend mensen verdwenen nadat zij het bevel hadden gekregen het land te verlaten . 	VERB	3
+Vvp2-fragment01 7972	0	In totaal zijn in de Verenigde Staten ruim driehonderdduizend mensen verdwenen nadat zij het bevel hadden gekregen het land te verlaten . 	VERB	11
+Vvp2-fragment01 7973	0	In totaal zijn in de Verenigde Staten ruim driehonderdduizend mensen verdwenen nadat zij het bevel hadden gekregen het land te verlaten . 	VERB	16
+Vvp2-fragment01 7974	1	In totaal zijn in de Verenigde Staten ruim driehonderdduizend mensen verdwenen nadat zij het bevel hadden gekregen het land te verlaten . 	VERB	17
+Vvp2-fragment01 7975	0	In totaal zijn in de Verenigde Staten ruim driehonderdduizend mensen verdwenen nadat zij het bevel hadden gekregen het land te verlaten . 	VERB	21
+Vvp2-fragment01 7976	1	Het komt zelfs zo veel voor dat de deportatiebevelen in de volksmond bekendstaan als ' run letters ' . 	VERB	2
+Vvp2-fragment01 7977	0	Het komt zelfs zo veel voor dat de deportatiebevelen in de volksmond bekendstaan als ' run letters ' . 	VERB	13
+Vvp2-fragment01 7978	1	Maar kort geleden besloten de autoriteiten de deportatie van dergelijke illegalen van Arabische afkomst hoogste prioriteit te geven . 	VERB	4
+Vvp2-fragment01 7979	1	Maar kort geleden besloten de autoriteiten de deportatie van dergelijke illegalen van Arabische afkomst hoogste prioriteit te geven . 	VERB	18
+Vvp2-fragment01 7980	0	Vooralsnog is er niemand gearresteerd onder de nieuwe regels . 	VERB	2
+Vvp2-fragment01 7981	0	Vooralsnog is er niemand gearresteerd onder de nieuwe regels . 	VERB	5
+Vvp2-fragment01 7982	1	De immigratiedienst had al plannen om al de namen van de ontduikers in te voeren in een landelijk gegevensbestand , maar nu zullen de gegevens van mensen van Arabische afkomst voorrang krijgen . 	VERB	3
+Vvp2-fragment01 7983	1	De immigratiedienst had al plannen om al de namen van de ontduikers in te voeren in een landelijk gegevensbestand , maar nu zullen de gegevens van mensen van Arabische afkomst voorrang krijgen . 	VERB	15
+Vvp2-fragment01 7984	0	De immigratiedienst had al plannen om al de namen van de ontduikers in te voeren in een landelijk gegevensbestand , maar nu zullen de gegevens van mensen van Arabische afkomst voorrang krijgen . 	VERB	23
+Vvp2-fragment01 7985	1	De immigratiedienst had al plannen om al de namen van de ontduikers in te voeren in een landelijk gegevensbestand , maar nu zullen de gegevens van mensen van Arabische afkomst voorrang krijgen . 	VERB	32
+Vvp2-fragment01 7986	0	Op basis daarvan zullen de FBI en andere instanties op zoek gaan naar de overtreders . 	VERB	4
+Vvp2-fragment01 7987	1	Op basis daarvan zullen de FBI en andere instanties op zoek gaan naar de overtreders . 	VERB	12
+Vvp2-fragment01 7988	1	Amerikaans-Arabische groeperingen klagen dat het besluit op discriminatie neerkomt . 	VERB	3
+Vvp2-fragment01 7989	1	Amerikaans-Arabische groeperingen klagen dat het besluit op discriminatie neerkomt . 	VERB	9
+Vvp2-fragment01 7990	1	Zij wijzen erop dat veruit de meeste van de driehonderdduizend mensen die hun deportatiebevel hebben genegeerd , afkomstig zijn uit Midden - en Zuid-Amerika . 	VERB	2
+Vvp2-fragment01 7991	0	Zij wijzen erop dat veruit de meeste van de driehonderdduizend mensen die hun deportatiebevel hebben genegeerd , afkomstig zijn uit Midden - en Zuid-Amerika . 	VERB	15
+Vvp2-fragment01 7992	0	Zij wijzen erop dat veruit de meeste van de driehonderdduizend mensen die hun deportatiebevel hebben genegeerd , afkomstig zijn uit Midden - en Zuid-Amerika . 	VERB	16
+Vvp2-fragment01 7993	0	Zij wijzen erop dat veruit de meeste van de driehonderdduizend mensen die hun deportatiebevel hebben genegeerd , afkomstig zijn uit Midden - en Zuid-Amerika . 	VERB	19
+Vvp2-fragment01 7994	0	Die worden voorlopig wel met rust gelaten . 	VERB	2
+Vvp2-fragment01 7995	0	Die worden voorlopig wel met rust gelaten . 	VERB	7
+Vvp2-fragment01 7996	0	Afgezien van hen zijn er nog miljoenen ongeregistreerde illegalen in de VS. 	VERB	1
+Vvp2-fragment01 7997	0	Afgezien van hen zijn er nog miljoenen ongeregistreerde illegalen in de VS. 	VERB	4
+Vvp2-fragment01 7998	0	Afgezien van hen zijn er nog miljoenen ongeregistreerde illegalen in de VS. 	VERB	8
+Vvp2-fragment01 7999	0	Minister van Justitie Ashcroft heeft in deze kringen ook kwaad bloed gezet met zijn bevel aan de FBI om duizenden Arabische studenten die op een tijdelijk visum in de VS zijn , aan de tand te voelen om te zien of ze iets over terreurorganisaties weten . 	VERB	5
+Vvp2-fragment01 8000	1	Minister van Justitie Ashcroft heeft in deze kringen ook kwaad bloed gezet met zijn bevel aan de FBI om duizenden Arabische studenten die op een tijdelijk visum in de VS zijn , aan de tand te voelen om te zien of ze iets over terreurorganisaties weten . 	VERB	12
+Vvp2-fragment01 8001	0	Minister van Justitie Ashcroft heeft in deze kringen ook kwaad bloed gezet met zijn bevel aan de FBI om duizenden Arabische studenten die op een tijdelijk visum in de VS zijn , aan de tand te voelen om te zien of ze iets over terreurorganisaties weten . 	VERB	31
+Vvp2-fragment01 8002	1	Minister van Justitie Ashcroft heeft in deze kringen ook kwaad bloed gezet met zijn bevel aan de FBI om duizenden Arabische studenten die op een tijdelijk visum in de VS zijn , aan de tand te voelen om te zien of ze iets over terreurorganisaties weten . 	VERB	37
+Vvp2-fragment01 8003	1	Minister van Justitie Ashcroft heeft in deze kringen ook kwaad bloed gezet met zijn bevel aan de FBI om duizenden Arabische studenten die op een tijdelijk visum in de VS zijn , aan de tand te voelen om te zien of ze iets over terreurorganisaties weten . 	VERB	40
+Vvp2-fragment01 8004	0	Minister van Justitie Ashcroft heeft in deze kringen ook kwaad bloed gezet met zijn bevel aan de FBI om duizenden Arabische studenten die op een tijdelijk visum in de VS zijn , aan de tand te voelen om te zien of ze iets over terreurorganisaties weten . 	VERB	46
+Vvp2-fragment01 8005	1	Burgerrechtengroeperingen spraken van een ' heksenjacht ' . 	VERB	2
+Vvp2-fragment01 8006	0	In de praktijk bleken die verhoren , zoals ook in Arabische kringen werd erkend , echter tamelijk terughoudend te zijn . 	VERB	4
+Vvp2-fragment01 8007	0	In de praktijk bleken die verhoren , zoals ook in Arabische kringen werd erkend , echter tamelijk terughoudend te zijn . 	VERB	13
+Vvp2-fragment01 8008	0	In de praktijk bleken die verhoren , zoals ook in Arabische kringen werd erkend , echter tamelijk terughoudend te zijn . 	VERB	14
+Vvp2-fragment01 8009	0	In de praktijk bleken die verhoren , zoals ook in Arabische kringen werd erkend , echter tamelijk terughoudend te zijn . 	VERB	20
+Vvp2-fragment01 8010	0	James Zogby , de voorzitter van het Arab American Institute , zei tegen de Washington Post te betwijfelen of de nieuwe maatregel veel zal helpen . 	VERB	12
+Vvp2-fragment01 8011	0	James Zogby , de voorzitter van het Arab American Institute , zei tegen de Washington Post te betwijfelen of de nieuwe maatregel veel zal helpen . 	VERB	18
+Vvp2-fragment01 8012	0	James Zogby , de voorzitter van het Arab American Institute , zei tegen de Washington Post te betwijfelen of de nieuwe maatregel veel zal helpen . 	VERB	24
+Vvp2-fragment01 8013	1	James Zogby , de voorzitter van het Arab American Institute , zei tegen de Washington Post te betwijfelen of de nieuwe maatregel veel zal helpen . 	VERB	25
+Vvp2-fragment01 8014	1	Hij wees erop dat de meesten van de vliegtuigkapers van 11 september op geldige documenten in de VS verbleven . 	VERB	2
+Vvp2-fragment01 8015	0	Hij wees erop dat de meesten van de vliegtuigkapers van 11 september op geldige documenten in de VS verbleven . 	VERB	19
+Vvp2-fragment01 8016	0	Het blijkt nu dat de politie van Maryland een van de kapers twee dagen voor de aanslagen heeft aangehouden wegens te hard rijden . 	VERB	2
+Vvp2-fragment01 8017	0	Het blijkt nu dat de politie van Maryland een van de kapers twee dagen voor de aanslagen heeft aangehouden wegens te hard rijden . 	VERB	18
+Vvp2-fragment01 8018	0	Het blijkt nu dat de politie van Maryland een van de kapers twee dagen voor de aanslagen heeft aangehouden wegens te hard rijden . 	VERB	19
+Vvp2-fragment01 8019	0	Het blijkt nu dat de politie van Maryland een van de kapers twee dagen voor de aanslagen heeft aangehouden wegens te hard rijden . 	VERB	23
+Vvp2-fragment01 8020	0	De agenten lieten de man , Ziad Jarrah , gaan nadat zij hem hadden beboet . 	VERB	3
+Vvp2-fragment01 8021	0	De agenten lieten de man , Ziad Jarrah , gaan nadat zij hem hadden beboet . 	VERB	10
+Vvp2-fragment01 8022	0	De agenten lieten de man , Ziad Jarrah , gaan nadat zij hem hadden beboet . 	VERB	14
+Vvp2-fragment01 8023	0	De agenten lieten de man , Ziad Jarrah , gaan nadat zij hem hadden beboet . 	VERB	15
+Vvp2-fragment01 8024	0	Twee dagen later kaapten Jarrah en enkele handlangers een vliegtuig dat later in Pennsylvania zou neerstorten . 	VERB	4
+Vvp2-fragment01 8025	0	Twee dagen later kaapten Jarrah en enkele handlangers een vliegtuig dat later in Pennsylvania zou neerstorten . 	VERB	15
+Vvp2-fragment01 8026	0	Twee dagen later kaapten Jarrah en enkele handlangers een vliegtuig dat later in Pennsylvania zou neerstorten . 	VERB	16
+Vvp2-fragment01 8027	0	De ironie wil dat de politie een videoband van de aanhouding had bewaard om zich in te dekken tegen mogelijke beschuldigingen van discriminatie . 	VERB	3
+Vvp2-fragment01 8028	0	De ironie wil dat de politie een videoband van de aanhouding had bewaard om zich in te dekken tegen mogelijke beschuldigingen van discriminatie . 	VERB	12
+Vvp2-fragment01 8029	0	De ironie wil dat de politie een videoband van de aanhouding had bewaard om zich in te dekken tegen mogelijke beschuldigingen van discriminatie . 	VERB	13
+Vvp2-fragment01 8030	0	De ironie wil dat de politie een videoband van de aanhouding had bewaard om zich in te dekken tegen mogelijke beschuldigingen van discriminatie . 	VERB	18
+Vvp3-fragment01 8031	0	"Jochem Uytdehaage wint goud ; Utrechter is elfde Nederlander met Europese titel "	VERB	0
+Vvp3-fragment01 8032	0	"Jochem Uytdehaage wint goud ; Utrechter is elfde Nederlander met Europese titel "	VERB	0
+Vvp3-fragment01 8033	0	Jochem Uytdehaage heeft zijn veelzijdigheid onderstreept met de Europese titel . 	VERB	3
+Vvp3-fragment01 8034	1	Jochem Uytdehaage heeft zijn veelzijdigheid onderstreept met de Europese titel . 	VERB	6
+Vvp3-fragment01 8035	0	De Utrechtse schaatsenrijder triomfeerde in Erfurt voor zijn landgenoot Carl Verheyen en de Rus Dimitri Sjepel , die respectievelijk tweede en derde werden . 	VERB	4
+Vvp3-fragment01 8036	0	De Utrechtse schaatsenrijder triomfeerde in Erfurt voor zijn landgenoot Carl Verheyen en de Rus Dimitri Sjepel , die respectievelijk tweede en derde werden . 	VERB	23
+Vvp3-fragment01 8037	0	Bij de vrouwen was de Duitse Anni Friesinger een klasse apart , zij won drie van de vier afstanden . 	VERB	4
+Vvp3-fragment01 8038	0	Bij de vrouwen was de Duitse Anni Friesinger een klasse apart , zij won drie van de vier afstanden . 	VERB	14
+Vvp3-fragment01 8039	0	Uytdehaage is de elfde Nederlandse schaatsenrijder die Europees kampioen wordt . 	VERB	2
+Vvp3-fragment01 8040	0	Uytdehaage is de elfde Nederlandse schaatsenrijder die Europees kampioen wordt . 	VERB	10
+Vvp3-fragment01 8041	0	Kees Broekman was in 1953 in Hamar de eerste . 	VERB	3
+Vvp3-fragment01 8042	1	Sindsdien veroverden elf schaatsers in totaal 21 maal Europees goud . 	VERB	2
+Vvp3-fragment01 8043	0	De succesvolste van hen was Rintje Ritsma , die zes keer Europees kampioen werd . 	VERB	5
+Vvp3-fragment01 8044	0	De succesvolste van hen was Rintje Ritsma , die zes keer Europees kampioen werd . 	VERB	14
+Vvp3-fragment01 8045	0	Uytdehaage en Verheyen gelden als de kopmannen van een nieuwe Nederlandse lichting schaatsenrijders die sterk zijn op de meerkamp . 	VERB	4
+Vvp3-fragment01 8046	0	Uytdehaage en Verheyen gelden als de kopmannen van een nieuwe Nederlandse lichting schaatsenrijders die sterk zijn op de meerkamp . 	VERB	16
+Vvp3-fragment01 8047	1	Uytdehaage voert al geruime tijd de zogenoemde Adelskalenderen aan , de ranglijst van de beste allrounders aller tijden . 	VERB	2
+Vvp3-fragment01 8048	1	De basis voor zijn eerste grote internationale triomf legde Uytdehaage vrijdagavond met een sublieme race op de 500 meter . 	VERB	9
+Vvp3-fragment01 8049	0	Daarna handhaafde hij zich op de eerste plaats zonder overigens een afstand te winnen . 	VERB	2
+Vvp3-fragment01 8050	0	Daarna handhaafde hij zich op de eerste plaats zonder overigens een afstand te winnen . 	VERB	14
+Vvp3-fragment01 8051	0	Uytdehaage heeft zich net als Verheyen al geplaatst voor de Olympische Spelen in Salt Lake City . 	VERB	2
+Vvp3-fragment01 8052	1	Uytdehaage heeft zich net als Verheyen al geplaatst voor de Olympische Spelen in Salt Lake City . 	VERB	8
+Vvp3-fragment01 8053	0	Komende vrijdag kan de kersverse Europese kampioen zich ook nog plaatsen voor de 1500 meter bij de Spelen . 	VERB	1
+Vvp3-fragment01 8054	0	Komende vrijdag kan de kersverse Europese kampioen zich ook nog plaatsen voor de 1500 meter bij de Spelen . 	VERB	3
+Vvp3-fragment01 8055	0	Hij rijdt in Heerenveen een skate off met Wennemars en Hersmann . 	VERB	2
+Vvp3-fragment01 8056	1	Anni Friesinger maakte in Erfurt duidelijk dat zij in de Amerikaanse wintersportstad sterk genoeg moet worden geacht voor drie of vier gouden medailles . 	VERB	3
+Vvp3-fragment01 8057	0	Anni Friesinger maakte in Erfurt duidelijk dat zij in de Amerikaanse wintersportstad sterk genoeg moet worden geacht voor drie of vier gouden medailles . 	VERB	15
+Vvp3-fragment01 8058	0	Anni Friesinger maakte in Erfurt duidelijk dat zij in de Amerikaanse wintersportstad sterk genoeg moet worden geacht voor drie of vier gouden medailles . 	VERB	16
+Vvp3-fragment01 8059	0	Anni Friesinger maakte in Erfurt duidelijk dat zij in de Amerikaanse wintersportstad sterk genoeg moet worden geacht voor drie of vier gouden medailles . 	VERB	17
+Vvp3-fragment01 8060	1	Ze vormde een klasse apart en werd alleen op de slotafstand ( 5000 meter ) verslagen door haar landgenote Claudia Pechstein . 	VERB	2
+Vvp3-fragment01 8061	0	Ze vormde een klasse apart en werd alleen op de slotafstand ( 5000 meter ) verslagen door haar landgenote Claudia Pechstein . 	VERB	7
+Vvp3-fragment01 8062	1	Bij de Nederlandse sprintkampioenschappen in Groningen gingen de titels naar Gerard van Velde en Andrea Nuyt . 	VERB	7
+Vvp3-fragment01 8063	0	Voor van Velde was het de vijfde nationale titel uit zijn loopbaan , hij is daarmee Nederlands succesvolste schaatsenrijder . 	VERB	4
+Vvp3-fragment01 8064	0	Voor van Velde was het de vijfde nationale titel uit zijn loopbaan , hij is daarmee Nederlands succesvolste schaatsenrijder . 	VERB	15
+Vvp3-fragment01 8065	0	Voor van Velde was het de vijfde nationale titel uit zijn loopbaan , hij is daarmee Nederlands succesvolste schaatsenrijder . 	VERB	18
+Vvp3-fragment01 8066	0	Opmerkelijk is die reeks wel , omdat van Velde een paar jaar geleden besloot zijn carriere te stoppen . 	VERB	2
+Vvp3-fragment01 8067	0	Opmerkelijk is die reeks wel , omdat van Velde een paar jaar geleden besloot zijn carriere te stoppen . 	VERB	14
+Vvp3-fragment01 8068	0	Opmerkelijk is die reeks wel , omdat van Velde een paar jaar geleden besloot zijn carriere te stoppen . 	VERB	15
+Vvp3-fragment01 8069	1	Opmerkelijk is die reeks wel , omdat van Velde een paar jaar geleden besloot zijn carriere te stoppen . 	VERB	18
+Vvp3-fragment01 8070	0	Hij kon niet wennen aan de klapschaats en raakte het contact met de top kwijt . 	VERB	2
+Vvp3-fragment01 8071	0	Hij kon niet wennen aan de klapschaats en raakte het contact met de top kwijt . 	VERB	4
+Vvp3-fragment01 8072	1	Hij kon niet wennen aan de klapschaats en raakte het contact met de top kwijt . 	VERB	9
+Vws1-fragment01 8073	0	Niet zozeer de genen definieren een organisme , maar het samenspel van eiwitten die ze voorschrijven . 	VERB	5
+Vws1-fragment01 8074	1	Niet zozeer de genen definieren een organisme , maar het samenspel van eiwitten die ze voorschrijven . 	VERB	16
+Vws1-fragment01 8075	0	Simpel gist geeft daarvan een eerste indruk . 	VERB	2
+Vws1-fragment01 8076	1	Simpel gist geeft daarvan een eerste indruk . 	VERB	3
+Vws1-fragment01 8077	0	Wetenschappers keken enigszins beteuterd toen dit nieuws vorig jaar bekend werd bij de ontrafeling van het menselijke genoom . 	VERB	2
+Vws1-fragment01 8078	0	Wetenschappers keken enigszins beteuterd toen dit nieuws vorig jaar bekend werd bij de ontrafeling van het menselijke genoom . 	VERB	11
+Vws1-fragment01 8079	0	Elk gen bestaat immers uit een stukje erfelijk materiaal ( DNA ) dat codeert voor de aanmaak van een enkel eiwit . 	VERB	3
+Vws1-fragment01 8080	0	Elk gen bestaat immers uit een stukje erfelijk materiaal ( DNA ) dat codeert voor de aanmaak van een enkel eiwit . 	VERB	14
+Vws1-fragment01 8081	0	Met dertigduizend genen kunnen in principe dus slechts dertigduizend verschillende eiwitten worden gemaakt . 	VERB	4
+Vws1-fragment01 8082	0	Met dertigduizend genen kunnen in principe dus slechts dertigduizend verschillende eiwitten worden gemaakt . 	VERB	12
+Vws1-fragment01 8083	0	Met dertigduizend genen kunnen in principe dus slechts dertigduizend verschillende eiwitten worden gemaakt . 	VERB	13
+Vws1-fragment01 8084	0	Dat lijkt weinig voor een heel mens . 	VERB	2
+Vws1-fragment01 8085	0	Kennelijk bepaalt het aantal eiwitten dat een organisme kan maken , niet volledig het verschil in ontwikkelingsniveau van mens en vlieg . 	VERB	2
+Vws1-fragment01 8086	0	Kennelijk bepaalt het aantal eiwitten dat een organisme kan maken , niet volledig het verschil in ontwikkelingsniveau van mens en vlieg . 	VERB	9
+Vws1-fragment01 8087	0	Kennelijk bepaalt het aantal eiwitten dat een organisme kan maken , niet volledig het verschil in ontwikkelingsniveau van mens en vlieg . 	VERB	10
+Vws1-fragment01 8088	0	Kennelijk bepaalt het aantal eiwitten dat een organisme kan maken , niet volledig het verschil in ontwikkelingsniveau van mens en vlieg . 	VERB	21
+Vws1-fragment01 8089	1	Hoe en op hoeveel manieren die eiwitten samenwerken , is veel belangrijker . 	VERB	8
+Vws1-fragment01 8090	0	Hoe en op hoeveel manieren die eiwitten samenwerken , is veel belangrijker . 	VERB	10
+Vws1-fragment01 8091	0	Dat blijkt ook uit twee artikelen in Nature van 10 januari . 	VERB	2
+Vws1-fragment01 8092	1	Twee onderzoeksteams legden in een klap een groot gedeelte van het netwerk van eiwit-interacties in bakkersgist bloot . 	VERB	3
+Vws1-fragment01 8093	0	Eiwitten zijn belangrijke stoffen . 	VERB	2
+Vws1-fragment01 8094	0	Het zijn de bouwstenen van bijvoorbeeld spieren en ze bevorderen biologische processen , zoals de vertering van voedsel . 	VERB	2
+Vws1-fragment01 8095	0	Het zijn de bouwstenen van bijvoorbeeld spieren en ze bevorderen biologische processen , zoals de vertering van voedsel . 	VERB	10
+Vws1-fragment01 8096	0	Om efficient te functioneren komen eiwitten samen in complexen . 	VERB	4
+Vws1-fragment01 8097	0	Om efficient te functioneren komen eiwitten samen in complexen . 	VERB	5
+Vws1-fragment01 8098	0	Eiwitten die samen een complex vormen , voeren elk een deel van een gezamenlijke taak uit , bijvoorbeeld de reparatie van DNA-schade . 	VERB	6
+Vws1-fragment01 8099	1	Eiwitten die samen een complex vormen , voeren elk een deel van een gezamenlijke taak uit , bijvoorbeeld de reparatie van DNA-schade . 	VERB	8
+Vws1-fragment01 8100	0	Het bestuderen van deze samenwerking is ingewikkeld . 	VERB	2
+Vws1-fragment01 8101	0	Het bestuderen van deze samenwerking is ingewikkeld . 	VERB	6
+Vws1-fragment01 8102	0	Het is moeilijk eiwitcomplexen uit cellen te isoleren . 	VERB	2
+Vws1-fragment01 8103	0	Het is moeilijk eiwitcomplexen uit cellen te isoleren . 	VERB	8
+Vws1-fragment01 8104	0	Elk eiwitcomplex ziet er anders uit en heeft daarom een aparte isolatie-methode nodig . 	VERB	3
+Vws1-fragment01 8105	1	Elk eiwitcomplex ziet er anders uit en heeft daarom een aparte isolatie-methode nodig . 	VERB	8
+Vws1-fragment01 8106	1	Dat maakt onderzoek tijdrovend en kostbaar . 	VERB	2
+Vws1-fragment01 8107	0	De twee onderzoekteams uit Nature gebruiken een universeel toepasbaar label om dit probleem te omzeilen . 	VERB	6
+Vws1-fragment01 8108	1	De twee onderzoekteams uit Nature gebruiken een universeel toepasbaar label om dit probleem te omzeilen . 	VERB	15
+Vws1-fragment01 8109	1	De onderzoekers , verbonden aan de bedrijven Cellzome uit Duitsland en MDS Proteomics uit Canada , gebruiken bakkersgist als modelorganisme . 	VERB	4
+Vws1-fragment01 8110	0	De onderzoekers , verbonden aan de bedrijven Cellzome uit Duitsland en MDS Proteomics uit Canada , gebruiken bakkersgist als modelorganisme . 	VERB	17
+Vws1-fragment01 8111	0	Deze eencellige schimmel is makkelijk te kweken en bevat bovendien een groot aantal eiwitten waarvan de functie bekend is . 	VERB	4
+Vws1-fragment01 8112	0	Deze eencellige schimmel is makkelijk te kweken en bevat bovendien een groot aantal eiwitten waarvan de functie bekend is . 	VERB	7
+Vws1-fragment01 8113	0	Deze eencellige schimmel is makkelijk te kweken en bevat bovendien een groot aantal eiwitten waarvan de functie bekend is . 	VERB	9
+Vws1-fragment01 8114	0	Deze eencellige schimmel is makkelijk te kweken en bevat bovendien een groot aantal eiwitten waarvan de functie bekend is . 	VERB	19
+Vws1-fragment01 8115	1	Veel gisteiwitten hebben zelfs tegenhangers in menselijke cellen . 	VERB	3
+Vws1-fragment01 8116	1	Hoe deze gisteiwitten samenwerken , kan dus iets zeggen over de manier waarop eiwitten met dezelfde functie in mensen samenwerken . 	VERB	4
+Vws1-fragment01 8117	0	Hoe deze gisteiwitten samenwerken , kan dus iets zeggen over de manier waarop eiwitten met dezelfde functie in mensen samenwerken . 	VERB	6
+Vws1-fragment01 8118	1	Hoe deze gisteiwitten samenwerken , kan dus iets zeggen over de manier waarop eiwitten met dezelfde functie in mensen samenwerken . 	VERB	9
+Vws1-fragment01 8119	1	Hoe deze gisteiwitten samenwerken , kan dus iets zeggen over de manier waarop eiwitten met dezelfde functie in mensen samenwerken . 	VERB	20
+Vws1-fragment01 8120	1	Om een eiwit te labelen moeten onderzoekers knutselen aan het bijbehorende gen . 	VERB	5
+Vws1-fragment01 8121	0	Om een eiwit te labelen moeten onderzoekers knutselen aan het bijbehorende gen . 	VERB	6
+Vws1-fragment01 8122	1	Om een eiwit te labelen moeten onderzoekers knutselen aan het bijbehorende gen . 	VERB	8
+Vws1-fragment01 8123	0	Er wordt een stukje merker-DNA achter het gen geplakt . 	VERB	2
+Vws1-fragment01 8124	1	Er wordt een stukje merker-DNA achter het gen geplakt . 	VERB	9
+Vws1-fragment01 8125	0	Wanneer van dit gemerkte DNA een eiwit gemaakt wordt , ontstaat een fusie-eiwit : een eiwit met een kunstmatig staartje . 	VERB	8
+Vws1-fragment01 8126	0	Wanneer van dit gemerkte DNA een eiwit gemaakt wordt , ontstaat een fusie-eiwit : een eiwit met een kunstmatig staartje . 	VERB	9
+Vws1-fragment01 8127	0	Wanneer van dit gemerkte DNA een eiwit gemaakt wordt , ontstaat een fusie-eiwit : een eiwit met een kunstmatig staartje . 	VERB	11
+Vws1-fragment01 8128	0	Dat aanhangsel is zo klein dat het de biologische functie van grote eiwitten meestal niet verandert . 	VERB	3
+Vws1-fragment01 8129	0	Dat aanhangsel is zo klein dat het de biologische functie van grote eiwitten meestal niet verandert . 	VERB	16
+Vws1-fragment01 8130	0	De onderzoekers gebruiken de fusie-eiwitten als ' aas ' om andere eiwitten te lokken . 	VERB	3
+Vws1-fragment01 8131	1	De onderzoekers gebruiken de fusie-eiwitten als ' aas ' om andere eiwitten te lokken . 	VERB	14
+Vws1-fragment01 8132	0	Ze laten de gistcellen met daarin de fusie-eiwitten een paar dagen groeien . 	VERB	2
+Vws1-fragment01 8133	0	Ze laten de gistcellen met daarin de fusie-eiwitten een paar dagen groeien . 	VERB	12
+Vws1-fragment01 8134	1	Het ' lokaas ' krijgt zo de kans complexen te vormen met eiwitten waarmee het onder natuurlijke omstandigheden samenwerkt . 	VERB	5
+Vws1-fragment01 8135	0	Het ' lokaas ' krijgt zo de kans complexen te vormen met eiwitten waarmee het onder natuurlijke omstandigheden samenwerkt . 	VERB	11
+Vws1-fragment01 8136	1	Het ' lokaas ' krijgt zo de kans complexen te vormen met eiwitten waarmee het onder natuurlijke omstandigheden samenwerkt . 	VERB	19
+Vws1-fragment01 8137	0	Daarna worden de cellen lek geprikt . 	VERB	2
+Vws1-fragment01 8138	0	Daarna worden de cellen lek geprikt . 	VERB	6
+Vws1-fragment01 8139	1	In de soep die wetenschappers zo in handen krijgen , dobberen allerlei stoffen rond . 	VERB	9
+Vws1-fragment01 8140	1	In de soep die wetenschappers zo in handen krijgen , dobberen allerlei stoffen rond . 	VERB	11
+Vws1-fragment01 8141	0	De complexen met het fusie-eiwit worden tussen deze stoffen ' uitgevist ' door het fusie-eiwit aan zijn kenmerkende staartje uit de soep te trekken . 	VERB	6
+Vws1-fragment01 8142	0	De complexen met het fusie-eiwit worden tussen deze stoffen ' uitgevist ' door het fusie-eiwit aan zijn kenmerkende staartje uit de soep te trekken . 	VERB	18
+Vws1-fragment01 8143	1	De complexen met het fusie-eiwit worden tussen deze stoffen ' uitgevist ' door het fusie-eiwit aan zijn kenmerkende staartje uit de soep te trekken . 	VERB	24
+Vws1-fragment01 8144	0	Het Duitse onderzoeksteam begon met 598 fusie-eiwitten , waarvan tweederde tegenhangers had in de mens . 	VERB	4
+Vws1-fragment01 8145	1	Het Duitse onderzoeksteam begon met 598 fusie-eiwitten , waarvan tweederde tegenhangers had in de mens . 	VERB	12
+Vws1-fragment01 8146	1	Met dit lokaas vingen ze 232 verschillende eiwitcomplexen . 	VERB	4
+Vws1-fragment01 8147	0	Deze complexen werden uit elkaar gepeuterd en bleken uit 2 tot 83 eiwitten te bestaan . 	VERB	3
+Vws1-fragment01 8148	1	Deze complexen werden uit elkaar gepeuterd en bleken uit 2 tot 83 eiwitten te bestaan . 	VERB	6
+Vws1-fragment01 8149	0	Deze complexen werden uit elkaar gepeuterd en bleken uit 2 tot 83 eiwitten te bestaan . 	VERB	8
+Vws1-fragment01 8150	0	Deze complexen werden uit elkaar gepeuterd en bleken uit 2 tot 83 eiwitten te bestaan . 	VERB	15
+Vws1-fragment01 8151	1	Vele eiwitten kwamen in meerdere complexen voor . 	VERB	3
+Vws1-fragment01 8152	0	Zo kon een ingewikkeld netwerk van eiwit-interacties opgesteld worden . 	VERB	2
+Vws1-fragment01 8153	1	Zo kon een ingewikkeld netwerk van eiwit-interacties opgesteld worden . 	VERB	8
+Vws1-fragment01 8154	0	Zo kon een ingewikkeld netwerk van eiwit-interacties opgesteld worden . 	VERB	9
+Vws1-fragment01 8155	0	' Dit onderzoek is indrukwekkend ' , zegt prof. dr. Albert Heck van de vakgroep biomoleculaire massaspectometrie van de Universiteit Utrecht . 	VERB	4
+Vws1-fragment01 8156	0	' Dit onderzoek is indrukwekkend ' , zegt prof. dr. Albert Heck van de vakgroep biomoleculaire massaspectometrie van de Universiteit Utrecht . 	VERB	8
+Vws1-fragment01 8157	0	' Tot nu toe keken we vooral naar op- interacties , tussen twee eiwitten . 	VERB	5
+Vws1-fragment01 8158	0	En we waren blij als we een enkel eiwitcomplex konden bestuderen . 	VERB	3
+Vws1-fragment01 8159	0	En we waren blij als we een enkel eiwitcomplex konden bestuderen . 	VERB	10
+Vws1-fragment01 8160	0	En we waren blij als we een enkel eiwitcomplex konden bestuderen . 	VERB	11
+Vws1-fragment01 8161	0	' Een integrale bestudering van eiwitten is ontzettend zinnig ' , zegt ook prof. dr. Jack Pronk van de vakgroep microbiologie aan de Technische Universiteit Delft . 	VERB	7
+Vws1-fragment01 8162	0	' Een integrale bestudering van eiwitten is ontzettend zinnig ' , zegt ook prof. dr. Jack Pronk van de vakgroep microbiologie aan de Technische Universiteit Delft . 	VERB	12
+Vws1-fragment01 8163	1	De farmaceutische industrie onderzoekt hoe eiwitten samenwerken in zieke cellen . 	VERB	4
+Vws1-fragment01 8164	1	De farmaceutische industrie onderzoekt hoe eiwitten samenwerken in zieke cellen . 	VERB	7
+Vws1-fragment01 8165	1	Alleen door naar het totale web van eiwit-interacties te kijken , kan bepaald worden waar een medicijn efficient in kan grijpen . 	VERB	10
+Vws1-fragment01 8166	0	Alleen door naar het totale web van eiwit-interacties te kijken , kan bepaald worden waar een medicijn efficient in kan grijpen . 	VERB	12
+Vws1-fragment01 8167	0	Alleen door naar het totale web van eiwit-interacties te kijken , kan bepaald worden waar een medicijn efficient in kan grijpen . 	VERB	13
+Vws1-fragment01 8168	0	Alleen door naar het totale web van eiwit-interacties te kijken , kan bepaald worden waar een medicijn efficient in kan grijpen . 	VERB	14
+Vws1-fragment01 8169	0	Alleen door naar het totale web van eiwit-interacties te kijken , kan bepaald worden waar een medicijn efficient in kan grijpen . 	VERB	20
+Vws1-fragment01 8170	1	Alleen door naar het totale web van eiwit-interacties te kijken , kan bepaald worden waar een medicijn efficient in kan grijpen . 	VERB	21
+Vws1-fragment01 8171	0	Pronk : ' We moeten af van de klassieke benadering waarin elk lab naar zijn eigen favoriete eiwit kijkt , denkend dat uiteindelijk alle puzzelstukjes in elkaar zullen vallen . 	VERB	5
+Vws1-fragment01 8172	1	Pronk : ' We moeten af van de klassieke benadering waarin elk lab naar zijn eigen favoriete eiwit kijkt , denkend dat uiteindelijk alle puzzelstukjes in elkaar zullen vallen . 	VERB	19
+Vws1-fragment01 8173	0	Pronk : ' We moeten af van de klassieke benadering waarin elk lab naar zijn eigen favoriete eiwit kijkt , denkend dat uiteindelijk alle puzzelstukjes in elkaar zullen vallen . 	VERB	21
+Vws1-fragment01 8174	0	Pronk : ' We moeten af van de klassieke benadering waarin elk lab naar zijn eigen favoriete eiwit kijkt , denkend dat uiteindelijk alle puzzelstukjes in elkaar zullen vallen . 	VERB	28
+Vws1-fragment01 8175	1	Pronk : ' We moeten af van de klassieke benadering waarin elk lab naar zijn eigen favoriete eiwit kijkt , denkend dat uiteindelijk alle puzzelstukjes in elkaar zullen vallen . 	VERB	29
+Vws2-fragment01 8176	1	Klimaat schommelt ook toevallig 	VERB	0
+Vws2-fragment01 8177	0	Klimaatschommelingen zijn misschien toch toevalliger dan gedacht . 	VERB	2
+Vws2-fragment01 8178	0	Klimaatschommelingen zijn misschien toch toevalliger dan gedacht . 	VERB	7
+Vws2-fragment01 8179	0	Niet alle ijstijden zijn namelijk goed te verklaren uit periodieke variaties in de baan en stand van de aarde . 	VERB	4
+Vws2-fragment01 8180	0	Niet alle ijstijden zijn namelijk goed te verklaren uit periodieke variaties in de baan en stand van de aarde . 	VERB	8
+Vws2-fragment01 8181	0	Geologen van de universiteiten van Minnesota en Texas leveren daarvoor nieuwe bewijzen in Science van 11 januari . 	VERB	9
+Vws2-fragment01 8182	0	Daarmee komt de theorie van de Servische wiskundige Milankovitch op losse schroeven te staan . 	VERB	2
+Vws2-fragment01 8183	1	Daarmee komt de theorie van de Servische wiskundige Milankovitch op losse schroeven te staan . 	VERB	14
+Vws2-fragment01 8184	0	Die berekende in de jaren twintig hoe de hoeveelheid op het noordelijk halfrond ontvangen zonnestraling volgens drie cycli van duizenden jaren varieert . 	VERB	2
+Vws2-fragment01 8185	1	Die berekende in de jaren twintig hoe de hoeveelheid op het noordelijk halfrond ontvangen zonnestraling volgens drie cycli van duizenden jaren varieert . 	VERB	14
+Vws2-fragment01 8186	0	Die berekende in de jaren twintig hoe de hoeveelheid op het noordelijk halfrond ontvangen zonnestraling volgens drie cycli van duizenden jaren varieert . 	VERB	22
+Vws2-fragment01 8187	0	De Amerikanen hebben uit koraalafzettingen op het Caribische eiland Barbados echter afgeleid dat de op een na laatste ijstijd al afgelopen was - Termination II - voordat de hoeveelheid zonnewarmte op aarde haar piek bereikte . 	VERB	3
+Vws2-fragment01 8188	1	De Amerikanen hebben uit koraalafzettingen op het Caribische eiland Barbados echter afgeleid dat de op een na laatste ijstijd al afgelopen was - Termination II - voordat de hoeveelheid zonnewarmte op aarde haar piek bereikte . 	VERB	12
+Vws2-fragment01 8189	0	De Amerikanen hebben uit koraalafzettingen op het Caribische eiland Barbados echter afgeleid dat de op een na laatste ijstijd al afgelopen was - Termination II - voordat de hoeveelheid zonnewarmte op aarde haar piek bereikte . 	VERB	21
+Vws2-fragment01 8190	0	De Amerikanen hebben uit koraalafzettingen op het Caribische eiland Barbados echter afgeleid dat de op een na laatste ijstijd al afgelopen was - Termination II - voordat de hoeveelheid zonnewarmte op aarde haar piek bereikte . 	VERB	22
+Vws2-fragment01 8191	1	De Amerikanen hebben uit koraalafzettingen op het Caribische eiland Barbados echter afgeleid dat de op een na laatste ijstijd al afgelopen was - Termination II - voordat de hoeveelheid zonnewarmte op aarde haar piek bereikte . 	VERB	35
+Vws2-fragment01 8192	0	Uit dateringen van het koraal bleek namelijk dat de zeespiegel 135 duizend jaar geleden al zeer sterk gestegen was , tienduizend jaar voor het zonnemaximum . 	VERB	6
+Vws2-fragment01 8193	0	Uit dateringen van het koraal bleek namelijk dat de zeespiegel 135 duizend jaar geleden al zeer sterk gestegen was , tienduizend jaar voor het zonnemaximum . 	VERB	18
+Vws2-fragment01 8194	0	Uit dateringen van het koraal bleek namelijk dat de zeespiegel 135 duizend jaar geleden al zeer sterk gestegen was , tienduizend jaar voor het zonnemaximum . 	VERB	19
+Vws2-fragment01 8195	0	Het is de eerste keer dat Termination II rechtsreeks aan de hand van dergelijke afzettingen wordt gedateerd . 	VERB	2
+Vws2-fragment01 8196	0	Het is de eerste keer dat Termination II rechtsreeks aan de hand van dergelijke afzettingen wordt gedateerd . 	VERB	16
+Vws2-fragment01 8197	0	Het is de eerste keer dat Termination II rechtsreeks aan de hand van dergelijke afzettingen wordt gedateerd . 	VERB	17
+Vws2-fragment01 8198	1	De metingen bevestigen eerdere , indirecte reconstructies van het zeespiegelniveau . 	VERB	3
+Vws2-fragment01 8199	1	Die leidden vorig jaar ook al tot vraagtekens bij de theorie van Milankovitch . 	VERB	2
+Vws2-fragment01 8200	1	Alternatieve verklaringen voor ijstijden en andere klimaatschommelingen gaan uit van minder allesomvattende mechanismen . 	VERB	8
+Vws2-fragment01 8201	0	Zo kunnen minieme factoren een reeks abnormale pieken tijdens de laatste glaciale periode veroorzaakt hebben . 	VERB	2
+Vws2-fragment01 8202	0	Zo kunnen minieme factoren een reeks abnormale pieken tijdens de laatste glaciale periode veroorzaakt hebben . 	VERB	14
+Vws2-fragment01 8203	0	Zo kunnen minieme factoren een reeks abnormale pieken tijdens de laatste glaciale periode veroorzaakt hebben . 	VERB	15
+Vws2-fragment01 8204	0	Dat hebben onderzoekers van het Institute for Climate Impact Research in Potsdam met modellen aangetoond . 	VERB	2
+Vws2-fragment01 8205	0	Dat hebben onderzoekers van het Institute for Climate Impact Research in Potsdam met modellen aangetoond . 	VERB	15
+Vws2-fragment01 8206	1	In een artikel in Physical Review Letters ( 21 januari ) beschrijven zij hoe kleine verstoringen in het zoutgehalte van de Noord-Atlantische Oceaan de zogeheten Dansgaard-Oeschger oscillaties kunnen hebben veroorzaakt . 	VERB	12
+Vws2-fragment01 8207	0	In een artikel in Physical Review Letters ( 21 januari ) beschrijven zij hoe kleine verstoringen in het zoutgehalte van de Noord-Atlantische Oceaan de zogeheten Dansgaard-Oeschger oscillaties kunnen hebben veroorzaakt . 	VERB	28
+Vws2-fragment01 8208	0	In een artikel in Physical Review Letters ( 21 januari ) beschrijven zij hoe kleine verstoringen in het zoutgehalte van de Noord-Atlantische Oceaan de zogeheten Dansgaard-Oeschger oscillaties kunnen hebben veroorzaakt . 	VERB	29
+Vws2-fragment01 8209	0	In een artikel in Physical Review Letters ( 21 januari ) beschrijven zij hoe kleine verstoringen in het zoutgehalte van de Noord-Atlantische Oceaan de zogeheten Dansgaard-Oeschger oscillaties kunnen hebben veroorzaakt . 	VERB	30
+Vws2-fragment01 8210	0	Dat waren twintig onregelmatig terugkerende , warme perioden die tussen de tachtigduizend en tienduizend jaar geleden plaastvonden . 	VERB	2
+Vws2-fragment01 8211	1	Dat waren twintig onregelmatig terugkerende , warme perioden die tussen de tachtigduizend en tienduizend jaar geleden plaastvonden . 	VERB	5
+Vws2-fragment01 8212	0	Dat waren twintig onregelmatig terugkerende , warme perioden die tussen de tachtigduizend en tienduizend jaar geleden plaastvonden . 	VERB	17
+Vws2-fragment01 8213	1	Doordat in hun model de periodieke verstoring nauwelijks boven de ruis uitkomt , is het gevolg niet meer periodiek en min of meer toevallig . 	VERB	12
+Vws2-fragment01 8214	0	Doordat in hun model de periodieke verstoring nauwelijks boven de ruis uitkomt , is het gevolg niet meer periodiek en min of meer toevallig . 	VERB	14
+Vws2-fragment01 8215	0	Dergelijke ' stochastische resonantie ' zou ook achter andere grote omslagen , zoals het einde van ijstijden kunnen zitten , stellen de onderzoekers . 	VERB	6
+Vws2-fragment01 8216	0	Dergelijke ' stochastische resonantie ' zou ook achter andere grote omslagen , zoals het einde van ijstijden kunnen zitten , stellen de onderzoekers . 	VERB	18
+Vws2-fragment01 8217	1	Dergelijke ' stochastische resonantie ' zou ook achter andere grote omslagen , zoals het einde van ijstijden kunnen zitten , stellen de onderzoekers . 	VERB	19
+Vws2-fragment01 8218	1	Dergelijke ' stochastische resonantie ' zou ook achter andere grote omslagen , zoals het einde van ijstijden kunnen zitten , stellen de onderzoekers . 	VERB	21
+Vws2-fragment01 8219	1	Daarbij tekenen ze aan dat het huidige tijdperk volgens hun model stabieler is dan het verleden , en dus minder gevoelig voor het verschijnsel . 	VERB	2
+Vws2-fragment01 8220	0	Daarbij tekenen ze aan dat het huidige tijdperk volgens hun model stabieler is dan het verleden , en dus minder gevoelig voor het verschijnsel . 	VERB	13
+Vws2-fragment01 8221	0	Toevallige variaties in het zoutgehalte van de noordelijke Atlantische oceaan kunnen de zeestromingen zo verleggen dat een omslag optreedt . 	VERB	11
+Vws2-fragment01 8222	1	Toevallige variaties in het zoutgehalte van de noordelijke Atlantische oceaan kunnen de zeestromingen zo verleggen dat een omslag optreedt . 	VERB	15
+Vws2-fragment01 8223	1	Toevallige variaties in het zoutgehalte van de noordelijke Atlantische oceaan kunnen de zeestromingen zo verleggen dat een omslag optreedt . 	VERB	19
